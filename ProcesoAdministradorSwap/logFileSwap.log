@@ -1,0 +1,5552 @@
+[INFO] 12:29:01:738 funcionesSwap.c/(2855:2855): Se inicia el Proceso Administrador Swap 
+
+[INFO] 12:29:38:450 funcionesSwap.c/(2893:2893): Se inicia el Proceso Administrador Swap 
+
+[INFO] 15:07:31:729 funcionesSwap.c/(6112:6112): Se inicia el Proceso Administrador Swap 
+
+[INFO] 15:09:14:898 funcionesSwap.c/(6112:6112): Se asigna el proceso:
+ n° de pid: 1
+, byte inicial: 0
+, byte final: 90
+
+
+[INFO] 15:09:25:900 funcionesSwap.c/(6112:6112): Se lee el proceso... 
+
+[INFO] 15:09:25:900 funcionesSwap.c/(6112:6112): 
+ n° de PID: 1 
+
+[INFO] 15:09:34:902 funcionesSwap.c/(6112:6112): Se lee el proceso... 
+
+[INFO] 15:09:34:902 funcionesSwap.c/(6112:6112): 
+ n° de PID: 1 
+
+[INFO] 15:09:43:904 funcionesSwap.c/(6112:6112): Se lee el proceso... 
+
+[INFO] 15:09:43:904 funcionesSwap.c/(6112:6112): 
+ n° de PID: 1 
+
+[INFO] 15:13:31:569 funcionesSwap.c/(6279:6279): Se inicia el Proceso Administrador Swap 
+
+[INFO] 15:14:36:619 funcionesSwap.c/(6279:6279): Se asigna el proceso:
+ n° de pid: 1
+, byte inicial: 0
+, byte final: 90
+
+
+[INFO] 15:14:47:621 funcionesSwap.c/(6279:6279): Se lee el proceso... 
+
+[INFO] 15:14:47:621 funcionesSwap.c/(6279:6279): 
+ n° de PID: 1 
+
+[INFO] 15:14:56:624 funcionesSwap.c/(6279:6279): Se lee el proceso... 
+
+[INFO] 15:14:56:624 funcionesSwap.c/(6279:6279): 
+ n° de PID: 1 
+
+[INFO] 15:15:05:626 funcionesSwap.c/(6279:6279): Se lee el proceso... 
+
+[INFO] 15:15:05:626 funcionesSwap.c/(6279:6279): 
+ n° de PID: 1 
+
+[INFO] 15:16:33:101 funcionesSwap.c/(6356:6356): Se inicia el Proceso Administrador Swap 
+
+[INFO] 15:17:24:594 funcionesSwap.c/(6356:6356): Se asigna el proceso:
+ n° de pid: 1
+, byte inicial: 0
+, byte final: 90
+
+
+[INFO] 15:17:35:596 funcionesSwap.c/(6356:6356): Se lee el proceso... 
+
+[INFO] 15:17:35:597 funcionesSwap.c/(6356:6356): 
+ n° de PID: 1 
+
+[INFO] 15:17:44:599 funcionesSwap.c/(6356:6356): Se lee el proceso... 
+
+[INFO] 15:17:44:599 funcionesSwap.c/(6356:6356): 
+ n° de PID: 1 
+
+[INFO] 15:17:53:602 funcionesSwap.c/(6356:6356): Se lee el proceso... 
+
+[INFO] 15:17:53:602 funcionesSwap.c/(6356:6356): 
+ n° de PID: 1 
+
+[INFO] 15:22:42:706 funcionesSwap.c/(6497:6497): Se inicia el Proceso Administrador Swap 
+
+[INFO] 15:22:55:968 funcionesSwap.c/(6497:6497): Se asigna el proceso:
+ n° de pid: 1
+, byte inicial: 0
+, byte final: 90
+
+
+[INFO] 15:23:06:970 funcionesSwap.c/(6497:6497): Se lee el proceso... 
+
+[INFO] 15:23:06:971 funcionesSwap.c/(6497:6497): 
+ n° de PID: 1 
+
+[INFO] 15:23:15:973 funcionesSwap.c/(6497:6497): Se lee el proceso... 
+
+[INFO] 15:23:15:973 funcionesSwap.c/(6497:6497): 
+ n° de PID: 1 
+
+[INFO] 15:23:24:975 funcionesSwap.c/(6497:6497): Se lee el proceso... 
+
+[INFO] 15:23:24:975 funcionesSwap.c/(6497:6497): 
+ n° de PID: 1 
+
+[INFO] 15:24:46:876 funcionesSwap.c/(6554:6554): Se inicia el Proceso Administrador Swap 
+
+[INFO] 15:24:55:8 funcionesSwap.c/(6554:6554): Se asigna el proceso:
+ n° de pid: 1
+, byte inicial: 0
+, byte final: 90
+
+
+[INFO] 15:25:06:10 funcionesSwap.c/(6554:6554): Se lee el proceso... 
+
+[INFO] 15:25:06:10 funcionesSwap.c/(6554:6554): 
+ n° de PID: 1 
+
+[INFO] 15:25:15:12 funcionesSwap.c/(6554:6554): Se lee el proceso... 
+
+[INFO] 15:25:15:12 funcionesSwap.c/(6554:6554): 
+ n° de PID: 1 
+
+[INFO] 15:25:24:14 funcionesSwap.c/(6554:6554): Se lee el proceso... 
+
+[INFO] 15:25:24:14 funcionesSwap.c/(6554:6554): 
+ n° de PID: 1 
+
+[INFO] 15:28:11:245 funcionesSwap.c/(6583:6583): Se inicia el Proceso Administrador Swap 
+
+[INFO] 15:28:20:308 funcionesSwap.c/(6583:6583): Se asigna el proceso:
+ n° de pid: 1
+, byte inicial: 0
+, byte final: 90
+
+
+[INFO] 15:28:31:310 funcionesSwap.c/(6583:6583): Se lee el proceso... 
+
+[INFO] 15:28:31:310 funcionesSwap.c/(6583:6583): 
+ n° de PID: 1 
+
+[INFO] 15:28:40:312 funcionesSwap.c/(6583:6583): Se lee el proceso... 
+
+[INFO] 15:28:40:312 funcionesSwap.c/(6583:6583): 
+ n° de PID: 1 
+
+[INFO] 15:28:49:314 funcionesSwap.c/(6583:6583): Se lee el proceso... 
+
+[INFO] 15:28:49:314 funcionesSwap.c/(6583:6583): 
+ n° de PID: 1 
+
+[INFO] 15:32:03:790 funcionesSwap.c/(6654:6654): Se inicia el Proceso Administrador Swap 
+
+[INFO] 15:32:11:797 funcionesSwap.c/(6654:6654): Se asigna el proceso:
+ n° de pid: 1
+, byte inicial: 0
+, byte final: 90
+
+
+[INFO] 15:32:22:799 funcionesSwap.c/(6654:6654): Se lee el proceso... 
+
+[INFO] 15:32:22:799 funcionesSwap.c/(6654:6654): 
+ n° de PID: 1 
+
+[INFO] 15:32:31:802 funcionesSwap.c/(6654:6654): Se lee el proceso... 
+
+[INFO] 15:32:31:802 funcionesSwap.c/(6654:6654): 
+ n° de PID: 1 
+
+[INFO] 15:32:40:804 funcionesSwap.c/(6654:6654): Se lee el proceso... 
+
+[INFO] 15:32:40:804 funcionesSwap.c/(6654:6654): 
+ n° de PID: 1 
+
+[INFO] 15:37:01:134 funcionesSwap.c/(6757:6757): Se inicia el Proceso Administrador Swap 
+
+[INFO] 15:37:17:499 funcionesSwap.c/(6757:6757): Se asigna el proceso:
+ n° de pid: 1
+, byte inicial: 0
+, byte final: 90
+
+
+[INFO] 15:37:28:501 funcionesSwap.c/(6757:6757): Se lee el proceso... 
+
+[INFO] 15:37:28:501 funcionesSwap.c/(6757:6757): 
+ n° de PID: 1 
+
+[INFO] 15:37:37:502 funcionesSwap.c/(6757:6757): Se lee el proceso... 
+
+[INFO] 15:37:37:502 funcionesSwap.c/(6757:6757): 
+ n° de PID: 1 
+
+[INFO] 15:37:46:504 funcionesSwap.c/(6757:6757): Se lee el proceso... 
+
+[INFO] 15:37:46:504 funcionesSwap.c/(6757:6757): 
+ n° de PID: 1 
+
+[INFO] 15:39:11:712 funcionesSwap.c/(6799:6799): Se inicia el Proceso Administrador Swap 
+
+[INFO] 15:39:23:274 funcionesSwap.c/(6799:6799): Se asigna el proceso:
+ n° de pid: 1
+, byte inicial: 0
+, byte final: 90
+
+
+[INFO] 15:39:34:276 funcionesSwap.c/(6799:6799): Se lee el proceso... 
+
+[INFO] 15:39:34:276 funcionesSwap.c/(6799:6799): 
+ n° de PID: 1 
+
+[INFO] 15:39:43:278 funcionesSwap.c/(6799:6799): Se lee el proceso... 
+
+[INFO] 15:39:43:279 funcionesSwap.c/(6799:6799): 
+ n° de PID: 1 
+
+[INFO] 15:39:52:281 funcionesSwap.c/(6799:6799): Se lee el proceso... 
+
+[INFO] 15:39:52:281 funcionesSwap.c/(6799:6799): 
+ n° de PID: 1 
+
+[INFO] 15:42:31:769 funcionesSwap.c/(6884:6884): Se inicia el Proceso Administrador Swap 
+
+[INFO] 15:42:40:113 funcionesSwap.c/(6884:6884): Se asigna el proceso:
+ n° de pid: 1
+, byte inicial: 0
+, byte final: 90
+
+
+[INFO] 15:42:51:115 funcionesSwap.c/(6884:6884): Se lee el proceso... 
+
+[INFO] 15:42:51:115 funcionesSwap.c/(6884:6884): 
+ n° de PID: 1 
+
+[INFO] 15:43:00:117 funcionesSwap.c/(6884:6884): Se lee el proceso... 
+
+[INFO] 15:43:00:117 funcionesSwap.c/(6884:6884): 
+ n° de PID: 1 
+
+[INFO] 15:43:09:118 funcionesSwap.c/(6884:6884): Se lee el proceso... 
+
+[INFO] 15:43:09:118 funcionesSwap.c/(6884:6884): 
+ n° de PID: 1 
+
+[INFO] 15:45:04:984 funcionesSwap.c/(6916:6916): Se inicia el Proceso Administrador Swap 
+
+[INFO] 15:45:18:538 funcionesSwap.c/(6916:6916): Se asigna el proceso:
+ n° de pid: 1
+, byte inicial: 0
+, byte final: 90
+
+
+[INFO] 15:45:29:540 funcionesSwap.c/(6916:6916): Se lee el proceso... 
+
+[INFO] 15:45:29:540 funcionesSwap.c/(6916:6916): 
+ n° de PID: 1 
+
+[INFO] 15:45:38:543 funcionesSwap.c/(6916:6916): Se lee el proceso... 
+
+[INFO] 15:45:38:543 funcionesSwap.c/(6916:6916): 
+ n° de PID: 1 
+
+[INFO] 15:45:47:545 funcionesSwap.c/(6916:6916): Se lee el proceso... 
+
+[INFO] 15:45:47:545 funcionesSwap.c/(6916:6916): 
+ n° de PID: 1 
+
+[INFO] 15:48:16:537 funcionesSwap.c/(6992:6992): Se inicia el Proceso Administrador Swap 
+
+[INFO] 15:48:30:858 funcionesSwap.c/(6992:6992): Se asigna el proceso:
+ n° de pid: 1
+, byte inicial: 0
+, byte final: 90
+
+
+[INFO] 15:48:41:863 funcionesSwap.c/(6992:6992): Se lee el proceso... 
+
+[INFO] 15:48:41:863 funcionesSwap.c/(6992:6992): 
+ n° de PID: 1 
+
+[INFO] 15:48:50:865 funcionesSwap.c/(6992:6992): Se lee el proceso... 
+
+[INFO] 15:48:50:865 funcionesSwap.c/(6992:6992): 
+ n° de PID: 1 
+
+[INFO] 15:48:59:867 funcionesSwap.c/(6992:6992): Se lee el proceso... 
+
+[INFO] 15:48:59:867 funcionesSwap.c/(6992:6992): 
+ n° de PID: 1 
+
+[INFO] 15:50:55:814 funcionesSwap.c/(7076:7076): Se inicia el Proceso Administrador Swap 
+
+[INFO] 15:51:21:194 funcionesSwap.c/(7076:7076): Se asigna el proceso:
+ n° de pid: 1
+, byte inicial: 0
+, byte final: 90
+
+
+[INFO] 15:51:32:196 funcionesSwap.c/(7076:7076): Se lee el proceso... 
+
+[INFO] 15:51:32:196 funcionesSwap.c/(7076:7076): 
+ n° de PID: 1 
+
+[INFO] 15:51:41:198 funcionesSwap.c/(7076:7076): Se lee el proceso... 
+
+[INFO] 15:51:41:198 funcionesSwap.c/(7076:7076): 
+ n° de PID: 1 
+
+[INFO] 15:51:50:200 funcionesSwap.c/(7076:7076): Se lee el proceso... 
+
+[INFO] 15:51:50:200 funcionesSwap.c/(7076:7076): 
+ n° de PID: 1 
+
+[INFO] 15:53:05:356 funcionesSwap.c/(7146:7146): Se inicia el Proceso Administrador Swap 
+
+[INFO] 15:53:37:348 funcionesSwap.c/(7146:7146): Se asigna el proceso:
+ n° de pid: 1
+, byte inicial: 0
+, byte final: 150
+
+
+[INFO] 15:53:48:350 funcionesSwap.c/(7146:7146): Se lee el proceso... 
+
+[INFO] 15:53:48:350 funcionesSwap.c/(7146:7146): 
+ n° de PID: 1 
+
+[INFO] 15:53:57:352 funcionesSwap.c/(7146:7146): Se lee el proceso... 
+
+[INFO] 15:53:57:352 funcionesSwap.c/(7146:7146): 
+ n° de PID: 1 
+
+[INFO] 15:54:06:355 funcionesSwap.c/(7146:7146): Se lee el proceso... 
+
+[INFO] 15:54:06:355 funcionesSwap.c/(7146:7146): 
+ n° de PID: 1 
+
+[INFO] 15:54:15:357 funcionesSwap.c/(7146:7146): Se lee el proceso... 
+
+[INFO] 15:54:15:357 funcionesSwap.c/(7146:7146): 
+ n° de PID: 1 
+
+[INFO] 15:54:24:359 funcionesSwap.c/(7146:7146): Se lee el proceso... 
+
+[INFO] 15:54:24:359 funcionesSwap.c/(7146:7146): 
+ n° de PID: 1 
+
+[INFO] 15:59:26:328 funcionesSwap.c/(2337:2337): Se inicia el Proceso Administrador Swap 
+
+[INFO] 15:59:48:126 funcionesSwap.c/(2337:2337): Se asigna el proceso:
+ n° de pid: 1
+, byte inicial: 0
+, byte final: 150
+
+
+[INFO] 15:59:59:127 funcionesSwap.c/(2337:2337): Se lee el proceso... 
+
+[INFO] 15:59:59:127 funcionesSwap.c/(2337:2337): 
+ n° de PID: 1 
+
+[INFO] 16:00:08:130 funcionesSwap.c/(2337:2337): Se lee el proceso... 
+
+[INFO] 16:00:08:130 funcionesSwap.c/(2337:2337): 
+ n° de PID: 1 
+
+[INFO] 16:00:17:132 funcionesSwap.c/(2337:2337): Se lee el proceso... 
+
+[INFO] 16:00:17:132 funcionesSwap.c/(2337:2337): 
+ n° de PID: 1 
+
+[INFO] 16:00:26:134 funcionesSwap.c/(2337:2337): Se lee el proceso... 
+
+[INFO] 16:00:26:134 funcionesSwap.c/(2337:2337): 
+ n° de PID: 1 
+
+[INFO] 16:00:35:136 funcionesSwap.c/(2337:2337): Se lee el proceso... 
+
+[INFO] 16:00:35:136 funcionesSwap.c/(2337:2337): 
+ n° de PID: 1 
+
+[INFO] 11:30:35:64 funcionesSwap.c/(2614:2614): 
+             __^__                                      __^__
+            ( ___ )------------------------------------( ___ )   
+             | / |                                      | / |  
+             | / |      Bienvenidos al proceso Swap     | / |   
+             |___|                                      |___| 
+            (_____)------------------------------------(_____)
+
+[INFO] 11:31:30:45 funcionesSwap.c/(2614:2614): 
+Se ASIGNA el proceso:
+ n° de pid: 1
+ byte inicial: 0
+ byte final: 10
+
+
+[INFO] 11:31:36:256 funcionesSwap.c/(2614:2614): 
+Se ASIGNA el proceso:
+ n° de pid: 2
+ byte inicial: 10
+ byte final: 20
+
+
+[INFO] 11:31:42:468 funcionesSwap.c/(2614:2614): 
+Se ASIGNA el proceso:
+ n° de pid: 3
+ byte inicial: 20
+ byte final: 30
+
+
+[INFO] 11:31:48:680 funcionesSwap.c/(2614:2614): 
+Se ASIGNA el proceso:
+ n° de pid: 4
+ byte inicial: 30
+ byte final: 40
+
+
+[INFO] 11:32:06:879 funcionesSwap.c/(2696:2696): 
+             __^__                                      __^__
+            ( ___ )------------------------------------( ___ )   
+             | / |                                      | / |  
+             | / |      Bienvenidos al proceso Swap     | / |   
+             |___|                                      |___| 
+            (_____)------------------------------------(_____)
+
+[INFO] 11:32:15:187 funcionesSwap.c/(2696:2696): 
+Se ASIGNA el proceso:
+ n° de pid: 1
+ byte inicial: 0
+ byte final: 10
+
+
+[INFO] 11:32:18:393 funcionesSwap.c/(2696:2696): 
+Se ASIGNA el proceso:
+ n° de pid: 2
+ byte inicial: 10
+ byte final: 20
+
+
+[INFO] 11:32:21:599 funcionesSwap.c/(2696:2696): 
+Se ASIGNA el proceso:
+ n° de pid: 3
+ byte inicial: 20
+ byte final: 30
+
+
+[INFO] 11:32:24:805 funcionesSwap.c/(2696:2696): 
+Se ASIGNA el proceso:
+ n° de pid: 4
+ byte inicial: 30
+ byte final: 40
+
+
+[INFO] 11:32:28:11 funcionesSwap.c/(2696:2696): 
+Se ASIGNA el proceso:
+ n° de pid: 5
+ byte inicial: 40
+ byte final: 50
+
+
+[INFO] 11:32:31:218 funcionesSwap.c/(2696:2696): 
+Se ASIGNA el proceso:
+ n° de pid: 6
+ byte inicial: 50
+ byte final: 150
+
+
+[INFO] 11:32:35:25 funcionesSwap.c/(2696:2696): 
+Se ASIGNA el proceso:
+ n° de pid: 7
+ byte inicial: 150
+ byte final: 250
+
+
+[INFO] 11:32:38:834 funcionesSwap.c/(2696:2696): 
+Se ASIGNA el proceso:
+ n° de pid: 8
+ byte inicial: 250
+ byte final: 260
+
+
+[INFO] 11:32:42:40 funcionesSwap.c/(2696:2696): 
+Se ASIGNA el proceso:
+ n° de pid: 9
+ byte inicial: 260
+ byte final: 270
+
+
+[INFO] 11:32:45:247 funcionesSwap.c/(2696:2696): 
+Se ASIGNA el proceso:
+ n° de pid: 10
+ byte inicial: 270
+ byte final: 370
+
+
+[INFO] 11:32:49:54 funcionesSwap.c/(2696:2696): 
+Se ASIGNA el proceso:
+ n° de pid: 11
+ byte inicial: 370
+ byte final: 470
+
+
+[INFO] 11:32:52:862 funcionesSwap.c/(2696:2696): 
+Se ASIGNA el proceso:
+ n° de pid: 12
+ byte inicial: 470
+ byte final: 570
+
+
+[INFO] 11:32:56:668 funcionesSwap.c/(2696:2696): 
+Se ASIGNA el proceso:
+ n° de pid: 13
+ byte inicial: 570
+ byte final: 670
+
+
+[INFO] 11:33:00:475 funcionesSwap.c/(2696:2696): 
+Se ASIGNA el proceso:
+ n° de pid: 14
+ byte inicial: 670
+ byte final: 770
+
+
+[INFO] 11:34:41:441 funcionesSwap.c/(2696:2696): 
+Se ESCRIBE el proceso... 
+ n° de PID: 14 
+ n° de byte inicial: 670 
+ n° de byte final: 674 
+ contenido: IO B 
+ 
+[INFO] 11:35:38:940 funcionesSwap.c/(2696:2696): 
+Se LEE el proceso... 
+ n° de PID: 14 
+ n° de byte inicial: 670 
+ n° de byte final: 674 
+ contenido: IO B
+
+[INFO] 11:35:40:142 funcionesSwap.c/(2696:2696): 
+Se ESCRIBE el proceso... 
+ n° de PID: 14 
+ n° de byte inicial: 680 
+ n° de byte final: 684 
+ contenido: IO B 
+ 
+[INFO] 11:36:55:469 funcionesSwap.c/(2696:2696): 
+Se LIBERA el proceso...
+ n° de PID: 6 
+ n° de byte inicial: 50 
+ n° de byte final: 150 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 11:37:00:878 funcionesSwap.c/(2696:2696): 
+Se LEE el proceso... 
+ n° de PID: 14 
+ n° de byte inicial: 680 
+ n° de byte final: 684 
+ contenido: IO B
+
+[INFO] 11:37:05:889 funcionesSwap.c/(2696:2696): 
+Se LIBERA el proceso...
+ n° de PID: 7 
+ n° de byte inicial: 150 
+ n° de byte final: 250 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 11:37:08:494 funcionesSwap.c/(2696:2696): 
+Se LIBERA el proceso...
+ n° de PID: 1 
+ n° de byte inicial: 0 
+ n° de byte final: 10 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 11:37:10:96 funcionesSwap.c/(2696:2696): 
+Se LIBERA el proceso...
+ n° de PID: 2 
+ n° de byte inicial: 10 
+ n° de byte final: 20 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 11:37:11:699 funcionesSwap.c/(2696:2696): 
+Se LIBERA el proceso...
+ n° de PID: 3 
+ n° de byte inicial: 20 
+ n° de byte final: 30 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 11:37:12:302 funcionesSwap.c/(2696:2696): 
+Se LIBERA el proceso...
+ n° de PID: 10 
+ n° de byte inicial: 270 
+ n° de byte final: 370 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 11:37:13:904 funcionesSwap.c/(2696:2696): 
+Se LIBERA el proceso...
+ n° de PID: 4 
+ n° de byte inicial: 30 
+ n° de byte final: 40 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 11:37:17:110 funcionesSwap.c/(2696:2696): 
+Se LIBERA el proceso...
+ n° de PID: 5 
+ n° de byte inicial: 40 
+ n° de byte final: 50 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 11:37:18:712 funcionesSwap.c/(2696:2696): 
+Se LIBERA el proceso...
+ n° de PID: 8 
+ n° de byte inicial: 250 
+ n° de byte final: 260 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 11:37:19:314 funcionesSwap.c/(2696:2696): 
+Se LIBERA el proceso...
+ n° de PID: 11 
+ n° de byte inicial: 370 
+ n° de byte final: 470 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 11:37:20:917 funcionesSwap.c/(2696:2696): 
+Se LIBERA el proceso...
+ n° de PID: 9 
+ n° de byte inicial: 260 
+ n° de byte final: 270 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 11:37:21:519 funcionesSwap.c/(2696:2696): 
+Se LIBERA el proceso...
+ n° de PID: 12 
+ n° de byte inicial: 470 
+ n° de byte final: 570 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 11:37:22:121 funcionesSwap.c/(2696:2696): 
+Se LIBERA el proceso...
+ n° de PID: 13 
+ n° de byte inicial: 570 
+ n° de byte final: 670 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 11:37:26:110 funcionesSwap.c/(2696:2696): 
+Se LIBERA el proceso...
+ n° de PID: 14 
+ n° de byte inicial: 670 
+ n° de byte final: 770 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 2
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 4
+
+[INFO] 11:38:37:839 funcionesSwap.c/(2791:2791): 
+             __^__                                      __^__
+            ( ___ )------------------------------------( ___ )   
+             | / |                                      | / |  
+             | / |      Bienvenidos al proceso Swap     | / |   
+             |___|                                      |___| 
+            (_____)------------------------------------(_____)
+
+[INFO] 11:38:52:557 funcionesSwap.c/(2791:2791): 
+Se ASIGNA el proceso:
+ n° de pid: 1
+ byte inicial: 0
+ byte final: 10
+
+
+[INFO] 11:38:54:762 funcionesSwap.c/(2791:2791): 
+Se ASIGNA el proceso:
+ n° de pid: 2
+ byte inicial: 10
+ byte final: 20
+
+
+[INFO] 11:38:56:967 funcionesSwap.c/(2791:2791): 
+Se ASIGNA el proceso:
+ n° de pid: 3
+ byte inicial: 20
+ byte final: 30
+
+
+[INFO] 11:38:59:173 funcionesSwap.c/(2791:2791): 
+Se ASIGNA el proceso:
+ n° de pid: 4
+ byte inicial: 30
+ byte final: 40
+
+
+[INFO] 11:39:01:380 funcionesSwap.c/(2791:2791): 
+Se ASIGNA el proceso:
+ n° de pid: 5
+ byte inicial: 40
+ byte final: 50
+
+
+[INFO] 11:39:03:586 funcionesSwap.c/(2791:2791): 
+Se ASIGNA el proceso:
+ n° de pid: 6
+ byte inicial: 50
+ byte final: 150
+
+
+[INFO] 11:39:06:393 funcionesSwap.c/(2791:2791): 
+Se ASIGNA el proceso:
+ n° de pid: 7
+ byte inicial: 150
+ byte final: 250
+
+
+[INFO] 11:39:09:201 funcionesSwap.c/(2791:2791): 
+Se ASIGNA el proceso:
+ n° de pid: 8
+ byte inicial: 250
+ byte final: 260
+
+
+[INFO] 11:39:11:408 funcionesSwap.c/(2791:2791): 
+Se ASIGNA el proceso:
+ n° de pid: 9
+ byte inicial: 260
+ byte final: 270
+
+
+[INFO] 11:39:13:614 funcionesSwap.c/(2791:2791): 
+Se ASIGNA el proceso:
+ n° de pid: 10
+ byte inicial: 270
+ byte final: 370
+
+
+[INFO] 11:39:16:421 funcionesSwap.c/(2791:2791): 
+Se ASIGNA el proceso:
+ n° de pid: 11
+ byte inicial: 370
+ byte final: 470
+
+
+[INFO] 11:39:19:228 funcionesSwap.c/(2791:2791): 
+Se ASIGNA el proceso:
+ n° de pid: 12
+ byte inicial: 470
+ byte final: 570
+
+
+[INFO] 11:39:22:36 funcionesSwap.c/(2791:2791): 
+Se ASIGNA el proceso:
+ n° de pid: 13
+ byte inicial: 570
+ byte final: 670
+
+
+[INFO] 11:39:24:842 funcionesSwap.c/(2791:2791): 
+Se ASIGNA el proceso:
+ n° de pid: 14
+ byte inicial: 670
+ byte final: 770
+
+
+[INFO] 11:40:45:827 funcionesSwap.c/(2791:2791): 
+Se ESCRIBE el proceso... 
+ n° de PID: 14 
+ n° de byte inicial: 670 
+ n° de byte final: 674 
+ contenido: IO B 
+ 
+[INFO] 11:41:33:737 funcionesSwap.c/(2791:2791): 
+Se LEE el proceso... 
+ n° de PID: 14 
+ n° de byte inicial: 670 
+ n° de byte final: 674 
+ contenido: IO B
+
+[INFO] 11:41:34:339 funcionesSwap.c/(2791:2791): 
+Se ESCRIBE el proceso... 
+ n° de PID: 14 
+ n° de byte inicial: 680 
+ n° de byte final: 684 
+ contenido: IO B 
+ 
+[INFO] 11:42:05:229 funcionesSwap.c/(2791:2791): 
+Se LIBERA el proceso...
+ n° de PID: 1 
+ n° de byte inicial: 0 
+ n° de byte final: 10 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 11:42:07:33 funcionesSwap.c/(2791:2791): 
+Se LIBERA el proceso...
+ n° de PID: 2 
+ n° de byte inicial: 10 
+ n° de byte final: 20 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 11:42:08:836 funcionesSwap.c/(2791:2791): 
+Se LIBERA el proceso...
+ n° de PID: 3 
+ n° de byte inicial: 20 
+ n° de byte final: 30 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 11:42:10:639 funcionesSwap.c/(2791:2791): 
+Se LIBERA el proceso...
+ n° de PID: 4 
+ n° de byte inicial: 30 
+ n° de byte final: 40 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 11:42:15:53 funcionesSwap.c/(2791:2791): 
+Se LIBERA el proceso...
+ n° de PID: 5 
+ n° de byte inicial: 40 
+ n° de byte final: 50 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 11:42:16:857 funcionesSwap.c/(2791:2791): 
+Se LIBERA el proceso...
+ n° de PID: 8 
+ n° de byte inicial: 250 
+ n° de byte final: 260 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 11:42:18:660 funcionesSwap.c/(2791:2791): 
+Se LIBERA el proceso...
+ n° de PID: 9 
+ n° de byte inicial: 260 
+ n° de byte final: 270 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 11:42:31:685 funcionesSwap.c/(2791:2791): 
+Se LEE el proceso... 
+ n° de PID: 14 
+ n° de byte inicial: 680 
+ n° de byte final: 684 
+ contenido: IO B
+
+[INFO] 11:42:35:658 funcionesSwap.c/(2791:2791): 
+Se LIBERA el proceso...
+ n° de PID: 6 
+ n° de byte inicial: 50 
+ n° de byte final: 150 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 11:42:40:658 funcionesSwap.c/(2791:2791): 
+Se LIBERA el proceso...
+ n° de PID: 7 
+ n° de byte inicial: 150 
+ n° de byte final: 250 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 11:42:45:659 funcionesSwap.c/(2791:2791): 
+Se LIBERA el proceso...
+ n° de PID: 10 
+ n° de byte inicial: 270 
+ n° de byte final: 370 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 11:42:50:659 funcionesSwap.c/(2791:2791): 
+Se LIBERA el proceso...
+ n° de PID: 11 
+ n° de byte inicial: 370 
+ n° de byte final: 470 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 11:42:55:660 funcionesSwap.c/(2791:2791): 
+Se LIBERA el proceso...
+ n° de PID: 12 
+ n° de byte inicial: 470 
+ n° de byte final: 570 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 11:43:00:660 funcionesSwap.c/(2791:2791): 
+Se LIBERA el proceso...
+ n° de PID: 13 
+ n° de byte inicial: 570 
+ n° de byte final: 670 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 11:43:05:661 funcionesSwap.c/(2791:2791): 
+Se LIBERA el proceso...
+ n° de PID: 14 
+ n° de byte inicial: 670 
+ n° de byte final: 770 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 2
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 4
+
+[INFO] 11:44:28:799 funcionesSwap.c/(2856:2856): 
+             __^__                                      __^__
+            ( ___ )------------------------------------( ___ )   
+             | / |                                      | / |  
+             | / |      Bienvenidos al proceso Swap     | / |   
+             |___|                                      |___| 
+            (_____)------------------------------------(_____)
+
+[INFO] 11:44:39:68 funcionesSwap.c/(2856:2856): 
+Se ASIGNA el proceso:
+ n° de pid: 1
+ byte inicial: 0
+ byte final: 10
+
+
+[INFO] 11:44:40:874 funcionesSwap.c/(2856:2856): 
+Se ASIGNA el proceso:
+ n° de pid: 2
+ byte inicial: 10
+ byte final: 20
+
+
+[INFO] 11:44:42:681 funcionesSwap.c/(2856:2856): 
+Se ASIGNA el proceso:
+ n° de pid: 3
+ byte inicial: 20
+ byte final: 30
+
+
+[INFO] 11:44:44:487 funcionesSwap.c/(2856:2856): 
+Se ASIGNA el proceso:
+ n° de pid: 4
+ byte inicial: 30
+ byte final: 40
+
+
+[INFO] 11:44:46:294 funcionesSwap.c/(2856:2856): 
+Se ASIGNA el proceso:
+ n° de pid: 5
+ byte inicial: 40
+ byte final: 50
+
+
+[INFO] 11:44:48:100 funcionesSwap.c/(2856:2856): 
+Se ASIGNA el proceso:
+ n° de pid: 6
+ byte inicial: 50
+ byte final: 150
+
+
+[INFO] 11:44:50:307 funcionesSwap.c/(2856:2856): 
+Se ASIGNA el proceso:
+ n° de pid: 7
+ byte inicial: 150
+ byte final: 250
+
+
+[INFO] 11:44:52:514 funcionesSwap.c/(2856:2856): 
+Se ASIGNA el proceso:
+ n° de pid: 8
+ byte inicial: 250
+ byte final: 260
+
+
+[INFO] 11:44:54:320 funcionesSwap.c/(2856:2856): 
+Se ASIGNA el proceso:
+ n° de pid: 9
+ byte inicial: 260
+ byte final: 270
+
+
+[INFO] 11:44:56:126 funcionesSwap.c/(2856:2856): 
+Se ASIGNA el proceso:
+ n° de pid: 10
+ byte inicial: 270
+ byte final: 370
+
+
+[INFO] 11:44:58:334 funcionesSwap.c/(2856:2856): 
+Se ASIGNA el proceso:
+ n° de pid: 11
+ byte inicial: 370
+ byte final: 470
+
+
+[INFO] 11:45:00:541 funcionesSwap.c/(2856:2856): 
+Se ASIGNA el proceso:
+ n° de pid: 12
+ byte inicial: 470
+ byte final: 570
+
+
+[INFO] 11:45:02:748 funcionesSwap.c/(2856:2856): 
+Se ASIGNA el proceso:
+ n° de pid: 13
+ byte inicial: 570
+ byte final: 670
+
+
+[INFO] 11:45:04:955 funcionesSwap.c/(2856:2856): 
+Se ASIGNA el proceso:
+ n° de pid: 14
+ byte inicial: 670
+ byte final: 770
+
+
+[INFO] 11:46:16:765 funcionesSwap.c/(2856:2856): 
+Se ESCRIBE el proceso... 
+ n° de PID: 14 
+ n° de byte inicial: 670 
+ n° de byte final: 674 
+ contenido: IO B 
+ 
+[INFO] 11:46:56:85 funcionesSwap.c/(2856:2856): 
+Se LIBERA el proceso...
+ n° de PID: 1 
+ n° de byte inicial: 0 
+ n° de byte final: 10 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 11:46:57:88 funcionesSwap.c/(2856:2856): 
+Se LIBERA el proceso...
+ n° de PID: 2 
+ n° de byte inicial: 10 
+ n° de byte final: 20 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 11:46:58:91 funcionesSwap.c/(2856:2856): 
+Se LIBERA el proceso...
+ n° de PID: 3 
+ n° de byte inicial: 20 
+ n° de byte final: 30 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 11:46:59:93 funcionesSwap.c/(2856:2856): 
+Se LIBERA el proceso...
+ n° de PID: 4 
+ n° de byte inicial: 30 
+ n° de byte final: 40 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 11:47:01:500 funcionesSwap.c/(2856:2856): 
+Se LIBERA el proceso...
+ n° de PID: 5 
+ n° de byte inicial: 40 
+ n° de byte final: 50 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 11:47:02:503 funcionesSwap.c/(2856:2856): 
+Se LIBERA el proceso...
+ n° de PID: 8 
+ n° de byte inicial: 250 
+ n° de byte final: 260 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 11:47:03:506 funcionesSwap.c/(2856:2856): 
+Se LIBERA el proceso...
+ n° de PID: 9 
+ n° de byte inicial: 260 
+ n° de byte final: 270 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 11:47:04:510 funcionesSwap.c/(2856:2856): 
+Se LEE el proceso... 
+ n° de PID: 14 
+ n° de byte inicial: 670 
+ n° de byte final: 674 
+ contenido: IO B
+
+[INFO] 11:47:46:910 funcionesSwap.c/(2856:2856): 
+Se LIBERA el proceso...
+ n° de PID: 6 
+ n° de byte inicial: 50 
+ n° de byte final: 150 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 11:47:56:911 funcionesSwap.c/(2856:2856): 
+Se LIBERA el proceso...
+ n° de PID: 7 
+ n° de byte inicial: 150 
+ n° de byte final: 250 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 11:48:01:911 funcionesSwap.c/(2856:2856): 
+Se LIBERA el proceso...
+ n° de PID: 10 
+ n° de byte inicial: 270 
+ n° de byte final: 370 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 11:48:06:911 funcionesSwap.c/(2856:2856): 
+Se LIBERA el proceso...
+ n° de PID: 11 
+ n° de byte inicial: 370 
+ n° de byte final: 470 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 11:48:11:912 funcionesSwap.c/(2856:2856): 
+Se LIBERA el proceso...
+ n° de PID: 12 
+ n° de byte inicial: 470 
+ n° de byte final: 570 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 11:48:16:913 funcionesSwap.c/(2856:2856): 
+Se LIBERA el proceso...
+ n° de PID: 13 
+ n° de byte inicial: 570 
+ n° de byte final: 670 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 11:48:21:913 funcionesSwap.c/(2856:2856): 
+Se LIBERA el proceso...
+ n° de PID: 14 
+ n° de byte inicial: 670 
+ n° de byte final: 770 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 1
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 3
+
+[INFO] 12:08:02:529 funcionesSwap.c/(3005:3005): 
+             __^__                                      __^__
+            ( ___ )------------------------------------( ___ )   
+             | / |                                      | / |  
+             | / |      Bienvenidos al proceso Swap     | / |   
+             |___|                                      |___| 
+            (_____)------------------------------------(_____)
+
+[INFO] 12:08:13:723 funcionesSwap.c/(3005:3005): 
+Se ASIGNA el proceso:
+ n° de pid: 1
+ byte inicial: 0
+ byte final: 10
+
+
+[INFO] 12:08:15:529 funcionesSwap.c/(3005:3005): 
+Se ASIGNA el proceso:
+ n° de pid: 2
+ byte inicial: 10
+ byte final: 20
+
+
+[INFO] 12:08:17:335 funcionesSwap.c/(3005:3005): 
+Se ASIGNA el proceso:
+ n° de pid: 3
+ byte inicial: 20
+ byte final: 30
+
+
+[INFO] 12:08:19:142 funcionesSwap.c/(3005:3005): 
+Se ASIGNA el proceso:
+ n° de pid: 4
+ byte inicial: 30
+ byte final: 40
+
+
+[INFO] 12:08:20:948 funcionesSwap.c/(3005:3005): 
+Se ASIGNA el proceso:
+ n° de pid: 5
+ byte inicial: 40
+ byte final: 50
+
+
+[INFO] 12:09:05:500 funcionesSwap.c/(3005:3005): 
+Se LIBERA el proceso...
+ n° de PID: 1 
+ n° de byte inicial: 0 
+ n° de byte final: 10 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 12:09:06:502 funcionesSwap.c/(3005:3005): 
+Se LIBERA el proceso...
+ n° de PID: 2 
+ n° de byte inicial: 10 
+ n° de byte final: 20 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 12:09:07:505 funcionesSwap.c/(3005:3005): 
+Se LIBERA el proceso...
+ n° de PID: 3 
+ n° de byte inicial: 20 
+ n° de byte final: 30 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 12:09:08:507 funcionesSwap.c/(3005:3005): 
+Se LIBERA el proceso...
+ n° de PID: 4 
+ n° de byte inicial: 30 
+ n° de byte final: 40 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 12:09:09:510 funcionesSwap.c/(3005:3005): 
+Se LIBERA el proceso...
+ n° de PID: 5 
+ n° de byte inicial: 40 
+ n° de byte final: 50 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 12:48:39:239 funcionesSwap.c/(3133:3133): 
+             __^__                                      __^__
+            ( ___ )------------------------------------( ___ )   
+             | / |                                      | / |  
+             | / |      Bienvenidos al proceso Swap     | / |   
+             |___|                                      |___| 
+            (_____)------------------------------------(_____)
+
+[INFO] 12:48:53:867 funcionesSwap.c/(3133:3133): 
+Se ASIGNA el proceso:
+ n° de pid: 1
+ byte inicial: 0
+ byte final: 10
+
+
+[INFO] 12:48:55:672 funcionesSwap.c/(3133:3133): 
+Se ASIGNA el proceso:
+ n° de pid: 2
+ byte inicial: 10
+ byte final: 20
+
+
+[INFO] 12:48:57:478 funcionesSwap.c/(3133:3133): 
+Se ASIGNA el proceso:
+ n° de pid: 3
+ byte inicial: 20
+ byte final: 30
+
+
+[INFO] 12:48:59:284 funcionesSwap.c/(3133:3133): 
+Se ASIGNA el proceso:
+ n° de pid: 4
+ byte inicial: 30
+ byte final: 40
+
+
+[INFO] 12:49:01:90 funcionesSwap.c/(3133:3133): 
+Se ASIGNA el proceso:
+ n° de pid: 5
+ byte inicial: 40
+ byte final: 50
+
+
+[INFO] 12:49:02:895 funcionesSwap.c/(3133:3133): 
+Se ASIGNA el proceso:
+ n° de pid: 6
+ byte inicial: 50
+ byte final: 150
+
+
+[INFO] 12:49:05:102 funcionesSwap.c/(3133:3133): 
+Se ASIGNA el proceso:
+ n° de pid: 7
+ byte inicial: 150
+ byte final: 250
+
+
+[INFO] 12:49:07:309 funcionesSwap.c/(3133:3133): 
+Se ASIGNA el proceso:
+ n° de pid: 8
+ byte inicial: 250
+ byte final: 260
+
+
+[INFO] 12:49:09:115 funcionesSwap.c/(3133:3133): 
+Se ASIGNA el proceso:
+ n° de pid: 9
+ byte inicial: 260
+ byte final: 270
+
+
+[INFO] 12:49:10:920 funcionesSwap.c/(3133:3133): 
+Se ASIGNA el proceso:
+ n° de pid: 10
+ byte inicial: 270
+ byte final: 370
+
+
+[INFO] 12:49:13:127 funcionesSwap.c/(3133:3133): 
+Se ASIGNA el proceso:
+ n° de pid: 11
+ byte inicial: 370
+ byte final: 470
+
+
+[INFO] 12:49:15:334 funcionesSwap.c/(3133:3133): 
+Se ASIGNA el proceso:
+ n° de pid: 12
+ byte inicial: 470
+ byte final: 570
+
+
+[INFO] 12:49:17:541 funcionesSwap.c/(3133:3133): 
+Se ASIGNA el proceso:
+ n° de pid: 13
+ byte inicial: 570
+ byte final: 670
+
+
+[INFO] 12:49:19:749 funcionesSwap.c/(3133:3133): 
+Se ASIGNA el proceso:
+ n° de pid: 14
+ byte inicial: 670
+ byte final: 770
+
+
+[INFO] 12:50:31:565 funcionesSwap.c/(3133:3133): 
+Se ESCRIBE el proceso... 
+ n° de PID: 14 
+ n° de byte inicial: 670 
+ n° de byte final: 674 
+ contenido: IO B 
+ 
+[INFO] 12:51:10:890 funcionesSwap.c/(3133:3133): 
+Se LIBERA el proceso...
+ n° de PID: 1 
+ n° de byte inicial: 0 
+ n° de byte final: 10 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 12:51:11:892 funcionesSwap.c/(3133:3133): 
+Se LIBERA el proceso...
+ n° de PID: 2 
+ n° de byte inicial: 10 
+ n° de byte final: 20 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 12:51:12:894 funcionesSwap.c/(3133:3133): 
+Se LIBERA el proceso...
+ n° de PID: 3 
+ n° de byte inicial: 20 
+ n° de byte final: 30 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 12:51:13:896 funcionesSwap.c/(3133:3133): 
+Se LIBERA el proceso...
+ n° de PID: 4 
+ n° de byte inicial: 30 
+ n° de byte final: 40 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 12:51:16:302 funcionesSwap.c/(3133:3133): 
+Se LIBERA el proceso...
+ n° de PID: 5 
+ n° de byte inicial: 40 
+ n° de byte final: 50 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 12:51:17:304 funcionesSwap.c/(3133:3133): 
+Se LIBERA el proceso...
+ n° de PID: 8 
+ n° de byte inicial: 250 
+ n° de byte final: 260 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 12:51:18:307 funcionesSwap.c/(3133:3133): 
+Se LIBERA el proceso...
+ n° de PID: 9 
+ n° de byte inicial: 260 
+ n° de byte final: 270 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 12:51:19:310 funcionesSwap.c/(3133:3133): 
+Se LEE el proceso... 
+ n° de PID: 14 
+ n° de byte inicial: 670 
+ n° de byte final: 674 
+ contenido: IO B
+
+[INFO] 12:52:01:713 funcionesSwap.c/(3133:3133): 
+Se LIBERA el proceso...
+ n° de PID: 6 
+ n° de byte inicial: 50 
+ n° de byte final: 150 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 12:52:11:714 funcionesSwap.c/(3133:3133): 
+Se LIBERA el proceso...
+ n° de PID: 7 
+ n° de byte inicial: 150 
+ n° de byte final: 250 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 12:52:16:715 funcionesSwap.c/(3133:3133): 
+Se LIBERA el proceso...
+ n° de PID: 10 
+ n° de byte inicial: 270 
+ n° de byte final: 370 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 12:52:21:715 funcionesSwap.c/(3133:3133): 
+Se LIBERA el proceso...
+ n° de PID: 11 
+ n° de byte inicial: 370 
+ n° de byte final: 470 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 12:52:26:715 funcionesSwap.c/(3133:3133): 
+Se LIBERA el proceso...
+ n° de PID: 12 
+ n° de byte inicial: 470 
+ n° de byte final: 570 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 12:52:31:717 funcionesSwap.c/(3133:3133): 
+Se LIBERA el proceso...
+ n° de PID: 13 
+ n° de byte inicial: 570 
+ n° de byte final: 670 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 12:52:36:717 funcionesSwap.c/(3133:3133): 
+Se LIBERA el proceso...
+ n° de PID: 14 
+ n° de byte inicial: 670 
+ n° de byte final: 770 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 1
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 3
+
+[INFO] 13:57:35:738 funcionesSwap.c/(3430:3430): 
+             __^__                                      __^__
+            ( ___ )------------------------------------( ___ )   
+             | / |                                      | / |  
+             | / |      Bienvenidos al proceso Swap     | / |   
+             |___|                                      |___| 
+            (_____)------------------------------------(_____)
+
+[INFO] 14:00:28:583 funcionesSwap.c/(3430:3430): 
+Se ASIGNA el proceso:
+ n° de pid: 1
+ byte inicial: 0
+ byte final: 10
+
+
+[INFO] 14:00:30:389 funcionesSwap.c/(3430:3430): 
+Se ASIGNA el proceso:
+ n° de pid: 2
+ byte inicial: 10
+ byte final: 20
+
+
+[INFO] 14:00:32:194 funcionesSwap.c/(3430:3430): 
+Se ASIGNA el proceso:
+ n° de pid: 3
+ byte inicial: 20
+ byte final: 30
+
+
+[INFO] 14:00:33:1 funcionesSwap.c/(3430:3430): 
+Se ASIGNA el proceso:
+ n° de pid: 4
+ byte inicial: 30
+ byte final: 40
+
+
+[INFO] 14:00:35:806 funcionesSwap.c/(3430:3430): 
+Se ASIGNA el proceso:
+ n° de pid: 5
+ byte inicial: 40
+ byte final: 50
+
+
+[INFO] 14:00:37:609 funcionesSwap.c/(3430:3430): 
+Se ASIGNA el proceso:
+ n° de pid: 6
+ byte inicial: 50
+ byte final: 150
+
+
+[INFO] 14:00:39:813 funcionesSwap.c/(3430:3430): 
+Se ASIGNA el proceso:
+ n° de pid: 7
+ byte inicial: 150
+ byte final: 250
+
+
+[INFO] 14:00:42:16 funcionesSwap.c/(3430:3430): 
+Se ASIGNA el proceso:
+ n° de pid: 8
+ byte inicial: 250
+ byte final: 260
+
+
+[INFO] 14:00:43:820 funcionesSwap.c/(3430:3430): 
+Se ASIGNA el proceso:
+ n° de pid: 9
+ byte inicial: 260
+ byte final: 270
+
+
+[INFO] 14:00:45:624 funcionesSwap.c/(3430:3430): 
+Se ASIGNA el proceso:
+ n° de pid: 10
+ byte inicial: 270
+ byte final: 370
+
+
+[INFO] 14:00:47:828 funcionesSwap.c/(3430:3430): 
+Se ASIGNA el proceso:
+ n° de pid: 11
+ byte inicial: 370
+ byte final: 470
+
+
+[INFO] 14:00:50:33 funcionesSwap.c/(3430:3430): 
+Se ASIGNA el proceso:
+ n° de pid: 12
+ byte inicial: 470
+ byte final: 570
+
+
+[INFO] 14:00:52:239 funcionesSwap.c/(3430:3430): 
+Se ASIGNA el proceso:
+ n° de pid: 13
+ byte inicial: 570
+ byte final: 670
+
+
+[INFO] 14:00:54:446 funcionesSwap.c/(3430:3430): 
+Se ASIGNA el proceso:
+ n° de pid: 14
+ byte inicial: 670
+ byte final: 770
+
+
+[INFO] 14:02:06:258 funcionesSwap.c/(3430:3430): 
+Se ESCRIBE el proceso... 
+ n° de PID: 14 
+ n° de byte inicial: 670 
+ n° de byte final: 674 
+ contenido: IO B 
+ 
+[INFO] 14:02:45:570 funcionesSwap.c/(3430:3430): 
+Se LIBERA el proceso...
+ n° de PID: 1 
+ n° de byte inicial: 0 
+ n° de byte final: 10 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 14:02:46:572 funcionesSwap.c/(3430:3430): 
+Se LIBERA el proceso...
+ n° de PID: 2 
+ n° de byte inicial: 10 
+ n° de byte final: 20 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 14:02:47:574 funcionesSwap.c/(3430:3430): 
+Se LIBERA el proceso...
+ n° de PID: 3 
+ n° de byte inicial: 20 
+ n° de byte final: 30 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 14:02:48:577 funcionesSwap.c/(3430:3430): 
+Se LIBERA el proceso...
+ n° de PID: 4 
+ n° de byte inicial: 30 
+ n° de byte final: 40 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 14:02:50:983 funcionesSwap.c/(3430:3430): 
+Se LIBERA el proceso...
+ n° de PID: 5 
+ n° de byte inicial: 40 
+ n° de byte final: 50 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 14:02:51:985 funcionesSwap.c/(3430:3430): 
+Se LIBERA el proceso...
+ n° de PID: 8 
+ n° de byte inicial: 250 
+ n° de byte final: 260 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 14:02:52:987 funcionesSwap.c/(3430:3430): 
+Se LIBERA el proceso...
+ n° de PID: 9 
+ n° de byte inicial: 260 
+ n° de byte final: 270 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 14:02:53:989 funcionesSwap.c/(3430:3430): 
+Se LEE el proceso... 
+ n° de PID: 14 
+ n° de byte inicial: 670 
+ n° de byte final: 674 
+ contenido: IO B
+
+[INFO] 14:03:36:394 funcionesSwap.c/(3430:3430): 
+Se LIBERA el proceso...
+ n° de PID: 6 
+ n° de byte inicial: 50 
+ n° de byte final: 150 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 14:03:46:395 funcionesSwap.c/(3430:3430): 
+Se LIBERA el proceso...
+ n° de PID: 7 
+ n° de byte inicial: 150 
+ n° de byte final: 250 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 14:03:51:396 funcionesSwap.c/(3430:3430): 
+Se LIBERA el proceso...
+ n° de PID: 10 
+ n° de byte inicial: 270 
+ n° de byte final: 370 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 14:03:56:397 funcionesSwap.c/(3430:3430): 
+Se LIBERA el proceso...
+ n° de PID: 11 
+ n° de byte inicial: 370 
+ n° de byte final: 470 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 14:04:01:397 funcionesSwap.c/(3430:3430): 
+Se LIBERA el proceso...
+ n° de PID: 12 
+ n° de byte inicial: 470 
+ n° de byte final: 570 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 14:04:06:398 funcionesSwap.c/(3430:3430): 
+Se LIBERA el proceso...
+ n° de PID: 13 
+ n° de byte inicial: 570 
+ n° de byte final: 670 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 14:04:11:399 funcionesSwap.c/(3430:3430): 
+Se LIBERA el proceso...
+ n° de PID: 14 
+ n° de byte inicial: 670 
+ n° de byte final: 770 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 1
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 3
+
+[INFO] 14:08:39:263 funcionesSwap.c/(3646:3646): 
+             __^__                                      __^__
+            ( ___ )------------------------------------( ___ )   
+             | / |                                      | / |  
+             | / |      Bienvenidos al proceso Swap     | / |   
+             |___|                                      |___| 
+            (_____)------------------------------------(_____)
+
+[INFO] 14:09:01:248 funcionesSwap.c/(3646:3646): 
+Se ASIGNA el proceso:
+ n° de pid: 1
+ byte inicial: 0
+ byte final: 30
+
+
+[INFO] 14:09:03:54 funcionesSwap.c/(3646:3646): 
+Se ASIGNA el proceso:
+ n° de pid: 2
+ byte inicial: 30
+ byte final: 80
+
+
+[INFO] 14:09:04:860 funcionesSwap.c/(3646:3646): 
+Se ASIGNA el proceso:
+ n° de pid: 3
+ byte inicial: 80
+ byte final: 110
+
+
+[INFO] 14:09:06:666 funcionesSwap.c/(3646:3646): 
+Se ASIGNA el proceso:
+ n° de pid: 4
+ byte inicial: 110
+ byte final: 160
+
+
+[INFO] 14:09:08:472 funcionesSwap.c/(3646:3646): 
+Se ASIGNA el proceso:
+ n° de pid: 5
+ byte inicial: 160
+ byte final: 190
+
+
+[INFO] 14:09:34:955 funcionesSwap.c/(3646:3646): 
+Se LIBERA el proceso...
+ n° de PID: 1 
+ n° de byte inicial: 0 
+ n° de byte final: 30 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 3
+
+[INFO] 14:09:42:116 funcionesSwap.c/(3646:3646): 
+Se LIBERA el proceso...
+ n° de PID: 3 
+ n° de byte inicial: 80 
+ n° de byte final: 110 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 3
+
+[INFO] 14:09:52:117 funcionesSwap.c/(3646:3646): 
+Se LIBERA el proceso...
+ n° de PID: 5 
+ n° de byte inicial: 160 
+ n° de byte final: 190 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 3
+
+[INFO] 14:10:19:108 funcionesSwap.c/(3646:3646): 
+Se LIBERA el proceso...
+ n° de PID: 2 
+ n° de byte inicial: 30 
+ n° de byte final: 80 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 5
+
+[INFO] 14:10:49:109 funcionesSwap.c/(3646:3646): 
+Se LIBERA el proceso...
+ n° de PID: 4 
+ n° de byte inicial: 110 
+ n° de byte final: 160 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 5
+
+[INFO] 14:24:44:256 funcionesSwap.c/(3741:3741): 
+             __^__                                      __^__
+            ( ___ )------------------------------------( ___ )   
+             | / |                                      | / |  
+             | / |      Bienvenidos al proceso Swap     | / |   
+             |___|                                      |___| 
+            (_____)------------------------------------(_____)
+
+[INFO] 14:25:03:725 funcionesSwap.c/(3741:3741): 
+Se ASIGNA el proceso:
+ n° de pid: 1
+ byte inicial: 0
+ byte final: 30
+
+
+[INFO] 14:25:05:530 funcionesSwap.c/(3741:3741): 
+Se ASIGNA el proceso:
+ n° de pid: 3
+ byte inicial: 30
+ byte final: 60
+
+
+[INFO] 14:25:07:336 funcionesSwap.c/(3741:3741): 
+Se ASIGNA el proceso:
+ n° de pid: 4
+ byte inicial: 60
+ byte final: 110
+
+
+[INFO] 14:25:09:142 funcionesSwap.c/(3741:3741): 
+Se ASIGNA el proceso:
+ n° de pid: 2
+ byte inicial: 110
+ byte final: 160
+
+
+[INFO] 14:25:10:948 funcionesSwap.c/(3741:3741): 
+Se ASIGNA el proceso:
+ n° de pid: 5
+ byte inicial: 160
+ byte final: 190
+
+
+[INFO] 14:25:55:869 funcionesSwap.c/(3834:3834): 
+             __^__                                      __^__
+            ( ___ )------------------------------------( ___ )   
+             | / |                                      | / |  
+             | / |      Bienvenidos al proceso Swap     | / |   
+             |___|                                      |___| 
+            (_____)------------------------------------(_____)
+
+[INFO] 14:26:23:907 funcionesSwap.c/(3834:3834): 
+Se ASIGNA el proceso:
+ n° de pid: 1
+ byte inicial: 0
+ byte final: 30
+
+
+[INFO] 14:26:25:713 funcionesSwap.c/(3834:3834): 
+Se ASIGNA el proceso:
+ n° de pid: 2
+ byte inicial: 30
+ byte final: 80
+
+
+[INFO] 14:26:27:518 funcionesSwap.c/(3834:3834): 
+Se ASIGNA el proceso:
+ n° de pid: 3
+ byte inicial: 80
+ byte final: 110
+
+
+[INFO] 14:26:29:325 funcionesSwap.c/(3834:3834): 
+Se ASIGNA el proceso:
+ n° de pid: 4
+ byte inicial: 110
+ byte final: 160
+
+
+[INFO] 14:26:31:131 funcionesSwap.c/(3834:3834): 
+Se ASIGNA el proceso:
+ n° de pid: 5
+ byte inicial: 160
+ byte final: 190
+
+
+[INFO] 14:26:57:608 funcionesSwap.c/(3834:3834): 
+Se LIBERA el proceso...
+ n° de PID: 1 
+ n° de byte inicial: 0 
+ n° de byte final: 30 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 3
+
+[INFO] 14:27:04:774 funcionesSwap.c/(3834:3834): 
+Se LIBERA el proceso...
+ n° de PID: 3 
+ n° de byte inicial: 80 
+ n° de byte final: 110 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 3
+
+[INFO] 14:27:14:776 funcionesSwap.c/(3834:3834): 
+Se LIBERA el proceso...
+ n° de PID: 5 
+ n° de byte inicial: 160 
+ n° de byte final: 190 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 3
+
+[INFO] 14:27:41:767 funcionesSwap.c/(3834:3834): 
+Se LIBERA el proceso...
+ n° de PID: 2 
+ n° de byte inicial: 30 
+ n° de byte final: 80 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 5
+
+[INFO] 14:28:11:768 funcionesSwap.c/(3834:3834): 
+Se LIBERA el proceso...
+ n° de PID: 4 
+ n° de byte inicial: 110 
+ n° de byte final: 160 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 5
+
+[INFO] 14:28:21:635 funcionesSwap.c/(3920:3920): 
+             __^__                                      __^__
+            ( ___ )------------------------------------( ___ )   
+             | / |                                      | / |  
+             | / |      Bienvenidos al proceso Swap     | / |   
+             |___|                                      |___| 
+            (_____)------------------------------------(_____)
+
+[INFO] 14:28:43:331 funcionesSwap.c/(3920:3920): 
+Se ASIGNA el proceso:
+ n° de pid: 1
+ byte inicial: 0
+ byte final: 30
+
+
+[INFO] 14:28:45:136 funcionesSwap.c/(3920:3920): 
+Se ASIGNA el proceso:
+ n° de pid: 2
+ byte inicial: 30
+ byte final: 80
+
+
+[INFO] 14:28:46:943 funcionesSwap.c/(3920:3920): 
+Se ASIGNA el proceso:
+ n° de pid: 3
+ byte inicial: 80
+ byte final: 110
+
+
+[INFO] 14:28:48:748 funcionesSwap.c/(3920:3920): 
+Se ASIGNA el proceso:
+ n° de pid: 4
+ byte inicial: 110
+ byte final: 160
+
+
+[INFO] 14:28:50:555 funcionesSwap.c/(3920:3920): 
+Se ASIGNA el proceso:
+ n° de pid: 5
+ byte inicial: 160
+ byte final: 190
+
+
+[INFO] 14:29:17:34 funcionesSwap.c/(3920:3920): 
+Se LIBERA el proceso...
+ n° de PID: 1 
+ n° de byte inicial: 0 
+ n° de byte final: 30 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 3
+
+[INFO] 14:29:24:201 funcionesSwap.c/(3920:3920): 
+Se LIBERA el proceso...
+ n° de PID: 3 
+ n° de byte inicial: 80 
+ n° de byte final: 110 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 3
+
+[INFO] 14:29:34:201 funcionesSwap.c/(3920:3920): 
+Se LIBERA el proceso...
+ n° de PID: 5 
+ n° de byte inicial: 160 
+ n° de byte final: 190 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 3
+
+[INFO] 14:30:05:554 funcionesSwap.c/(3959:3959): 
+             __^__                                      __^__
+            ( ___ )------------------------------------( ___ )   
+             | / |                                      | / |  
+             | / |      Bienvenidos al proceso Swap     | / |   
+             |___|                                      |___| 
+            (_____)------------------------------------(_____)
+
+[INFO] 14:30:13:486 funcionesSwap.c/(3959:3959): 
+Se ASIGNA el proceso:
+ n° de pid: 1
+ byte inicial: 0
+ byte final: 10
+
+
+[INFO] 14:30:15:291 funcionesSwap.c/(3959:3959): 
+Se ASIGNA el proceso:
+ n° de pid: 2
+ byte inicial: 10
+ byte final: 20
+
+
+[INFO] 14:30:17:97 funcionesSwap.c/(3959:3959): 
+Se ASIGNA el proceso:
+ n° de pid: 3
+ byte inicial: 20
+ byte final: 30
+
+
+[INFO] 14:30:18:902 funcionesSwap.c/(3959:3959): 
+Se ASIGNA el proceso:
+ n° de pid: 4
+ byte inicial: 30
+ byte final: 40
+
+
+[INFO] 14:30:20:708 funcionesSwap.c/(3959:3959): 
+Se ASIGNA el proceso:
+ n° de pid: 5
+ byte inicial: 40
+ byte final: 50
+
+
+[INFO] 14:30:22:513 funcionesSwap.c/(3959:3959): 
+Se ASIGNA el proceso:
+ n° de pid: 6
+ byte inicial: 50
+ byte final: 150
+
+
+[INFO] 14:30:24:719 funcionesSwap.c/(3959:3959): 
+Se ASIGNA el proceso:
+ n° de pid: 7
+ byte inicial: 150
+ byte final: 250
+
+
+[INFO] 14:30:26:926 funcionesSwap.c/(3959:3959): 
+Se ASIGNA el proceso:
+ n° de pid: 8
+ byte inicial: 250
+ byte final: 260
+
+
+[INFO] 14:30:28:731 funcionesSwap.c/(3959:3959): 
+Se ASIGNA el proceso:
+ n° de pid: 9
+ byte inicial: 260
+ byte final: 270
+
+
+[INFO] 14:30:30:538 funcionesSwap.c/(3959:3959): 
+Se ASIGNA el proceso:
+ n° de pid: 10
+ byte inicial: 270
+ byte final: 370
+
+
+[INFO] 14:30:32:745 funcionesSwap.c/(3959:3959): 
+Se ASIGNA el proceso:
+ n° de pid: 11
+ byte inicial: 370
+ byte final: 470
+
+
+[INFO] 14:30:34:951 funcionesSwap.c/(3959:3959): 
+Se ASIGNA el proceso:
+ n° de pid: 12
+ byte inicial: 470
+ byte final: 570
+
+
+[INFO] 14:30:37:158 funcionesSwap.c/(3959:3959): 
+Se ASIGNA el proceso:
+ n° de pid: 13
+ byte inicial: 570
+ byte final: 670
+
+
+[INFO] 14:30:39:363 funcionesSwap.c/(3959:3959): 
+Se ASIGNA el proceso:
+ n° de pid: 14
+ byte inicial: 670
+ byte final: 770
+
+
+[INFO] 14:31:51:168 funcionesSwap.c/(3959:3959): 
+Se ESCRIBE el proceso... 
+ n° de PID: 14 
+ n° de byte inicial: 670 
+ n° de byte final: 674 
+ contenido: IO B 
+ 
+[INFO] 14:32:30:483 funcionesSwap.c/(3959:3959): 
+Se LIBERA el proceso...
+ n° de PID: 1 
+ n° de byte inicial: 0 
+ n° de byte final: 10 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 14:32:31:485 funcionesSwap.c/(3959:3959): 
+Se LIBERA el proceso...
+ n° de PID: 2 
+ n° de byte inicial: 10 
+ n° de byte final: 20 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 14:32:32:487 funcionesSwap.c/(3959:3959): 
+Se LIBERA el proceso...
+ n° de PID: 3 
+ n° de byte inicial: 20 
+ n° de byte final: 30 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 14:32:33:489 funcionesSwap.c/(3959:3959): 
+Se LIBERA el proceso...
+ n° de PID: 4 
+ n° de byte inicial: 30 
+ n° de byte final: 40 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 14:32:35:896 funcionesSwap.c/(3959:3959): 
+Se LIBERA el proceso...
+ n° de PID: 5 
+ n° de byte inicial: 40 
+ n° de byte final: 50 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 14:32:36:898 funcionesSwap.c/(3959:3959): 
+Se LIBERA el proceso...
+ n° de PID: 8 
+ n° de byte inicial: 250 
+ n° de byte final: 260 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 14:32:37:900 funcionesSwap.c/(3959:3959): 
+Se LIBERA el proceso...
+ n° de PID: 9 
+ n° de byte inicial: 260 
+ n° de byte final: 270 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 14:32:38:902 funcionesSwap.c/(3959:3959): 
+Se LEE el proceso... 
+ n° de PID: 14 
+ n° de byte inicial: 670 
+ n° de byte final: 674 
+ contenido: IO B
+
+[INFO] 14:33:21:304 funcionesSwap.c/(3959:3959): 
+Se LIBERA el proceso...
+ n° de PID: 6 
+ n° de byte inicial: 50 
+ n° de byte final: 150 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 14:33:31:306 funcionesSwap.c/(3959:3959): 
+Se LIBERA el proceso...
+ n° de PID: 7 
+ n° de byte inicial: 150 
+ n° de byte final: 250 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 14:33:36:308 funcionesSwap.c/(3959:3959): 
+Se LIBERA el proceso...
+ n° de PID: 10 
+ n° de byte inicial: 270 
+ n° de byte final: 370 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 14:33:41:309 funcionesSwap.c/(3959:3959): 
+Se LIBERA el proceso...
+ n° de PID: 11 
+ n° de byte inicial: 370 
+ n° de byte final: 470 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 14:33:46:309 funcionesSwap.c/(3959:3959): 
+Se LIBERA el proceso...
+ n° de PID: 12 
+ n° de byte inicial: 470 
+ n° de byte final: 570 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 14:33:51:311 funcionesSwap.c/(3959:3959): 
+Se LIBERA el proceso...
+ n° de PID: 13 
+ n° de byte inicial: 570 
+ n° de byte final: 670 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 14:33:56:311 funcionesSwap.c/(3959:3959): 
+Se LIBERA el proceso...
+ n° de PID: 14 
+ n° de byte inicial: 670 
+ n° de byte final: 770 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 1
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 3
+
+[INFO] 14:34:16:598 funcionesSwap.c/(4050:4050): 
+             __^__                                      __^__
+            ( ___ )------------------------------------( ___ )   
+             | / |                                      | / |  
+             | / |      Bienvenidos al proceso Swap     | / |   
+             |___|                                      |___| 
+            (_____)------------------------------------(_____)
+
+[INFO] 14:34:31:725 funcionesSwap.c/(4050:4050): 
+Se ASIGNA el proceso:
+ n° de pid: 1
+ byte inicial: 0
+ byte final: 10
+
+
+[INFO] 14:34:33:530 funcionesSwap.c/(4050:4050): 
+Se ASIGNA el proceso:
+ n° de pid: 2
+ byte inicial: 10
+ byte final: 20
+
+
+[INFO] 14:34:35:334 funcionesSwap.c/(4050:4050): 
+Se ASIGNA el proceso:
+ n° de pid: 5
+ byte inicial: 20
+ byte final: 30
+
+
+[INFO] 14:34:37:140 funcionesSwap.c/(4050:4050): 
+Se ASIGNA el proceso:
+ n° de pid: 4
+ byte inicial: 30
+ byte final: 40
+
+
+[INFO] 14:34:38:946 funcionesSwap.c/(4050:4050): 
+Se ASIGNA el proceso:
+ n° de pid: 6
+ byte inicial: 40
+ byte final: 140
+
+
+[INFO] 14:34:41:152 funcionesSwap.c/(4050:4050): 
+Se ASIGNA el proceso:
+ n° de pid: 3
+ byte inicial: 140
+ byte final: 150
+
+
+[INFO] 14:46:55:780 funcionesSwap.c/(4174:4174): 
+             __^__                                      __^__
+            ( ___ )------------------------------------( ___ )   
+             | / |                                      | / |  
+             | / |      Bienvenidos al proceso Swap     | / |   
+             |___|                                      |___| 
+            (_____)------------------------------------(_____)
+
+[INFO] 14:47:10:249 funcionesSwap.c/(4174:4174): 
+Se ASIGNA el proceso:
+ n° de pid: 1
+ byte inicial: 0
+ byte final: 10
+
+
+[INFO] 14:47:12:55 funcionesSwap.c/(4174:4174): 
+Se ASIGNA el proceso:
+ n° de pid: 3
+ byte inicial: 10
+ byte final: 20
+
+
+[INFO] 14:47:13:861 funcionesSwap.c/(4174:4174): 
+Se ASIGNA el proceso:
+ n° de pid: 2
+ byte inicial: 20
+ byte final: 30
+
+
+[INFO] 14:47:15:667 funcionesSwap.c/(4174:4174): 
+Se ASIGNA el proceso:
+ n° de pid: 4
+ byte inicial: 30
+ byte final: 40
+
+
+[INFO] 14:47:17:471 funcionesSwap.c/(4174:4174): 
+Se ASIGNA el proceso:
+ n° de pid: 6
+ byte inicial: 40
+ byte final: 140
+
+
+[INFO] 14:47:19:677 funcionesSwap.c/(4174:4174): 
+Se ASIGNA el proceso:
+ n° de pid: 5
+ byte inicial: 140
+ byte final: 150
+
+
+[INFO] 14:48:32:800 funcionesSwap.c/(4253:4253): 
+             __^__                                      __^__
+            ( ___ )------------------------------------( ___ )   
+             | / |                                      | / |  
+             | / |      Bienvenidos al proceso Swap     | / |   
+             |___|                                      |___| 
+            (_____)------------------------------------(_____)
+
+[INFO] 14:48:49:934 funcionesSwap.c/(4253:4253): 
+Se ASIGNA el proceso:
+ n° de pid: 1
+ byte inicial: 0
+ byte final: 10
+
+
+[INFO] 14:48:51:740 funcionesSwap.c/(4253:4253): 
+Se ASIGNA el proceso:
+ n° de pid: 2
+ byte inicial: 10
+ byte final: 20
+
+
+[INFO] 14:48:53:545 funcionesSwap.c/(4253:4253): 
+Se ASIGNA el proceso:
+ n° de pid: 3
+ byte inicial: 20
+ byte final: 30
+
+
+[INFO] 14:48:55:351 funcionesSwap.c/(4253:4253): 
+Se ASIGNA el proceso:
+ n° de pid: 4
+ byte inicial: 30
+ byte final: 40
+
+
+[INFO] 14:48:57:157 funcionesSwap.c/(4253:4253): 
+Se ASIGNA el proceso:
+ n° de pid: 6
+ byte inicial: 40
+ byte final: 140
+
+
+[INFO] 14:48:59:363 funcionesSwap.c/(4253:4253): 
+Se ASIGNA el proceso:
+ n° de pid: 5
+ byte inicial: 140
+ byte final: 150
+
+
+[INFO] 14:51:02:713 funcionesSwap.c/(4253:4253): 
+Se ASIGNA el proceso:
+ n° de pid: 1
+ byte inicial: 150
+ byte final: 160
+
+
+[INFO] 14:51:03:716 funcionesSwap.c/(4253:4253): 
+Se ASIGNA el proceso:
+ n° de pid: 2
+ byte inicial: 160
+ byte final: 170
+
+
+[INFO] 14:51:04:721 funcionesSwap.c/(4253:4253): 
+Se ASIGNA el proceso:
+ n° de pid: 3
+ byte inicial: 170
+ byte final: 180
+
+
+[INFO] 14:51:05:724 funcionesSwap.c/(4253:4253): 
+Se ASIGNA el proceso:
+ n° de pid: 4
+ byte inicial: 180
+ byte final: 190
+
+
+[INFO] 14:51:06:728 funcionesSwap.c/(4253:4253): 
+Se ASIGNA el proceso:
+ n° de pid: 5
+ byte inicial: 190
+ byte final: 200
+
+
+[INFO] 14:51:07:732 funcionesSwap.c/(4253:4253): 
+Se ASIGNA el proceso:
+ n° de pid: 6
+ byte inicial: 200
+ byte final: 300
+
+
+[INFO] 14:51:09:137 funcionesSwap.c/(4253:4253): 
+Se ASIGNA el proceso:
+ n° de pid: 7
+ byte inicial: 300
+ byte final: 400
+
+
+[INFO] 14:51:11:342 funcionesSwap.c/(4253:4253): 
+Se ASIGNA el proceso:
+ n° de pid: 8
+ byte inicial: 400
+ byte final: 410
+
+
+[INFO] 14:51:13:148 funcionesSwap.c/(4253:4253): 
+Se ASIGNA el proceso:
+ n° de pid: 9
+ byte inicial: 410
+ byte final: 420
+
+
+[INFO] 14:51:14:953 funcionesSwap.c/(4253:4253): 
+Se ASIGNA el proceso:
+ n° de pid: 10
+ byte inicial: 420
+ byte final: 520
+
+
+[INFO] 14:51:17:159 funcionesSwap.c/(4253:4253): 
+Se ASIGNA el proceso:
+ n° de pid: 11
+ byte inicial: 520
+ byte final: 620
+
+
+[INFO] 14:51:19:365 funcionesSwap.c/(4253:4253): 
+Se ASIGNA el proceso:
+ n° de pid: 12
+ byte inicial: 620
+ byte final: 720
+
+
+[INFO] 14:51:21:571 funcionesSwap.c/(4253:4253): 
+Se ASIGNA el proceso:
+ n° de pid: 13
+ byte inicial: 720
+ byte final: 820
+
+
+[INFO] 14:51:23:777 funcionesSwap.c/(4253:4253): 
+Se ASIGNA el proceso:
+ n° de pid: 14
+ byte inicial: 820
+ byte final: 920
+
+
+[INFO] 14:52:35:593 funcionesSwap.c/(4253:4253): 
+Se ESCRIBE el proceso... 
+ n° de PID: 14 
+ n° de byte inicial: 820 
+ n° de byte final: 824 
+ contenido: IO B 
+ 
+[INFO] 14:53:14:922 funcionesSwap.c/(4253:4253): 
+Se LIBERA el proceso...
+ n° de PID: 1 
+ n° de byte inicial: 0 
+ n° de byte final: 20 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 14:53:15:925 funcionesSwap.c/(4253:4253): 
+Se LIBERA el proceso...
+ n° de PID: 2 
+ n° de byte inicial: 10 
+ n° de byte final: 30 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 14:53:16:926 funcionesSwap.c/(4253:4253): 
+Se LIBERA el proceso...
+ n° de PID: 3 
+ n° de byte inicial: 20 
+ n° de byte final: 40 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 14:53:17:930 funcionesSwap.c/(4253:4253): 
+Se LIBERA el proceso...
+ n° de PID: 4 
+ n° de byte inicial: 30 
+ n° de byte final: 50 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 14:53:20:336 funcionesSwap.c/(4253:4253): 
+Se LIBERA el proceso...
+ n° de PID: 5 
+ n° de byte inicial: 140 
+ n° de byte final: 160 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 14:53:21:339 funcionesSwap.c/(4253:4253): 
+Se LIBERA el proceso...
+ n° de PID: 8 
+ n° de byte inicial: 400 
+ n° de byte final: 410 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 14:53:22:342 funcionesSwap.c/(4253:4253): 
+Se LIBERA el proceso...
+ n° de PID: 9 
+ n° de byte inicial: 410 
+ n° de byte final: 420 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 14:53:23:344 funcionesSwap.c/(4253:4253): 
+Se LEE el proceso... 
+ n° de PID: 14 
+ n° de byte inicial: 820 
+ n° de byte final: 824 
+ contenido: IO B
+
+[INFO] 14:54:05:747 funcionesSwap.c/(4253:4253): 
+Se LIBERA el proceso...
+ n° de PID: 6 
+ n° de byte inicial: 40 
+ n° de byte final: 240 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 14:54:15:748 funcionesSwap.c/(4253:4253): 
+Se LIBERA el proceso...
+ n° de PID: 7 
+ n° de byte inicial: 300 
+ n° de byte final: 400 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 14:54:20:750 funcionesSwap.c/(4253:4253): 
+Se LIBERA el proceso...
+ n° de PID: 10 
+ n° de byte inicial: 420 
+ n° de byte final: 520 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 14:54:25:750 funcionesSwap.c/(4253:4253): 
+Se LIBERA el proceso...
+ n° de PID: 11 
+ n° de byte inicial: 520 
+ n° de byte final: 620 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 14:54:30:750 funcionesSwap.c/(4253:4253): 
+Se LIBERA el proceso...
+ n° de PID: 12 
+ n° de byte inicial: 620 
+ n° de byte final: 720 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 14:54:35:750 funcionesSwap.c/(4253:4253): 
+Se LIBERA el proceso...
+ n° de PID: 13 
+ n° de byte inicial: 720 
+ n° de byte final: 820 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 14:54:40:752 funcionesSwap.c/(4253:4253): 
+Se LIBERA el proceso...
+ n° de PID: 14 
+ n° de byte inicial: 820 
+ n° de byte final: 920 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 1
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 3
+
+[INFO] 16:10:29:204 funcionesSwap.c/(4594:4594): 
+             __^__                                      __^__
+            ( ___ )------------------------------------( ___ )   
+             | / |                                      | / |  
+             | / |      Bienvenidos al proceso Swap     | / |   
+             |___|                                      |___| 
+            (_____)------------------------------------(_____)
+
+[INFO] 16:10:42:615 funcionesSwap.c/(4594:4594): 
+Se ASIGNA el proceso:
+ n° de pid: 1
+ byte inicial: 0
+ byte final: 10
+
+
+[INFO] 16:10:44:420 funcionesSwap.c/(4594:4594): 
+Se ASIGNA el proceso:
+ n° de pid: 2
+ byte inicial: 10
+ byte final: 20
+
+
+[INFO] 16:10:46:226 funcionesSwap.c/(4594:4594): 
+Se ASIGNA el proceso:
+ n° de pid: 3
+ byte inicial: 20
+ byte final: 30
+
+
+[INFO] 16:10:48:33 funcionesSwap.c/(4594:4594): 
+Se ASIGNA el proceso:
+ n° de pid: 4
+ byte inicial: 30
+ byte final: 40
+
+
+[INFO] 16:10:49:839 funcionesSwap.c/(4594:4594): 
+Se ASIGNA el proceso:
+ n° de pid: 5
+ byte inicial: 40
+ byte final: 50
+
+
+[INFO] 16:10:51:644 funcionesSwap.c/(4594:4594): 
+Se ASIGNA el proceso:
+ n° de pid: 6
+ byte inicial: 50
+ byte final: 150
+
+
+[INFO] 16:10:53:849 funcionesSwap.c/(4594:4594): 
+Se ASIGNA el proceso:
+ n° de pid: 7
+ byte inicial: 150
+ byte final: 250
+
+
+[INFO] 16:10:56:55 funcionesSwap.c/(4594:4594): 
+Se ASIGNA el proceso:
+ n° de pid: 8
+ byte inicial: 250
+ byte final: 260
+
+
+[INFO] 16:10:57:861 funcionesSwap.c/(4594:4594): 
+Se ASIGNA el proceso:
+ n° de pid: 9
+ byte inicial: 260
+ byte final: 270
+
+
+[INFO] 16:10:59:667 funcionesSwap.c/(4594:4594): 
+Se ASIGNA el proceso:
+ n° de pid: 10
+ byte inicial: 270
+ byte final: 370
+
+
+[INFO] 16:11:01:874 funcionesSwap.c/(4594:4594): 
+Se ASIGNA el proceso:
+ n° de pid: 11
+ byte inicial: 370
+ byte final: 470
+
+
+[INFO] 16:11:04:80 funcionesSwap.c/(4594:4594): 
+Se ASIGNA el proceso:
+ n° de pid: 12
+ byte inicial: 470
+ byte final: 570
+
+
+[INFO] 16:11:06:286 funcionesSwap.c/(4594:4594): 
+Se ASIGNA el proceso:
+ n° de pid: 13
+ byte inicial: 570
+ byte final: 670
+
+
+[INFO] 16:11:08:493 funcionesSwap.c/(4594:4594): 
+Se ASIGNA el proceso:
+ n° de pid: 14
+ byte inicial: 670
+ byte final: 770
+
+
+[INFO] 16:12:20:303 funcionesSwap.c/(4594:4594): 
+Se ESCRIBE el proceso... 
+ n° de PID: 14 
+ n° de byte inicial: 670 
+ n° de byte final: 674 
+ contenido: IO B 
+ 
+[INFO] 16:12:59:656 funcionesSwap.c/(4594:4594): 
+Se LIBERA el proceso...
+ n° de PID: 1 
+ n° de byte inicial: 0 
+ n° de byte final: 10 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 16:13:00:658 funcionesSwap.c/(4594:4594): 
+Se LIBERA el proceso...
+ n° de PID: 2 
+ n° de byte inicial: 10 
+ n° de byte final: 20 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 16:13:01:661 funcionesSwap.c/(4594:4594): 
+Se LIBERA el proceso...
+ n° de PID: 3 
+ n° de byte inicial: 20 
+ n° de byte final: 30 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 16:13:02:662 funcionesSwap.c/(4594:4594): 
+Se LIBERA el proceso...
+ n° de PID: 4 
+ n° de byte inicial: 30 
+ n° de byte final: 40 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 16:13:05:69 funcionesSwap.c/(4594:4594): 
+Se LIBERA el proceso...
+ n° de PID: 5 
+ n° de byte inicial: 40 
+ n° de byte final: 50 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 16:13:06:72 funcionesSwap.c/(4594:4594): 
+Se LIBERA el proceso...
+ n° de PID: 8 
+ n° de byte inicial: 250 
+ n° de byte final: 260 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 16:13:07:74 funcionesSwap.c/(4594:4594): 
+Se LIBERA el proceso...
+ n° de PID: 9 
+ n° de byte inicial: 260 
+ n° de byte final: 270 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 16:13:08:84 funcionesSwap.c/(4594:4594): 
+Se LEE el proceso... 
+ n° de PID: 14 
+ n° de byte inicial: 670 
+ n° de byte final: 674 
+ contenido: IO B
+
+[INFO] 16:13:50:480 funcionesSwap.c/(4594:4594): 
+Se LIBERA el proceso...
+ n° de PID: 6 
+ n° de byte inicial: 50 
+ n° de byte final: 150 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 16:14:00:481 funcionesSwap.c/(4594:4594): 
+Se LIBERA el proceso...
+ n° de PID: 7 
+ n° de byte inicial: 150 
+ n° de byte final: 250 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 16:14:05:481 funcionesSwap.c/(4594:4594): 
+Se LIBERA el proceso...
+ n° de PID: 10 
+ n° de byte inicial: 270 
+ n° de byte final: 370 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 16:14:10:483 funcionesSwap.c/(4594:4594): 
+Se LIBERA el proceso...
+ n° de PID: 11 
+ n° de byte inicial: 370 
+ n° de byte final: 470 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 16:14:15:482 funcionesSwap.c/(4594:4594): 
+Se LIBERA el proceso...
+ n° de PID: 12 
+ n° de byte inicial: 470 
+ n° de byte final: 570 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 16:14:20:483 funcionesSwap.c/(4594:4594): 
+Se LIBERA el proceso...
+ n° de PID: 13 
+ n° de byte inicial: 570 
+ n° de byte final: 670 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 16:14:25:484 funcionesSwap.c/(4594:4594): 
+Se LIBERA el proceso...
+ n° de PID: 14 
+ n° de byte inicial: 670 
+ n° de byte final: 770 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 1
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 3
+
+[INFO] 17:48:41:46 funcionesSwap.c/(4938:4938): 
+             __^__                                      __^__
+            ( ___ )------------------------------------( ___ )   
+             | / |                                      | / |  
+             | / |      Bienvenidos al proceso Swap     | / |   
+             |___|                                      |___| 
+            (_____)------------------------------------(_____)
+
+[INFO] 17:48:59:499 funcionesSwap.c/(4938:4938): 
+Se ASIGNA el proceso:
+ n° de pid: 2
+ byte inicial: 0
+ byte final: 10
+
+
+[INFO] 17:49:01:383 funcionesSwap.c/(4938:4938): 
+Se ASIGNA el proceso:
+ n° de pid: 4
+ byte inicial: 10
+ byte final: 20
+
+
+[INFO] 17:49:03:196 funcionesSwap.c/(4938:4938): 
+Se ASIGNA el proceso:
+ n° de pid: 3
+ byte inicial: 20
+ byte final: 30
+
+
+[INFO] 17:49:05:10 funcionesSwap.c/(4938:4938): 
+Se ASIGNA el proceso:
+ n° de pid: 1
+ byte inicial: 30
+ byte final: 40
+
+
+[INFO] 17:49:06:824 funcionesSwap.c/(4938:4938): 
+Se ASIGNA el proceso:
+ n° de pid: 5
+ byte inicial: 40
+ byte final: 50
+
+
+[INFO] 17:49:08:640 funcionesSwap.c/(4938:4938): 
+Se ASIGNA el proceso:
+ n° de pid: 6
+ byte inicial: 50
+ byte final: 150
+
+
+[INFO] 17:49:10:872 funcionesSwap.c/(4938:4938): 
+Se ASIGNA el proceso:
+ n° de pid: 7
+ byte inicial: 150
+ byte final: 250
+
+
+[INFO] 17:49:34:128 funcionesSwap.c/(4985:4985): 
+             __^__                                      __^__
+            ( ___ )------------------------------------( ___ )   
+             | / |                                      | / |  
+             | / |      Bienvenidos al proceso Swap     | / |   
+             |___|                                      |___| 
+            (_____)------------------------------------(_____)
+
+[INFO] 17:49:44:228 funcionesSwap.c/(4985:4985): 
+Se ASIGNA el proceso:
+ n° de pid: 1
+ byte inicial: 0
+ byte final: 10
+
+
+[INFO] 17:49:46:34 funcionesSwap.c/(4985:4985): 
+Se ASIGNA el proceso:
+ n° de pid: 2
+ byte inicial: 10
+ byte final: 20
+
+
+[INFO] 17:49:47:840 funcionesSwap.c/(4985:4985): 
+Se ASIGNA el proceso:
+ n° de pid: 3
+ byte inicial: 20
+ byte final: 30
+
+
+[INFO] 17:49:49:646 funcionesSwap.c/(4985:4985): 
+Se ASIGNA el proceso:
+ n° de pid: 4
+ byte inicial: 30
+ byte final: 40
+
+
+[INFO] 17:49:51:452 funcionesSwap.c/(4985:4985): 
+Se ASIGNA el proceso:
+ n° de pid: 5
+ byte inicial: 40
+ byte final: 50
+
+
+[INFO] 17:49:53:257 funcionesSwap.c/(4985:4985): 
+Se ASIGNA el proceso:
+ n° de pid: 6
+ byte inicial: 50
+ byte final: 150
+
+
+[INFO] 17:49:55:464 funcionesSwap.c/(4985:4985): 
+Se ASIGNA el proceso:
+ n° de pid: 7
+ byte inicial: 150
+ byte final: 250
+
+
+[INFO] 17:49:57:670 funcionesSwap.c/(4985:4985): 
+Se ASIGNA el proceso:
+ n° de pid: 8
+ byte inicial: 250
+ byte final: 260
+
+
+[INFO] 17:49:59:476 funcionesSwap.c/(4985:4985): 
+Se ASIGNA el proceso:
+ n° de pid: 9
+ byte inicial: 260
+ byte final: 270
+
+
+[INFO] 17:50:01:282 funcionesSwap.c/(4985:4985): 
+Se ASIGNA el proceso:
+ n° de pid: 10
+ byte inicial: 270
+ byte final: 370
+
+
+[INFO] 17:50:03:489 funcionesSwap.c/(4985:4985): 
+Se ASIGNA el proceso:
+ n° de pid: 11
+ byte inicial: 370
+ byte final: 470
+
+
+[INFO] 17:50:05:695 funcionesSwap.c/(4985:4985): 
+Se ASIGNA el proceso:
+ n° de pid: 12
+ byte inicial: 470
+ byte final: 570
+
+
+[INFO] 17:50:07:901 funcionesSwap.c/(4985:4985): 
+Se ASIGNA el proceso:
+ n° de pid: 13
+ byte inicial: 570
+ byte final: 670
+
+
+[INFO] 17:50:10:107 funcionesSwap.c/(4985:4985): 
+Se ASIGNA el proceso:
+ n° de pid: 14
+ byte inicial: 670
+ byte final: 770
+
+
+[INFO] 17:51:21:911 funcionesSwap.c/(4985:4985): 
+Se ESCRIBE el proceso... 
+ n° de PID: 14 
+ n° de byte inicial: 670 
+ n° de byte final: 674 
+ contenido: IO B 
+ 
+[INFO] 17:52:01:225 funcionesSwap.c/(4985:4985): 
+Se LIBERA el proceso...
+ n° de PID: 1 
+ n° de byte inicial: 0 
+ n° de byte final: 10 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 17:52:02:228 funcionesSwap.c/(4985:4985): 
+Se LIBERA el proceso...
+ n° de PID: 2 
+ n° de byte inicial: 10 
+ n° de byte final: 20 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 17:52:03:230 funcionesSwap.c/(4985:4985): 
+Se LIBERA el proceso...
+ n° de PID: 3 
+ n° de byte inicial: 20 
+ n° de byte final: 30 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 17:52:04:233 funcionesSwap.c/(4985:4985): 
+Se LIBERA el proceso...
+ n° de PID: 4 
+ n° de byte inicial: 30 
+ n° de byte final: 40 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 17:52:06:639 funcionesSwap.c/(4985:4985): 
+Se LIBERA el proceso...
+ n° de PID: 5 
+ n° de byte inicial: 40 
+ n° de byte final: 50 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 17:52:07:642 funcionesSwap.c/(4985:4985): 
+Se LIBERA el proceso...
+ n° de PID: 8 
+ n° de byte inicial: 250 
+ n° de byte final: 260 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 17:52:08:643 funcionesSwap.c/(4985:4985): 
+Se LIBERA el proceso...
+ n° de PID: 9 
+ n° de byte inicial: 260 
+ n° de byte final: 270 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 17:52:09:645 funcionesSwap.c/(4985:4985): 
+Se LEE el proceso... 
+ n° de PID: 14 
+ n° de byte inicial: 670 
+ n° de byte final: 674 
+ contenido: IO B
+
+[INFO] 17:52:52:50 funcionesSwap.c/(4985:4985): 
+Se LIBERA el proceso...
+ n° de PID: 6 
+ n° de byte inicial: 50 
+ n° de byte final: 150 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 17:53:02:52 funcionesSwap.c/(4985:4985): 
+Se LIBERA el proceso...
+ n° de PID: 7 
+ n° de byte inicial: 150 
+ n° de byte final: 250 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 17:53:07:52 funcionesSwap.c/(4985:4985): 
+Se LIBERA el proceso...
+ n° de PID: 10 
+ n° de byte inicial: 270 
+ n° de byte final: 370 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 17:53:12:54 funcionesSwap.c/(4985:4985): 
+Se LIBERA el proceso...
+ n° de PID: 11 
+ n° de byte inicial: 370 
+ n° de byte final: 470 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 17:53:17:54 funcionesSwap.c/(4985:4985): 
+Se LIBERA el proceso...
+ n° de PID: 12 
+ n° de byte inicial: 470 
+ n° de byte final: 570 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 17:53:22:55 funcionesSwap.c/(4985:4985): 
+Se LIBERA el proceso...
+ n° de PID: 13 
+ n° de byte inicial: 570 
+ n° de byte final: 670 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 17:53:27:54 funcionesSwap.c/(4985:4985): 
+Se LIBERA el proceso...
+ n° de PID: 14 
+ n° de byte inicial: 670 
+ n° de byte final: 770 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 1
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 3
+
+[INFO] 10:31:17:403 funcionesSwap.c/(2497:2497): 
+             __^__                                      __^__
+            ( ___ )------------------------------------( ___ )   
+             | / |                                      | / |  
+             | / |      Bienvenidos al proceso Swap     | / |   
+             |___|                                      |___| 
+            (_____)------------------------------------(_____)
+
+[INFO] 10:31:41:7 funcionesSwap.c/(2497:2497): 
+Se ASIGNA el proceso:
+ n° de pid: 1
+ byte inicial: 0
+ byte final: 10
+
+
+[INFO] 10:31:42:813 funcionesSwap.c/(2497:2497): 
+Se ASIGNA el proceso:
+ n° de pid: 2
+ byte inicial: 10
+ byte final: 20
+
+
+[INFO] 10:31:44:618 funcionesSwap.c/(2497:2497): 
+Se ASIGNA el proceso:
+ n° de pid: 3
+ byte inicial: 20
+ byte final: 30
+
+
+[INFO] 10:31:46:425 funcionesSwap.c/(2497:2497): 
+Se ASIGNA el proceso:
+ n° de pid: 4
+ byte inicial: 30
+ byte final: 40
+
+
+[INFO] 10:31:48:231 funcionesSwap.c/(2497:2497): 
+Se ASIGNA el proceso:
+ n° de pid: 5
+ byte inicial: 40
+ byte final: 50
+
+
+[INFO] 10:31:50:35 funcionesSwap.c/(2497:2497): 
+Se ASIGNA el proceso:
+ n° de pid: 6
+ byte inicial: 50
+ byte final: 150
+
+
+[INFO] 10:31:52:243 funcionesSwap.c/(2497:2497): 
+Se ASIGNA el proceso:
+ n° de pid: 7
+ byte inicial: 150
+ byte final: 250
+
+
+[INFO] 10:31:54:448 funcionesSwap.c/(2497:2497): 
+Se ASIGNA el proceso:
+ n° de pid: 8
+ byte inicial: 250
+ byte final: 260
+
+
+[INFO] 10:31:56:255 funcionesSwap.c/(2497:2497): 
+Se ASIGNA el proceso:
+ n° de pid: 9
+ byte inicial: 260
+ byte final: 270
+
+
+[INFO] 10:31:58:61 funcionesSwap.c/(2497:2497): 
+Se ASIGNA el proceso:
+ n° de pid: 10
+ byte inicial: 270
+ byte final: 370
+
+
+[INFO] 10:32:00:267 funcionesSwap.c/(2497:2497): 
+Se ASIGNA el proceso:
+ n° de pid: 11
+ byte inicial: 370
+ byte final: 470
+
+
+[INFO] 10:32:02:474 funcionesSwap.c/(2497:2497): 
+Se ASIGNA el proceso:
+ n° de pid: 12
+ byte inicial: 470
+ byte final: 570
+
+
+[INFO] 10:32:04:680 funcionesSwap.c/(2497:2497): 
+Se ASIGNA el proceso:
+ n° de pid: 13
+ byte inicial: 570
+ byte final: 670
+
+
+[INFO] 10:32:06:886 funcionesSwap.c/(2497:2497): 
+Se ASIGNA el proceso:
+ n° de pid: 14
+ byte inicial: 670
+ byte final: 770
+
+
+[INFO] 10:33:18:287 funcionesSwap.c/(2497:2497): 
+Se ESCRIBE el proceso... 
+ n° de PID: 14 
+ n° de byte inicial: 670 
+ n° de byte final: 674 
+ contenido: IO B 
+ 
+[INFO] 10:33:58:6 funcionesSwap.c/(2497:2497): 
+Se LIBERA el proceso...
+ n° de PID: 1 
+ n° de byte inicial: 0 
+ n° de byte final: 10 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 10:33:59:8 funcionesSwap.c/(2497:2497): 
+Se LIBERA el proceso...
+ n° de PID: 2 
+ n° de byte inicial: 10 
+ n° de byte final: 20 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 10:34:01:414 funcionesSwap.c/(2497:2497): 
+Se LIBERA el proceso...
+ n° de PID: 3 
+ n° de byte inicial: 20 
+ n° de byte final: 30 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 10:34:02:417 funcionesSwap.c/(2497:2497): 
+Se LIBERA el proceso...
+ n° de PID: 4 
+ n° de byte inicial: 30 
+ n° de byte final: 40 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 10:34:03:419 funcionesSwap.c/(2497:2497): 
+Se LIBERA el proceso...
+ n° de PID: 5 
+ n° de byte inicial: 40 
+ n° de byte final: 50 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 10:34:04:421 funcionesSwap.c/(2497:2497): 
+Se LIBERA el proceso...
+ n° de PID: 8 
+ n° de byte inicial: 250 
+ n° de byte final: 260 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 10:34:05:425 funcionesSwap.c/(2497:2497): 
+Se LIBERA el proceso...
+ n° de PID: 9 
+ n° de byte inicial: 260 
+ n° de byte final: 270 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 10:34:06:426 funcionesSwap.c/(2497:2497): 
+Se LEE el proceso... 
+ n° de PID: 14 
+ n° de byte inicial: 670 
+ n° de byte final: 674 
+ contenido: IO B
+
+[INFO] 10:34:47:833 funcionesSwap.c/(2497:2497): 
+Se LIBERA el proceso...
+ n° de PID: 6 
+ n° de byte inicial: 50 
+ n° de byte final: 150 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 10:34:57:834 funcionesSwap.c/(2497:2497): 
+Se LIBERA el proceso...
+ n° de PID: 7 
+ n° de byte inicial: 150 
+ n° de byte final: 250 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 10:35:02:834 funcionesSwap.c/(2497:2497): 
+Se LIBERA el proceso...
+ n° de PID: 10 
+ n° de byte inicial: 270 
+ n° de byte final: 370 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 10:35:07:835 funcionesSwap.c/(2497:2497): 
+Se LIBERA el proceso...
+ n° de PID: 11 
+ n° de byte inicial: 370 
+ n° de byte final: 470 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 10:35:12:836 funcionesSwap.c/(2497:2497): 
+Se LIBERA el proceso...
+ n° de PID: 12 
+ n° de byte inicial: 470 
+ n° de byte final: 570 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 10:35:17:836 funcionesSwap.c/(2497:2497): 
+Se LIBERA el proceso...
+ n° de PID: 13 
+ n° de byte inicial: 570 
+ n° de byte final: 670 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 10:35:22:837 funcionesSwap.c/(2497:2497): 
+Se LIBERA el proceso...
+ n° de PID: 14 
+ n° de byte inicial: 670 
+ n° de byte final: 770 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 1
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 3
+
+[INFO] 10:35:52:455 funcionesSwap.c/(2783:2783): 
+             __^__                                      __^__
+            ( ___ )------------------------------------( ___ )   
+             | / |                                      | / |  
+             | / |      Bienvenidos al proceso Swap     | / |   
+             |___|                                      |___| 
+            (_____)------------------------------------(_____)
+
+[INFO] 10:36:06:91 funcionesSwap.c/(2783:2783): 
+Se ASIGNA el proceso:
+ n° de pid: 1
+ byte inicial: 0
+ byte final: 10
+
+
+[INFO] 10:36:07:897 funcionesSwap.c/(2783:2783): 
+Se ASIGNA el proceso:
+ n° de pid: 2
+ byte inicial: 10
+ byte final: 20
+
+
+[INFO] 10:36:09:702 funcionesSwap.c/(2783:2783): 
+Se ASIGNA el proceso:
+ n° de pid: 3
+ byte inicial: 20
+ byte final: 30
+
+
+[INFO] 10:36:11:508 funcionesSwap.c/(2783:2783): 
+Se ASIGNA el proceso:
+ n° de pid: 4
+ byte inicial: 30
+ byte final: 40
+
+
+[INFO] 10:36:13:314 funcionesSwap.c/(2783:2783): 
+Se ASIGNA el proceso:
+ n° de pid: 5
+ byte inicial: 40
+ byte final: 50
+
+
+[INFO] 10:36:15:120 funcionesSwap.c/(2783:2783): 
+Se ASIGNA el proceso:
+ n° de pid: 6
+ byte inicial: 50
+ byte final: 150
+
+
+[INFO] 10:36:17:326 funcionesSwap.c/(2783:2783): 
+Se ASIGNA el proceso:
+ n° de pid: 7
+ byte inicial: 150
+ byte final: 250
+
+
+[INFO] 10:36:19:532 funcionesSwap.c/(2783:2783): 
+Se ASIGNA el proceso:
+ n° de pid: 8
+ byte inicial: 250
+ byte final: 260
+
+
+[INFO] 10:36:21:338 funcionesSwap.c/(2783:2783): 
+Se ASIGNA el proceso:
+ n° de pid: 9
+ byte inicial: 260
+ byte final: 270
+
+
+[INFO] 10:36:23:144 funcionesSwap.c/(2783:2783): 
+Se ASIGNA el proceso:
+ n° de pid: 10
+ byte inicial: 270
+ byte final: 370
+
+
+[INFO] 10:36:25:355 funcionesSwap.c/(2783:2783): 
+Se ASIGNA el proceso:
+ n° de pid: 11
+ byte inicial: 370
+ byte final: 470
+
+
+[INFO] 10:36:27:561 funcionesSwap.c/(2783:2783): 
+Se ASIGNA el proceso:
+ n° de pid: 12
+ byte inicial: 470
+ byte final: 570
+
+
+[INFO] 10:36:29:769 funcionesSwap.c/(2783:2783): 
+Se ASIGNA el proceso:
+ n° de pid: 13
+ byte inicial: 570
+ byte final: 670
+
+
+[INFO] 10:36:31:975 funcionesSwap.c/(2783:2783): 
+Se ASIGNA el proceso:
+ n° de pid: 14
+ byte inicial: 670
+ byte final: 770
+
+
+[INFO] 10:37:43:781 funcionesSwap.c/(2783:2783): 
+Se ESCRIBE el proceso... 
+ n° de PID: 14 
+ n° de byte inicial: 670 
+ n° de byte final: 674 
+ contenido: IO B 
+ 
+[INFO] 10:38:23:99 funcionesSwap.c/(2783:2783): 
+Se LIBERA el proceso...
+ n° de PID: 1 
+ n° de byte inicial: 0 
+ n° de byte final: 10 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 10:38:24:102 funcionesSwap.c/(2783:2783): 
+Se LIBERA el proceso...
+ n° de PID: 2 
+ n° de byte inicial: 10 
+ n° de byte final: 20 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 10:38:25:104 funcionesSwap.c/(2783:2783): 
+Se LIBERA el proceso...
+ n° de PID: 3 
+ n° de byte inicial: 20 
+ n° de byte final: 30 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 10:38:26:106 funcionesSwap.c/(2783:2783): 
+Se LIBERA el proceso...
+ n° de PID: 4 
+ n° de byte inicial: 30 
+ n° de byte final: 40 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 10:38:28:513 funcionesSwap.c/(2783:2783): 
+Se LIBERA el proceso...
+ n° de PID: 5 
+ n° de byte inicial: 40 
+ n° de byte final: 50 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 10:38:29:515 funcionesSwap.c/(2783:2783): 
+Se LIBERA el proceso...
+ n° de PID: 8 
+ n° de byte inicial: 250 
+ n° de byte final: 260 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 10:38:30:517 funcionesSwap.c/(2783:2783): 
+Se LIBERA el proceso...
+ n° de PID: 9 
+ n° de byte inicial: 260 
+ n° de byte final: 270 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 10:38:31:519 funcionesSwap.c/(2783:2783): 
+Se LEE el proceso... 
+ n° de PID: 14 
+ n° de byte inicial: 670 
+ n° de byte final: 674 
+ contenido: IO B
+
+[INFO] 10:39:13:923 funcionesSwap.c/(2783:2783): 
+Se LIBERA el proceso...
+ n° de PID: 6 
+ n° de byte inicial: 50 
+ n° de byte final: 150 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 10:39:23:924 funcionesSwap.c/(2783:2783): 
+Se LIBERA el proceso...
+ n° de PID: 7 
+ n° de byte inicial: 150 
+ n° de byte final: 250 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 10:39:28:924 funcionesSwap.c/(2783:2783): 
+Se LIBERA el proceso...
+ n° de PID: 10 
+ n° de byte inicial: 270 
+ n° de byte final: 370 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 10:39:33:924 funcionesSwap.c/(2783:2783): 
+Se LIBERA el proceso...
+ n° de PID: 11 
+ n° de byte inicial: 370 
+ n° de byte final: 470 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 10:39:38:925 funcionesSwap.c/(2783:2783): 
+Se LIBERA el proceso...
+ n° de PID: 12 
+ n° de byte inicial: 470 
+ n° de byte final: 570 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 10:39:43:925 funcionesSwap.c/(2783:2783): 
+Se LIBERA el proceso...
+ n° de PID: 13 
+ n° de byte inicial: 570 
+ n° de byte final: 670 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 10:39:48:926 funcionesSwap.c/(2783:2783): 
+Se LIBERA el proceso...
+ n° de PID: 14 
+ n° de byte inicial: 670 
+ n° de byte final: 770 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 1
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 3
+
+[INFO] 13:56:53:602 funcionesSwap.c/(2290:2290): 
+             __^__                                      __^__
+            ( ___ )------------------------------------( ___ )   
+             | / |                                      | / |  
+             | / |      Bienvenidos al proceso Swap     | / |   
+             |___|                                      |___| 
+            (_____)------------------------------------(_____)
+
+[INFO] 13:57:14:752 funcionesSwap.c/(2290:2290): 
+Se ASIGNA el proceso:
+ n° de pid: 2
+ byte inicial: 0
+ byte final: 10
+
+
+[INFO] 13:57:17:762 funcionesSwap.c/(2290:2290): 
+Se ASIGNA el proceso:
+ n° de pid: 1
+ byte inicial: 10
+ byte final: 20
+
+
+[INFO] 13:57:20:770 funcionesSwap.c/(2290:2290): 
+Se ASIGNA el proceso:
+ n° de pid: 3
+ byte inicial: 20
+ byte final: 30
+
+
+[INFO] 13:57:23:779 funcionesSwap.c/(2290:2290): 
+Se ASIGNA el proceso:
+ n° de pid: 4
+ byte inicial: 30
+ byte final: 40
+
+
+[INFO] 13:57:26:789 funcionesSwap.c/(2290:2290): 
+Se ASIGNA el proceso:
+ n° de pid: 5
+ byte inicial: 40
+ byte final: 50
+
+
+[INFO] 13:57:29:799 funcionesSwap.c/(2290:2290): 
+Se ASIGNA el proceso:
+ n° de pid: 6
+ byte inicial: 50
+ byte final: 150
+
+
+[INFO] 13:57:32:6 funcionesSwap.c/(2290:2290): 
+Se ASIGNA el proceso:
+ n° de pid: 7
+ byte inicial: 150
+ byte final: 250
+
+
+[INFO] 13:58:55:35 funcionesSwap.c/(2403:2403): 
+             __^__                                      __^__
+            ( ___ )------------------------------------( ___ )   
+             | / |                                      | / |  
+             | / |      Bienvenidos al proceso Swap     | / |   
+             |___|                                      |___| 
+            (_____)------------------------------------(_____)
+
+[INFO] 13:59:08:289 funcionesSwap.c/(2403:2403): 
+Se ASIGNA el proceso:
+ n° de pid: 1
+ byte inicial: 0
+ byte final: 10
+
+
+[INFO] 13:59:11:298 funcionesSwap.c/(2403:2403): 
+Se ASIGNA el proceso:
+ n° de pid: 2
+ byte inicial: 10
+ byte final: 20
+
+
+[INFO] 13:59:14:307 funcionesSwap.c/(2403:2403): 
+Se ASIGNA el proceso:
+ n° de pid: 3
+ byte inicial: 20
+ byte final: 30
+
+
+[INFO] 13:59:17:317 funcionesSwap.c/(2403:2403): 
+Se ASIGNA el proceso:
+ n° de pid: 4
+ byte inicial: 30
+ byte final: 40
+
+
+[INFO] 13:59:20:326 funcionesSwap.c/(2403:2403): 
+Se ASIGNA el proceso:
+ n° de pid: 5
+ byte inicial: 40
+ byte final: 50
+
+
+[INFO] 13:59:23:335 funcionesSwap.c/(2403:2403): 
+Se ASIGNA el proceso:
+ n° de pid: 6
+ byte inicial: 50
+ byte final: 150
+
+
+[INFO] 13:59:25:542 funcionesSwap.c/(2403:2403): 
+Se ASIGNA el proceso:
+ n° de pid: 7
+ byte inicial: 150
+ byte final: 250
+
+
+[INFO] 13:59:27:747 funcionesSwap.c/(2403:2403): 
+Se ASIGNA el proceso:
+ n° de pid: 8
+ byte inicial: 250
+ byte final: 260
+
+
+[INFO] 13:59:30:755 funcionesSwap.c/(2403:2403): 
+Se ASIGNA el proceso:
+ n° de pid: 9
+ byte inicial: 260
+ byte final: 270
+
+
+[INFO] 13:59:33:764 funcionesSwap.c/(2403:2403): 
+Se ASIGNA el proceso:
+ n° de pid: 10
+ byte inicial: 270
+ byte final: 370
+
+
+[INFO] 13:59:35:970 funcionesSwap.c/(2403:2403): 
+Se ASIGNA el proceso:
+ n° de pid: 11
+ byte inicial: 370
+ byte final: 470
+
+
+[INFO] 13:59:38:176 funcionesSwap.c/(2403:2403): 
+Se ASIGNA el proceso:
+ n° de pid: 12
+ byte inicial: 470
+ byte final: 570
+
+
+[INFO] 13:59:40:382 funcionesSwap.c/(2403:2403): 
+Se ASIGNA el proceso:
+ n° de pid: 13
+ byte inicial: 570
+ byte final: 670
+
+
+[INFO] 13:59:42:588 funcionesSwap.c/(2403:2403): 
+Se ASIGNA el proceso:
+ n° de pid: 14
+ byte inicial: 670
+ byte final: 770
+
+
+[INFO] 14:01:01:416 funcionesSwap.c/(2403:2403): 
+Se LIBERA el proceso...
+ n° de PID: 1 
+ n° de byte inicial: 0 
+ n° de byte final: 10 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 14:01:02:819 funcionesSwap.c/(2403:2403): 
+Se LIBERA el proceso...
+ n° de PID: 2 
+ n° de byte inicial: 10 
+ n° de byte final: 20 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 14:01:06:629 funcionesSwap.c/(2403:2403): 
+Se LIBERA el proceso...
+ n° de PID: 3 
+ n° de byte inicial: 20 
+ n° de byte final: 30 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 14:01:08:33 funcionesSwap.c/(2403:2403): 
+Se LIBERA el proceso...
+ n° de PID: 4 
+ n° de byte inicial: 30 
+ n° de byte final: 40 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 14:01:09:436 funcionesSwap.c/(2403:2403): 
+Se LIBERA el proceso...
+ n° de PID: 5 
+ n° de byte inicial: 40 
+ n° de byte final: 50 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 14:01:13:245 funcionesSwap.c/(2403:2403): 
+Se LIBERA el proceso...
+ n° de PID: 8 
+ n° de byte inicial: 250 
+ n° de byte final: 260 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 14:01:14:649 funcionesSwap.c/(2403:2403): 
+Se LIBERA el proceso...
+ n° de PID: 9 
+ n° de byte inicial: 260 
+ n° de byte final: 270 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 14:02:36:52 funcionesSwap.c/(2403:2403): 
+Se LIBERA el proceso...
+ n° de PID: 6 
+ n° de byte inicial: 50 
+ n° de byte final: 150 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 14:02:41:49 funcionesSwap.c/(2403:2403): 
+Se LIBERA el proceso...
+ n° de PID: 7 
+ n° de byte inicial: 150 
+ n° de byte final: 250 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 14:02:46:50 funcionesSwap.c/(2403:2403): 
+Se LIBERA el proceso...
+ n° de PID: 10 
+ n° de byte inicial: 270 
+ n° de byte final: 370 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 14:02:51:50 funcionesSwap.c/(2403:2403): 
+Se LIBERA el proceso...
+ n° de PID: 11 
+ n° de byte inicial: 370 
+ n° de byte final: 470 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 14:02:56:51 funcionesSwap.c/(2403:2403): 
+Se LIBERA el proceso...
+ n° de PID: 12 
+ n° de byte inicial: 470 
+ n° de byte final: 570 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 14:03:01:51 funcionesSwap.c/(2403:2403): 
+Se LIBERA el proceso...
+ n° de PID: 13 
+ n° de byte inicial: 570 
+ n° de byte final: 670 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 14:03:06:52 funcionesSwap.c/(2403:2403): 
+Se LIBERA el proceso...
+ n° de PID: 14 
+ n° de byte inicial: 670 
+ n° de byte final: 770 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 14:08:01:884 funcionesSwap.c/(2568:2568): 
+             __^__                                      __^__
+            ( ___ )------------------------------------( ___ )   
+             | / |                                      | / |  
+             | / |      Bienvenidos al proceso Swap     | / |   
+             |___|                                      |___| 
+            (_____)------------------------------------(_____)
+
+[INFO] 14:08:37:113 funcionesSwap.c/(2568:2568): 
+Se ASIGNA el proceso:
+ n° de pid: 1
+ byte inicial: 0
+ byte final: 10
+
+
+[INFO] 14:08:38:919 funcionesSwap.c/(2568:2568): 
+Se ASIGNA el proceso:
+ n° de pid: 2
+ byte inicial: 10
+ byte final: 20
+
+
+[INFO] 14:08:40:724 funcionesSwap.c/(2568:2568): 
+Se ASIGNA el proceso:
+ n° de pid: 3
+ byte inicial: 20
+ byte final: 30
+
+
+[INFO] 14:08:42:530 funcionesSwap.c/(2568:2568): 
+Se ASIGNA el proceso:
+ n° de pid: 4
+ byte inicial: 30
+ byte final: 40
+
+
+[INFO] 14:08:44:338 funcionesSwap.c/(2568:2568): 
+Se ASIGNA el proceso:
+ n° de pid: 5
+ byte inicial: 40
+ byte final: 50
+
+
+[INFO] 14:08:46:144 funcionesSwap.c/(2568:2568): 
+Se ASIGNA el proceso:
+ n° de pid: 6
+ byte inicial: 50
+ byte final: 150
+
+
+[INFO] 14:08:48:350 funcionesSwap.c/(2568:2568): 
+Se ASIGNA el proceso:
+ n° de pid: 7
+ byte inicial: 150
+ byte final: 250
+
+
+[INFO] 14:08:50:556 funcionesSwap.c/(2568:2568): 
+Se ASIGNA el proceso:
+ n° de pid: 8
+ byte inicial: 250
+ byte final: 260
+
+
+[INFO] 14:08:52:362 funcionesSwap.c/(2568:2568): 
+Se ASIGNA el proceso:
+ n° de pid: 9
+ byte inicial: 260
+ byte final: 270
+
+
+[INFO] 14:08:54:169 funcionesSwap.c/(2568:2568): 
+Se ASIGNA el proceso:
+ n° de pid: 10
+ byte inicial: 270
+ byte final: 370
+
+
+[INFO] 14:08:56:375 funcionesSwap.c/(2568:2568): 
+Se ASIGNA el proceso:
+ n° de pid: 11
+ byte inicial: 370
+ byte final: 470
+
+
+[INFO] 14:08:58:582 funcionesSwap.c/(2568:2568): 
+Se ASIGNA el proceso:
+ n° de pid: 12
+ byte inicial: 470
+ byte final: 570
+
+
+[INFO] 14:09:00:788 funcionesSwap.c/(2568:2568): 
+Se ASIGNA el proceso:
+ n° de pid: 13
+ byte inicial: 570
+ byte final: 670
+
+
+[INFO] 14:09:02:994 funcionesSwap.c/(2568:2568): 
+Se ASIGNA el proceso:
+ n° de pid: 14
+ byte inicial: 670
+ byte final: 770
+
+
+[INFO] 14:10:14:797 funcionesSwap.c/(2568:2568): 
+Se ESCRIBE el proceso... 
+ n° de PID: 14 
+ n° de byte inicial: 670 
+ n° de byte final: 674 
+ contenido: IO B 
+ 
+[INFO] 14:10:54:126 funcionesSwap.c/(2568:2568): 
+Se LIBERA el proceso...
+ n° de PID: 1 
+ n° de byte inicial: 0 
+ n° de byte final: 10 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 14:10:55:128 funcionesSwap.c/(2568:2568): 
+Se LIBERA el proceso...
+ n° de PID: 2 
+ n° de byte inicial: 10 
+ n° de byte final: 20 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 14:10:56:131 funcionesSwap.c/(2568:2568): 
+Se LIBERA el proceso...
+ n° de PID: 3 
+ n° de byte inicial: 20 
+ n° de byte final: 30 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 14:10:57:133 funcionesSwap.c/(2568:2568): 
+Se LIBERA el proceso...
+ n° de PID: 4 
+ n° de byte inicial: 30 
+ n° de byte final: 40 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 14:10:59:539 funcionesSwap.c/(2568:2568): 
+Se LIBERA el proceso...
+ n° de PID: 5 
+ n° de byte inicial: 40 
+ n° de byte final: 50 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 14:11:00:541 funcionesSwap.c/(2568:2568): 
+Se LIBERA el proceso...
+ n° de PID: 8 
+ n° de byte inicial: 250 
+ n° de byte final: 260 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 14:11:01:543 funcionesSwap.c/(2568:2568): 
+Se LIBERA el proceso...
+ n° de PID: 9 
+ n° de byte inicial: 260 
+ n° de byte final: 270 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 14:11:02:545 funcionesSwap.c/(2568:2568): 
+Se LEE el proceso... 
+ n° de PID: 14 
+ n° de byte inicial: 670 
+ n° de byte final: 674 
+ contenido: IO B
+
+[INFO] 14:11:44:949 funcionesSwap.c/(2568:2568): 
+Se LIBERA el proceso...
+ n° de PID: 6 
+ n° de byte inicial: 50 
+ n° de byte final: 150 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 14:11:54:950 funcionesSwap.c/(2568:2568): 
+Se LIBERA el proceso...
+ n° de PID: 7 
+ n° de byte inicial: 150 
+ n° de byte final: 250 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 14:11:59:951 funcionesSwap.c/(2568:2568): 
+Se LIBERA el proceso...
+ n° de PID: 10 
+ n° de byte inicial: 270 
+ n° de byte final: 370 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 14:12:04:952 funcionesSwap.c/(2568:2568): 
+Se LIBERA el proceso...
+ n° de PID: 11 
+ n° de byte inicial: 370 
+ n° de byte final: 470 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 14:12:09:952 funcionesSwap.c/(2568:2568): 
+Se LIBERA el proceso...
+ n° de PID: 12 
+ n° de byte inicial: 470 
+ n° de byte final: 570 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 14:12:14:953 funcionesSwap.c/(2568:2568): 
+Se LIBERA el proceso...
+ n° de PID: 13 
+ n° de byte inicial: 570 
+ n° de byte final: 670 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 14:12:19:955 funcionesSwap.c/(2568:2568): 
+Se LIBERA el proceso...
+ n° de PID: 14 
+ n° de byte inicial: 670 
+ n° de byte final: 770 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 1
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 3
+
+[INFO] 14:38:55:378 funcionesSwap.c/(2657:2657): 
+             __^__                                      __^__
+            ( ___ )------------------------------------( ___ )   
+             | / |                                      | / |  
+             | / |      Bienvenidos al proceso Swap     | / |   
+             |___|                                      |___| 
+            (_____)------------------------------------(_____)
+
+[INFO] 14:39:32:790 funcionesSwap.c/(2688:2688): 
+             __^__                                      __^__
+            ( ___ )------------------------------------( ___ )   
+             | / |                                      | / |  
+             | / |      Bienvenidos al proceso Swap     | / |   
+             |___|                                      |___| 
+            (_____)------------------------------------(_____)
+
+[INFO] 14:39:44:244 funcionesSwap.c/(2688:2688): 
+Se ASIGNA el proceso:
+ n° de pid: 1
+ byte inicial: 0
+ byte final: 10
+
+
+[INFO] 14:39:46:51 funcionesSwap.c/(2688:2688): 
+Se ASIGNA el proceso:
+ n° de pid: 2
+ byte inicial: 10
+ byte final: 20
+
+
+[INFO] 14:39:47:856 funcionesSwap.c/(2688:2688): 
+Se ASIGNA el proceso:
+ n° de pid: 3
+ byte inicial: 20
+ byte final: 30
+
+
+[INFO] 14:39:49:662 funcionesSwap.c/(2688:2688): 
+Se ASIGNA el proceso:
+ n° de pid: 4
+ byte inicial: 30
+ byte final: 40
+
+
+[INFO] 14:39:51:468 funcionesSwap.c/(2688:2688): 
+Se ASIGNA el proceso:
+ n° de pid: 5
+ byte inicial: 40
+ byte final: 50
+
+
+[INFO] 14:39:53:274 funcionesSwap.c/(2688:2688): 
+Se ASIGNA el proceso:
+ n° de pid: 6
+ byte inicial: 50
+ byte final: 150
+
+
+[INFO] 14:39:55:480 funcionesSwap.c/(2688:2688): 
+Se ASIGNA el proceso:
+ n° de pid: 7
+ byte inicial: 150
+ byte final: 250
+
+
+[INFO] 14:39:57:686 funcionesSwap.c/(2688:2688): 
+Se ASIGNA el proceso:
+ n° de pid: 8
+ byte inicial: 250
+ byte final: 260
+
+
+[INFO] 14:39:59:493 funcionesSwap.c/(2688:2688): 
+Se ASIGNA el proceso:
+ n° de pid: 9
+ byte inicial: 260
+ byte final: 270
+
+
+[INFO] 14:40:01:299 funcionesSwap.c/(2688:2688): 
+Se ASIGNA el proceso:
+ n° de pid: 10
+ byte inicial: 270
+ byte final: 370
+
+
+[INFO] 14:40:03:505 funcionesSwap.c/(2688:2688): 
+Se ASIGNA el proceso:
+ n° de pid: 11
+ byte inicial: 370
+ byte final: 470
+
+
+[INFO] 14:40:05:712 funcionesSwap.c/(2688:2688): 
+Se ASIGNA el proceso:
+ n° de pid: 12
+ byte inicial: 470
+ byte final: 570
+
+
+[INFO] 14:40:07:919 funcionesSwap.c/(2688:2688): 
+Se ASIGNA el proceso:
+ n° de pid: 13
+ byte inicial: 570
+ byte final: 670
+
+
+[INFO] 14:40:10:126 funcionesSwap.c/(2688:2688): 
+Se ASIGNA el proceso:
+ n° de pid: 14
+ byte inicial: 670
+ byte final: 770
+
+
+[INFO] 14:41:25:367 funcionesSwap.c/(2688:2688): 
+Se ESCRIBE el proceso... 
+ n° de PID: 14 
+ n° de byte inicial: 670 
+ n° de byte final: 674 
+ contenido: IO B 
+ 
+[INFO] 14:41:57:915 funcionesSwap.c/(2688:2688): 
+Se LIBERA el proceso...
+ n° de PID: 1 
+ n° de byte inicial: 0 
+ n° de byte final: 10 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 14:41:58:918 funcionesSwap.c/(2688:2688): 
+Se LIBERA el proceso...
+ n° de PID: 2 
+ n° de byte inicial: 10 
+ n° de byte final: 20 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 14:42:00:322 funcionesSwap.c/(2688:2688): 
+Se LIBERA el proceso...
+ n° de PID: 3 
+ n° de byte inicial: 20 
+ n° de byte final: 30 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 14:42:01:725 funcionesSwap.c/(2688:2688): 
+Se LIBERA el proceso...
+ n° de PID: 4 
+ n° de byte inicial: 30 
+ n° de byte final: 40 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 14:42:03:129 funcionesSwap.c/(2688:2688): 
+Se LIBERA el proceso...
+ n° de PID: 5 
+ n° de byte inicial: 40 
+ n° de byte final: 50 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 14:42:04:130 funcionesSwap.c/(2688:2688): 
+Se LIBERA el proceso...
+ n° de PID: 8 
+ n° de byte inicial: 250 
+ n° de byte final: 260 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 14:42:06:537 funcionesSwap.c/(2688:2688): 
+Se LIBERA el proceso...
+ n° de PID: 9 
+ n° de byte inicial: 260 
+ n° de byte final: 270 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 14:42:08:942 funcionesSwap.c/(2688:2688): 
+Se LEE el proceso... 
+ n° de PID: 14 
+ n° de byte inicial: 670 
+ n° de byte final: 674 
+ contenido: IO B
+
+[INFO] 14:42:52:734 funcionesSwap.c/(2688:2688): 
+Se LIBERA el proceso...
+ n° de PID: 6 
+ n° de byte inicial: 50 
+ n° de byte final: 150 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 14:43:02:735 funcionesSwap.c/(2688:2688): 
+Se LIBERA el proceso...
+ n° de PID: 7 
+ n° de byte inicial: 150 
+ n° de byte final: 250 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 14:43:07:736 funcionesSwap.c/(2688:2688): 
+Se LIBERA el proceso...
+ n° de PID: 10 
+ n° de byte inicial: 270 
+ n° de byte final: 370 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 14:43:12:737 funcionesSwap.c/(2688:2688): 
+Se LIBERA el proceso...
+ n° de PID: 11 
+ n° de byte inicial: 370 
+ n° de byte final: 470 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 14:43:17:738 funcionesSwap.c/(2688:2688): 
+Se LIBERA el proceso...
+ n° de PID: 12 
+ n° de byte inicial: 470 
+ n° de byte final: 570 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 14:43:22:738 funcionesSwap.c/(2688:2688): 
+Se LIBERA el proceso...
+ n° de PID: 13 
+ n° de byte inicial: 570 
+ n° de byte final: 670 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 14:43:27:739 funcionesSwap.c/(2688:2688): 
+Se LIBERA el proceso...
+ n° de PID: 14 
+ n° de byte inicial: 670 
+ n° de byte final: 770 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 1
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 3
+
+[INFO] 15:33:20:465 funcionesSwap.c/(2866:2866): 
+             __^__                                      __^__
+            ( ___ )------------------------------------( ___ )   
+             | / |                                      | / |  
+             | / |      Bienvenidos al proceso Swap     | / |   
+             |___|                                      |___| 
+            (_____)------------------------------------(_____)
+
+[INFO] 15:33:34:897 funcionesSwap.c/(2866:2866): 
+Se ASIGNA el proceso:
+ n° de pid: 1
+ byte inicial: 0
+ byte final: 10
+
+
+[INFO] 15:33:36:702 funcionesSwap.c/(2866:2866): 
+Se ASIGNA el proceso:
+ n° de pid: 2
+ byte inicial: 10
+ byte final: 20
+
+
+[INFO] 15:33:38:508 funcionesSwap.c/(2866:2866): 
+Se ASIGNA el proceso:
+ n° de pid: 3
+ byte inicial: 20
+ byte final: 30
+
+
+[INFO] 15:33:40:313 funcionesSwap.c/(2866:2866): 
+Se ASIGNA el proceso:
+ n° de pid: 4
+ byte inicial: 30
+ byte final: 40
+
+
+[INFO] 15:33:42:118 funcionesSwap.c/(2866:2866): 
+Se ASIGNA el proceso:
+ n° de pid: 5
+ byte inicial: 40
+ byte final: 50
+
+
+[INFO] 15:33:45:128 funcionesSwap.c/(2866:2866): 
+Se ASIGNA el proceso:
+ n° de pid: 6
+ byte inicial: 50
+ byte final: 150
+
+
+[INFO] 15:33:47:937 funcionesSwap.c/(2866:2866): 
+Se ASIGNA el proceso:
+ n° de pid: 7
+ byte inicial: 150
+ byte final: 250
+
+
+[INFO] 15:34:44:109 funcionesSwap.c/(2866:2866): 
+Se LIBERA el proceso...
+ n° de PID: 1 
+ n° de byte inicial: 0 
+ n° de byte final: 10 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 15:34:45:113 funcionesSwap.c/(2866:2866): 
+Se LIBERA el proceso...
+ n° de PID: 2 
+ n° de byte inicial: 10 
+ n° de byte final: 20 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 15:34:46:115 funcionesSwap.c/(2866:2866): 
+Se LIBERA el proceso...
+ n° de PID: 3 
+ n° de byte inicial: 20 
+ n° de byte final: 30 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 15:34:48:119 funcionesSwap.c/(2866:2866): 
+Se LIBERA el proceso...
+ n° de PID: 4 
+ n° de byte inicial: 30 
+ n° de byte final: 40 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 15:34:49:121 funcionesSwap.c/(2866:2866): 
+Se LIBERA el proceso...
+ n° de PID: 5 
+ n° de byte inicial: 40 
+ n° de byte final: 50 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 15:34:49:523 funcionesSwap.c/(2866:2866): 
+Se LIBERA el proceso...
+ n° de PID: 6 
+ n° de byte inicial: 50 
+ n° de byte final: 150 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 15:34:52:519 funcionesSwap.c/(2866:2866): 
+Se LIBERA el proceso...
+ n° de PID: 7 
+ n° de byte inicial: 150 
+ n° de byte final: 250 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 16:37:37:997 funcionesSwap.c/(3159:3159): 
+             __^__                                      __^__
+            ( ___ )------------------------------------( ___ )   
+             | / |                                      | / |  
+             | / |      Bienvenidos al proceso Swap     | / |   
+             |___|                                      |___| 
+            (_____)------------------------------------(_____)
+
+[INFO] 16:37:58:774 funcionesSwap.c/(3159:3159): 
+Se ASIGNA el proceso:
+ n° de pid: 1
+ byte inicial: 0
+ byte final: 10
+
+
+[INFO] 16:38:00:579 funcionesSwap.c/(3159:3159): 
+Se ASIGNA el proceso:
+ n° de pid: 2
+ byte inicial: 10
+ byte final: 20
+
+
+[INFO] 16:38:02:384 funcionesSwap.c/(3159:3159): 
+Se ASIGNA el proceso:
+ n° de pid: 3
+ byte inicial: 20
+ byte final: 30
+
+
+[INFO] 16:38:04:190 funcionesSwap.c/(3159:3159): 
+Se ASIGNA el proceso:
+ n° de pid: 4
+ byte inicial: 30
+ byte final: 40
+
+
+[INFO] 16:38:05:996 funcionesSwap.c/(3159:3159): 
+Se ASIGNA el proceso:
+ n° de pid: 5
+ byte inicial: 40
+ byte final: 50
+
+
+[INFO] 16:38:07:801 funcionesSwap.c/(3159:3159): 
+Se ASIGNA el proceso:
+ n° de pid: 6
+ byte inicial: 50
+ byte final: 150
+
+
+[INFO] 16:38:10:7 funcionesSwap.c/(3159:3159): 
+Se ASIGNA el proceso:
+ n° de pid: 7
+ byte inicial: 150
+ byte final: 250
+
+
+[INFO] 16:38:12:213 funcionesSwap.c/(3159:3159): 
+Se ASIGNA el proceso:
+ n° de pid: 8
+ byte inicial: 250
+ byte final: 260
+
+
+[INFO] 16:38:14:19 funcionesSwap.c/(3159:3159): 
+Se ASIGNA el proceso:
+ n° de pid: 9
+ byte inicial: 260
+ byte final: 270
+
+
+[INFO] 16:38:15:825 funcionesSwap.c/(3159:3159): 
+Se ASIGNA el proceso:
+ n° de pid: 10
+ byte inicial: 270
+ byte final: 370
+
+
+[INFO] 16:38:18:31 funcionesSwap.c/(3159:3159): 
+Se ASIGNA el proceso:
+ n° de pid: 11
+ byte inicial: 370
+ byte final: 470
+
+
+[INFO] 16:38:20:237 funcionesSwap.c/(3159:3159): 
+Se ASIGNA el proceso:
+ n° de pid: 12
+ byte inicial: 470
+ byte final: 570
+
+
+[INFO] 16:38:22:444 funcionesSwap.c/(3159:3159): 
+Se ASIGNA el proceso:
+ n° de pid: 13
+ byte inicial: 570
+ byte final: 670
+
+
+[INFO] 16:38:24:650 funcionesSwap.c/(3159:3159): 
+Se ASIGNA el proceso:
+ n° de pid: 14
+ byte inicial: 670
+ byte final: 770
+
+
+[INFO] 16:39:39:871 funcionesSwap.c/(3159:3159): 
+Se ESCRIBE el proceso... 
+ n° de PID: 14 
+ n° de byte inicial: 670 
+ n° de byte final: 674 
+ contenido: IO B 
+ 
+[INFO] 16:40:12:416 funcionesSwap.c/(3159:3159): 
+Se LIBERA el proceso...
+ n° de PID: 1 
+ n° de byte inicial: 0 
+ n° de byte final: 10 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 16:40:13:418 funcionesSwap.c/(3159:3159): 
+Se LIBERA el proceso...
+ n° de PID: 2 
+ n° de byte inicial: 10 
+ n° de byte final: 20 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 16:40:14:821 funcionesSwap.c/(3159:3159): 
+Se LIBERA el proceso...
+ n° de PID: 3 
+ n° de byte inicial: 20 
+ n° de byte final: 30 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 16:40:16:224 funcionesSwap.c/(3159:3159): 
+Se LIBERA el proceso...
+ n° de PID: 4 
+ n° de byte inicial: 30 
+ n° de byte final: 40 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 16:40:17:627 funcionesSwap.c/(3159:3159): 
+Se LIBERA el proceso...
+ n° de PID: 5 
+ n° de byte inicial: 40 
+ n° de byte final: 50 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 16:40:18:630 funcionesSwap.c/(3159:3159): 
+Se LIBERA el proceso...
+ n° de PID: 8 
+ n° de byte inicial: 250 
+ n° de byte final: 260 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 16:40:21:36 funcionesSwap.c/(3159:3159): 
+Se LIBERA el proceso...
+ n° de PID: 9 
+ n° de byte inicial: 260 
+ n° de byte final: 270 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 16:40:23:441 funcionesSwap.c/(3159:3159): 
+Se LEE el proceso... 
+ n° de PID: 14 
+ n° de byte inicial: 670 
+ n° de byte final: 674 
+ contenido: IO B
+
+[INFO] 16:41:07:233 funcionesSwap.c/(3159:3159): 
+Se LIBERA el proceso...
+ n° de PID: 6 
+ n° de byte inicial: 50 
+ n° de byte final: 150 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 16:41:17:235 funcionesSwap.c/(3159:3159): 
+Se LIBERA el proceso...
+ n° de PID: 7 
+ n° de byte inicial: 150 
+ n° de byte final: 250 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 16:41:22:237 funcionesSwap.c/(3159:3159): 
+Se LIBERA el proceso...
+ n° de PID: 10 
+ n° de byte inicial: 270 
+ n° de byte final: 370 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 16:41:27:237 funcionesSwap.c/(3159:3159): 
+Se LIBERA el proceso...
+ n° de PID: 11 
+ n° de byte inicial: 370 
+ n° de byte final: 470 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 16:41:32:237 funcionesSwap.c/(3159:3159): 
+Se LIBERA el proceso...
+ n° de PID: 12 
+ n° de byte inicial: 470 
+ n° de byte final: 570 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 16:41:37:238 funcionesSwap.c/(3159:3159): 
+Se LIBERA el proceso...
+ n° de PID: 13 
+ n° de byte inicial: 570 
+ n° de byte final: 670 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 16:41:42:239 funcionesSwap.c/(3159:3159): 
+Se LIBERA el proceso...
+ n° de PID: 14 
+ n° de byte inicial: 670 
+ n° de byte final: 770 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 1
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 3
+
+[INFO] 17:02:26:405 funcionesSwap.c/(3225:3225): 
+             __^__                                      __^__
+            ( ___ )------------------------------------( ___ )   
+             | / |                                      | / |  
+             | / |      Bienvenidos al proceso Swap     | / |   
+             |___|                                      |___| 
+            (_____)------------------------------------(_____)
+
+[INFO] 17:02:38:748 funcionesSwap.c/(3225:3225): 
+Se ASIGNA el proceso:
+ n° de pid: 1
+ byte inicial: 0
+ byte final: 10
+
+
+[INFO] 17:02:40:554 funcionesSwap.c/(3225:3225): 
+Se ASIGNA el proceso:
+ n° de pid: 2
+ byte inicial: 10
+ byte final: 20
+
+
+[INFO] 17:02:42:358 funcionesSwap.c/(3225:3225): 
+Se ASIGNA el proceso:
+ n° de pid: 3
+ byte inicial: 20
+ byte final: 30
+
+
+[INFO] 17:02:44:164 funcionesSwap.c/(3225:3225): 
+Se ASIGNA el proceso:
+ n° de pid: 4
+ byte inicial: 30
+ byte final: 40
+
+
+[INFO] 17:02:45:969 funcionesSwap.c/(3225:3225): 
+Se ASIGNA el proceso:
+ n° de pid: 5
+ byte inicial: 40
+ byte final: 50
+
+
+[INFO] 17:03:30:519 funcionesSwap.c/(3225:3225): 
+Se LIBERA el proceso...
+ n° de PID: 1 
+ n° de byte inicial: 0 
+ n° de byte final: 10 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 17:03:31:521 funcionesSwap.c/(3225:3225): 
+Se LIBERA el proceso...
+ n° de PID: 2 
+ n° de byte inicial: 10 
+ n° de byte final: 20 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 17:03:32:523 funcionesSwap.c/(3225:3225): 
+Se LIBERA el proceso...
+ n° de PID: 3 
+ n° de byte inicial: 20 
+ n° de byte final: 30 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 17:03:33:526 funcionesSwap.c/(3225:3225): 
+Se LIBERA el proceso...
+ n° de PID: 4 
+ n° de byte inicial: 30 
+ n° de byte final: 40 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 17:03:34:529 funcionesSwap.c/(3225:3225): 
+Se LIBERA el proceso...
+ n° de PID: 5 
+ n° de byte inicial: 40 
+ n° de byte final: 50 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 17:45:58:647 funcionesSwap.c/(3446:3446): 
+             __^__                                      __^__
+            ( ___ )------------------------------------( ___ )   
+             | / |                                      | / |  
+             | / |      Bienvenidos al proceso Swap     | / |   
+             |___|                                      |___| 
+            (_____)------------------------------------(_____)
+
+[INFO] 17:46:13:207 funcionesSwap.c/(3446:3446): 
+Se ASIGNA el proceso:
+ n° de pid: 1
+ byte inicial: 0
+ byte final: 10
+
+
+[INFO] 17:46:15:13 funcionesSwap.c/(3446:3446): 
+Se ASIGNA el proceso:
+ n° de pid: 2
+ byte inicial: 10
+ byte final: 20
+
+
+[INFO] 17:46:16:818 funcionesSwap.c/(3446:3446): 
+Se ASIGNA el proceso:
+ n° de pid: 3
+ byte inicial: 20
+ byte final: 30
+
+
+[INFO] 17:46:18:624 funcionesSwap.c/(3446:3446): 
+Se ASIGNA el proceso:
+ n° de pid: 4
+ byte inicial: 30
+ byte final: 40
+
+
+[INFO] 17:46:20:430 funcionesSwap.c/(3446:3446): 
+Se ASIGNA el proceso:
+ n° de pid: 5
+ byte inicial: 40
+ byte final: 50
+
+
+[INFO] 17:46:22:236 funcionesSwap.c/(3446:3446): 
+Se ASIGNA el proceso:
+ n° de pid: 6
+ byte inicial: 50
+ byte final: 150
+
+
+[INFO] 17:46:24:442 funcionesSwap.c/(3446:3446): 
+Se ASIGNA el proceso:
+ n° de pid: 7
+ byte inicial: 150
+ byte final: 250
+
+
+[INFO] 17:47:23:425 funcionesSwap.c/(3446:3446): 
+Se LIBERA el proceso...
+ n° de PID: 1 
+ n° de byte inicial: 0 
+ n° de byte final: 10 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 17:47:24:427 funcionesSwap.c/(3446:3446): 
+Se LIBERA el proceso...
+ n° de PID: 2 
+ n° de byte inicial: 10 
+ n° de byte final: 20 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 17:47:24:829 funcionesSwap.c/(3446:3446): 
+Se LIBERA el proceso...
+ n° de PID: 6 
+ n° de byte inicial: 50 
+ n° de byte final: 150 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 17:47:25:832 funcionesSwap.c/(3446:3446): 
+Se LIBERA el proceso...
+ n° de PID: 3 
+ n° de byte inicial: 20 
+ n° de byte final: 30 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 17:47:26:834 funcionesSwap.c/(3446:3446): 
+Se LIBERA el proceso...
+ n° de PID: 4 
+ n° de byte inicial: 30 
+ n° de byte final: 40 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 17:47:27:837 funcionesSwap.c/(3446:3446): 
+Se LIBERA el proceso...
+ n° de PID: 5 
+ n° de byte inicial: 40 
+ n° de byte final: 50 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 17:47:28:238 funcionesSwap.c/(3446:3446): 
+Se LIBERA el proceso...
+ n° de PID: 7 
+ n° de byte inicial: 150 
+ n° de byte final: 250 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 17:47:56:228 funcionesSwap.c/(3479:3479): 
+             __^__                                      __^__
+            ( ___ )------------------------------------( ___ )   
+             | / |                                      | / |  
+             | / |      Bienvenidos al proceso Swap     | / |   
+             |___|                                      |___| 
+            (_____)------------------------------------(_____)
+
+[INFO] 17:48:06:660 funcionesSwap.c/(3479:3479): 
+Se ASIGNA el proceso:
+ n° de pid: 1
+ byte inicial: 0
+ byte final: 10
+
+
+[INFO] 17:48:08:465 funcionesSwap.c/(3479:3479): 
+Se ASIGNA el proceso:
+ n° de pid: 2
+ byte inicial: 10
+ byte final: 20
+
+
+[INFO] 17:48:10:271 funcionesSwap.c/(3479:3479): 
+Se ASIGNA el proceso:
+ n° de pid: 3
+ byte inicial: 20
+ byte final: 30
+
+
+[INFO] 17:48:12:76 funcionesSwap.c/(3479:3479): 
+Se ASIGNA el proceso:
+ n° de pid: 4
+ byte inicial: 30
+ byte final: 40
+
+
+[INFO] 17:48:13:883 funcionesSwap.c/(3479:3479): 
+Se ASIGNA el proceso:
+ n° de pid: 5
+ byte inicial: 40
+ byte final: 50
+
+
+[INFO] 17:48:15:688 funcionesSwap.c/(3479:3479): 
+Se ASIGNA el proceso:
+ n° de pid: 6
+ byte inicial: 50
+ byte final: 150
+
+
+[INFO] 17:48:17:895 funcionesSwap.c/(3479:3479): 
+Se ASIGNA el proceso:
+ n° de pid: 7
+ byte inicial: 150
+ byte final: 250
+
+
+[INFO] 17:48:20:101 funcionesSwap.c/(3479:3479): 
+Se ASIGNA el proceso:
+ n° de pid: 8
+ byte inicial: 250
+ byte final: 260
+
+
+[INFO] 17:48:21:906 funcionesSwap.c/(3479:3479): 
+Se ASIGNA el proceso:
+ n° de pid: 9
+ byte inicial: 260
+ byte final: 270
+
+
+[INFO] 17:48:23:712 funcionesSwap.c/(3479:3479): 
+Se ASIGNA el proceso:
+ n° de pid: 10
+ byte inicial: 270
+ byte final: 370
+
+
+[INFO] 17:48:25:919 funcionesSwap.c/(3479:3479): 
+Se ASIGNA el proceso:
+ n° de pid: 11
+ byte inicial: 370
+ byte final: 470
+
+
+[INFO] 17:48:28:126 funcionesSwap.c/(3479:3479): 
+Se ASIGNA el proceso:
+ n° de pid: 12
+ byte inicial: 470
+ byte final: 570
+
+
+[INFO] 17:48:30:335 funcionesSwap.c/(3479:3479): 
+Se ASIGNA el proceso:
+ n° de pid: 13
+ byte inicial: 570
+ byte final: 670
+
+
+[INFO] 17:48:32:541 funcionesSwap.c/(3479:3479): 
+Se ASIGNA el proceso:
+ n° de pid: 14
+ byte inicial: 670
+ byte final: 770
+
+
+[INFO] 17:49:44:349 funcionesSwap.c/(3479:3479): 
+Se ESCRIBE el proceso... 
+ n° de PID: 14 
+ n° de byte inicial: 670 
+ n° de byte final: 674 
+ contenido: IO B 
+ 
+[INFO] 17:50:23:661 funcionesSwap.c/(3479:3479): 
+Se LIBERA el proceso...
+ n° de PID: 1 
+ n° de byte inicial: 0 
+ n° de byte final: 10 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 17:50:24:664 funcionesSwap.c/(3479:3479): 
+Se LIBERA el proceso...
+ n° de PID: 2 
+ n° de byte inicial: 10 
+ n° de byte final: 20 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 17:50:25:666 funcionesSwap.c/(3479:3479): 
+Se LIBERA el proceso...
+ n° de PID: 3 
+ n° de byte inicial: 20 
+ n° de byte final: 30 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 17:50:26:669 funcionesSwap.c/(3479:3479): 
+Se LIBERA el proceso...
+ n° de PID: 4 
+ n° de byte inicial: 30 
+ n° de byte final: 40 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 17:50:29:74 funcionesSwap.c/(3479:3479): 
+Se LIBERA el proceso...
+ n° de PID: 5 
+ n° de byte inicial: 40 
+ n° de byte final: 50 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 17:50:30:77 funcionesSwap.c/(3479:3479): 
+Se LIBERA el proceso...
+ n° de PID: 8 
+ n° de byte inicial: 250 
+ n° de byte final: 260 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 17:50:31:78 funcionesSwap.c/(3479:3479): 
+Se LIBERA el proceso...
+ n° de PID: 9 
+ n° de byte inicial: 260 
+ n° de byte final: 270 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 17:50:32:80 funcionesSwap.c/(3479:3479): 
+Se LEE el proceso... 
+ n° de PID: 14 
+ n° de byte inicial: 670 
+ n° de byte final: 674 
+ contenido: IO B
+
+[INFO] 17:51:14:484 funcionesSwap.c/(3479:3479): 
+Se LIBERA el proceso...
+ n° de PID: 6 
+ n° de byte inicial: 50 
+ n° de byte final: 150 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 17:51:24:484 funcionesSwap.c/(3479:3479): 
+Se LIBERA el proceso...
+ n° de PID: 7 
+ n° de byte inicial: 150 
+ n° de byte final: 250 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 17:51:29:485 funcionesSwap.c/(3479:3479): 
+Se LIBERA el proceso...
+ n° de PID: 10 
+ n° de byte inicial: 270 
+ n° de byte final: 370 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 17:51:34:490 funcionesSwap.c/(3479:3479): 
+Se LIBERA el proceso...
+ n° de PID: 11 
+ n° de byte inicial: 370 
+ n° de byte final: 470 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 17:51:39:487 funcionesSwap.c/(3479:3479): 
+Se LIBERA el proceso...
+ n° de PID: 12 
+ n° de byte inicial: 470 
+ n° de byte final: 570 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 17:51:44:487 funcionesSwap.c/(3479:3479): 
+Se LIBERA el proceso...
+ n° de PID: 13 
+ n° de byte inicial: 570 
+ n° de byte final: 670 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 17:51:49:487 funcionesSwap.c/(3479:3479): 
+Se LIBERA el proceso...
+ n° de PID: 14 
+ n° de byte inicial: 670 
+ n° de byte final: 770 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 1
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 3
+
+[INFO] 17:52:07:29 funcionesSwap.c/(3527:3527): 
+             __^__                                      __^__
+            ( ___ )------------------------------------( ___ )   
+             | / |                                      | / |  
+             | / |      Bienvenidos al proceso Swap     | / |   
+             |___|                                      |___| 
+            (_____)------------------------------------(_____)
+
+[INFO] 17:52:16:324 funcionesSwap.c/(3527:3527): 
+Se ASIGNA el proceso:
+ n° de pid: 1
+ byte inicial: 0
+ byte final: 10
+
+
+[INFO] 17:52:18:129 funcionesSwap.c/(3527:3527): 
+Se ASIGNA el proceso:
+ n° de pid: 2
+ byte inicial: 10
+ byte final: 20
+
+
+[INFO] 17:52:19:935 funcionesSwap.c/(3527:3527): 
+Se ASIGNA el proceso:
+ n° de pid: 3
+ byte inicial: 20
+ byte final: 30
+
+
+[INFO] 17:52:21:741 funcionesSwap.c/(3527:3527): 
+Se ASIGNA el proceso:
+ n° de pid: 4
+ byte inicial: 30
+ byte final: 40
+
+
+[INFO] 17:52:23:551 funcionesSwap.c/(3527:3527): 
+Se ASIGNA el proceso:
+ n° de pid: 6
+ byte inicial: 40
+ byte final: 140
+
+
+[INFO] 17:52:25:756 funcionesSwap.c/(3527:3527): 
+Se ASIGNA el proceso:
+ n° de pid: 5
+ byte inicial: 140
+ byte final: 150
+
+
+[INFO] 17:22:03:116 funcionesSwap.c/(3353:3353): 
+             __^__                                      __^__
+            ( ___ )------------------------------------( ___ )   
+             | / |                                      | / |  
+             | / |      Bienvenidos al proceso Swap     | / |   
+             |___|                                      |___| 
+            (_____)------------------------------------(_____)
+
+[INFO] 17:23:55:425 funcionesSwap.c/(3353:3353): 
+Se ASIGNA el proceso:
+ n° de pid: 1
+ byte inicial: 0
+ byte final: 10
+
+
+[INFO] 17:23:57:228 funcionesSwap.c/(3353:3353): 
+Se ASIGNA el proceso:
+ n° de pid: 2
+ byte inicial: 10
+ byte final: 20
+
+
+[INFO] 17:23:59:32 funcionesSwap.c/(3353:3353): 
+Se ASIGNA el proceso:
+ n° de pid: 3
+ byte inicial: 20
+ byte final: 30
+
+
+[INFO] 17:24:00:834 funcionesSwap.c/(3353:3353): 
+Se ASIGNA el proceso:
+ n° de pid: 4
+ byte inicial: 30
+ byte final: 40
+
+
+[INFO] 17:24:02:637 funcionesSwap.c/(3353:3353): 
+Se ASIGNA el proceso:
+ n° de pid: 5
+ byte inicial: 40
+ byte final: 50
+
+
+[INFO] 17:24:04:440 funcionesSwap.c/(3353:3353): 
+Se ASIGNA el proceso:
+ n° de pid: 6
+ byte inicial: 50
+ byte final: 150
+
+
+[INFO] 17:24:06:643 funcionesSwap.c/(3353:3353): 
+Se ASIGNA el proceso:
+ n° de pid: 7
+ byte inicial: 150
+ byte final: 250
+
+
+[INFO] 17:24:08:845 funcionesSwap.c/(3353:3353): 
+Se ASIGNA el proceso:
+ n° de pid: 8
+ byte inicial: 250
+ byte final: 260
+
+
+[INFO] 17:24:10:647 funcionesSwap.c/(3353:3353): 
+Se ASIGNA el proceso:
+ n° de pid: 9
+ byte inicial: 260
+ byte final: 270
+
+
+[INFO] 17:24:12:451 funcionesSwap.c/(3353:3353): 
+Se ASIGNA el proceso:
+ n° de pid: 10
+ byte inicial: 270
+ byte final: 370
+
+
+[INFO] 17:24:14:654 funcionesSwap.c/(3353:3353): 
+Se ASIGNA el proceso:
+ n° de pid: 11
+ byte inicial: 370
+ byte final: 470
+
+
+[INFO] 17:24:16:858 funcionesSwap.c/(3353:3353): 
+Se ASIGNA el proceso:
+ n° de pid: 12
+ byte inicial: 470
+ byte final: 570
+
+
+[INFO] 17:24:19:61 funcionesSwap.c/(3353:3353): 
+Se ASIGNA el proceso:
+ n° de pid: 13
+ byte inicial: 570
+ byte final: 670
+
+
+[INFO] 17:24:21:264 funcionesSwap.c/(3353:3353): 
+Se ASIGNA el proceso:
+ n° de pid: 14
+ byte inicial: 670
+ byte final: 770
+
+
+[INFO] 17:25:36:786 funcionesSwap.c/(3353:3353): 
+Se ESCRIBE el proceso... 
+ n° de PID: 14 
+ n° de byte inicial: 670 
+ n° de byte final: 674 
+ contenido: IO B 
+ 
+[INFO] 17:26:08:832 funcionesSwap.c/(3353:3353): 
+Se LIBERA el proceso...
+ n° de PID: 1 
+ n° de byte inicial: 0 
+ n° de byte final: 10 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 17:26:09:833 funcionesSwap.c/(3353:3353): 
+Se LIBERA el proceso...
+ n° de PID: 2 
+ n° de byte inicial: 10 
+ n° de byte final: 20 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 17:26:11:235 funcionesSwap.c/(3353:3353): 
+Se LIBERA el proceso...
+ n° de PID: 3 
+ n° de byte inicial: 20 
+ n° de byte final: 30 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 17:26:12:637 funcionesSwap.c/(3353:3353): 
+Se LIBERA el proceso...
+ n° de PID: 4 
+ n° de byte inicial: 30 
+ n° de byte final: 40 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 17:26:14:39 funcionesSwap.c/(3353:3353): 
+Se LIBERA el proceso...
+ n° de PID: 5 
+ n° de byte inicial: 40 
+ n° de byte final: 50 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 17:26:15:441 funcionesSwap.c/(3353:3353): 
+Se LIBERA el proceso...
+ n° de PID: 8 
+ n° de byte inicial: 250 
+ n° de byte final: 260 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 17:26:16:442 funcionesSwap.c/(3353:3353): 
+Se LIBERA el proceso...
+ n° de PID: 9 
+ n° de byte inicial: 260 
+ n° de byte final: 270 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 17:26:20:248 funcionesSwap.c/(3353:3353): 
+Se LEE el proceso... 
+ n° de PID: 14 
+ n° de byte inicial: 670 
+ n° de byte final: 674 
+ contenido: IO B
+
+[INFO] 17:27:05:43 funcionesSwap.c/(3353:3353): 
+Se LIBERA el proceso...
+ n° de PID: 6 
+ n° de byte inicial: 50 
+ n° de byte final: 150 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 17:27:15:44 funcionesSwap.c/(3353:3353): 
+Se LIBERA el proceso...
+ n° de PID: 7 
+ n° de byte inicial: 150 
+ n° de byte final: 250 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 17:27:20:45 funcionesSwap.c/(3353:3353): 
+Se LIBERA el proceso...
+ n° de PID: 10 
+ n° de byte inicial: 270 
+ n° de byte final: 370 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 17:27:25:46 funcionesSwap.c/(3353:3353): 
+Se LIBERA el proceso...
+ n° de PID: 11 
+ n° de byte inicial: 370 
+ n° de byte final: 470 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 17:27:30:46 funcionesSwap.c/(3353:3353): 
+Se LIBERA el proceso...
+ n° de PID: 12 
+ n° de byte inicial: 470 
+ n° de byte final: 570 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 17:27:35:47 funcionesSwap.c/(3353:3353): 
+Se LIBERA el proceso...
+ n° de PID: 13 
+ n° de byte inicial: 570 
+ n° de byte final: 670 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 2
+
+[INFO] 17:27:40:47 funcionesSwap.c/(3353:3353): 
+Se LIBERA el proceso...
+ n° de PID: 14 
+ n° de byte inicial: 670 
+ n° de byte final: 770 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 1
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 3
+
+[INFO] 17:28:49:975 funcionesSwap.c/(3353:3353): 
+Se ASIGNA el proceso:
+ n° de pid: 19
+ byte inicial: 670
+ byte final: 720
+
+
+[INFO] 17:28:49:975 funcionesSwap.c/(3353:3353): 
+Se ASIGNA el proceso:
+ n° de pid: 19
+ byte inicial: 163840856
+ byte final: 163840906
+
+
+[INFO] 17:28:49:975 funcionesSwap.c/(3353:3353): 
+Se ASIGNA el proceso:
+ n° de pid: 19
+ byte inicial: 163841848
+ byte final: 163841898
+
+
+[INFO] 17:28:49:975 funcionesSwap.c/(3353:3353): 
+Se ASIGNA el proceso:
+ n° de pid: 19
+ byte inicial: 163844456
+ byte final: 163844506
+
+
+[INFO] 17:28:49:975 funcionesSwap.c/(3353:3353): 
+Se ASIGNA el proceso:
+ n° de pid: 19
+ byte inicial: 163845448
+ byte final: 163845498
+
+
+[INFO] 17:28:49:975 funcionesSwap.c/(3353:3353): 
+Se ASIGNA el proceso:
+ n° de pid: 19
+ byte inicial: 163846488
+ byte final: 163846538
+
+
+[INFO] 17:28:49:975 funcionesSwap.c/(3353:3353): 
+Se ASIGNA el proceso:
+ n° de pid: 19
+ byte inicial: 163847528
+ byte final: 163847578
+
+
+[INFO] 17:29:46:732 funcionesSwap.c/(3560:3560): 
+             __^__                                      __^__
+            ( ___ )------------------------------------( ___ )   
+             | / |                                      | / |  
+             | / |      Bienvenidos al proceso Swap     | / |   
+             |___|                                      |___| 
+            (_____)------------------------------------(_____)
+
+[INFO] 17:30:21:985 funcionesSwap.c/(3560:3560): 
+Se ASIGNA el proceso:
+ n° de pid: 1
+ byte inicial: 0
+ byte final: 50
+
+
+[INFO] 17:30:23:788 funcionesSwap.c/(3560:3560): 
+Se ASIGNA el proceso:
+ n° de pid: 2
+ byte inicial: 50
+ byte final: 100
+
+
+[INFO] 17:30:25:591 funcionesSwap.c/(3560:3560): 
+Se ASIGNA el proceso:
+ n° de pid: 3
+ byte inicial: 100
+ byte final: 130
+
+
+[INFO] 17:30:27:394 funcionesSwap.c/(3560:3560): 
+Se ASIGNA el proceso:
+ n° de pid: 4
+ byte inicial: 130
+ byte final: 180
+
+
+[INFO] 17:30:53:40 funcionesSwap.c/(3560:3560): 
+Se LIBERA el proceso...
+ n° de PID: 3 
+ n° de byte inicial: 100 
+ n° de byte final: 130 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 3
+
+[INFO] 17:31:19:415 funcionesSwap.c/(3560:3560): 
+Se LIBERA el proceso...
+ n° de PID: 1 
+ n° de byte inicial: 0 
+ n° de byte final: 50 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 5
+
+[INFO] 17:31:49:415 funcionesSwap.c/(3560:3560): 
+Se LIBERA el proceso...
+ n° de PID: 2 
+ n° de byte inicial: 50 
+ n° de byte final: 100 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 5
+
+[INFO] 17:33:12:241 funcionesSwap.c/(3697:3697): 
+             __^__                                      __^__
+            ( ___ )------------------------------------( ___ )   
+             | / |                                      | / |  
+             | / |      Bienvenidos al proceso Swap     | / |   
+             |___|                                      |___| 
+            (_____)------------------------------------(_____)
+
+[INFO] 17:33:26:847 funcionesSwap.c/(3697:3697): 
+Se ASIGNA el proceso:
+ n° de pid: 1
+ byte inicial: 0
+ byte final: 30
+
+
+[INFO] 17:33:31:855 funcionesSwap.c/(3697:3697): 
+Se ASIGNA el proceso:
+ n° de pid: 2
+ byte inicial: 30
+ byte final: 80
+
+
+[INFO] 17:33:39:667 funcionesSwap.c/(3697:3697): 
+Se ASIGNA el proceso:
+ n° de pid: 3
+ byte inicial: 80
+ byte final: 110
+
+
+[INFO] 17:33:44:675 funcionesSwap.c/(3697:3697): 
+Se ASIGNA el proceso:
+ n° de pid: 4
+ byte inicial: 110
+ byte final: 160
+
+
+[INFO] 17:33:52:488 funcionesSwap.c/(3697:3697): 
+Se ASIGNA el proceso:
+ n° de pid: 5
+ byte inicial: 160
+ byte final: 190
+
+
+[INFO] 17:33:57:497 funcionesSwap.c/(3697:3697): 
+Se ASIGNA el proceso:
+ n° de pid: 6
+ byte inicial: 190
+ byte final: 200
+
+
+[INFO] 17:34:08:311 funcionesSwap.c/(3697:3697): 
+Se LIBERA el proceso...
+ n° de PID: 6 
+ n° de byte inicial: 190 
+ n° de byte final: 200 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 1
+
+[INFO] 17:34:11:715 funcionesSwap.c/(3697:3697): 
+Se LIBERA el proceso...
+ n° de PID: 1 
+ n° de byte inicial: 0 
+ n° de byte final: 30 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 3
+
+[INFO] 17:34:27:498 funcionesSwap.c/(3697:3697): 
+Se LIBERA el proceso...
+ n° de PID: 2 
+ n° de byte inicial: 30 
+ n° de byte final: 80 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 5
+
+[INFO] 17:34:40:503 funcionesSwap.c/(3697:3697): 
+Se LIBERA el proceso...
+ n° de PID: 3 
+ n° de byte inicial: 80 
+ n° de byte final: 110 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 3
+
+[INFO] 17:35:07:499 funcionesSwap.c/(3697:3697): 
+Se LIBERA el proceso...
+ n° de PID: 4 
+ n° de byte inicial: 110 
+ n° de byte final: 160 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 5
+
+[INFO] 17:35:19:302 funcionesSwap.c/(3697:3697): 
+Se LIBERA el proceso...
+ n° de PID: 5 
+ n° de byte inicial: 160 
+ n° de byte final: 190 
+ esta es la cantidad total de paginas que han sido escritas por el proceso: 0
+ esta es la cantidad total de paginas que han sido leidas por el proceso: 3
+

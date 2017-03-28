@@ -1,0 +1,98 @@
+[INFO] 15:08:40:132 hiloCPU.c/(6176:6177): Inicio hilo CPU listener
+
+[INFO] 15:13:33:480 hiloCPU.c/(6282:6283): Inicio hilo CPU listener
+
+[INFO] 15:16:34:223 hiloCPU.c/(6359:6360): Inicio hilo CPU listener
+
+[INFO] 15:22:45:574 hiloCPU.c/(6500:6501): Inicio hilo CPU listener
+
+[INFO] 15:24:47:857 hiloCPU.c/(6557:6558): Inicio hilo CPU listener
+
+[INFO] 15:28:12:253 hiloCPU.c/(6586:6587): Inicio hilo CPU listener
+
+[INFO] 15:32:04:849 hiloCPU.c/(6657:6658): Inicio hilo CPU listener
+
+[INFO] 15:37:02:717 hiloCPU.c/(6760:6761): Inicio hilo CPU listener
+
+[INFO] 15:39:12:933 hiloCPU.c/(6802:6803): Inicio hilo CPU listener
+
+[INFO] 15:42:34:62 hiloCPU.c/(6887:6888): Inicio hilo CPU listener
+
+[INFO] 15:45:06:341 hiloCPU.c/(6919:6920): Inicio hilo CPU listener
+
+[INFO] 15:48:18:949 hiloCPU.c/(6995:6996): Inicio hilo CPU listener
+
+[INFO] 15:50:58:206 hiloCPU.c/(7079:7080): Inicio hilo CPU listener
+
+[INFO] 15:53:06:529 hiloCPU.c/(7149:7150): Inicio hilo CPU listener
+
+[INFO] 15:59:30:189 hiloCPU.c/(2340:2341): Inicio hilo CPU listener
+
+[INFO] 11:30:39:340 hiloCPU.c/(2617:2618): Inicio hilo CPU listener
+
+[INFO] 11:32:08:105 hiloCPU.c/(2699:2700): Inicio hilo CPU listener
+
+[INFO] 11:38:39:187 hiloCPU.c/(2794:2795): Inicio hilo CPU listener
+
+[INFO] 11:44:29:790 hiloCPU.c/(2859:2860): Inicio hilo CPU listener
+
+[INFO] 12:08:03:565 hiloCPU.c/(3008:3009): Inicio hilo CPU listener
+
+[INFO] 12:48:40:582 hiloCPU.c/(3136:3137): Inicio hilo CPU listener
+
+[INFO] 13:57:38:638 hiloCPU.c/(3434:3435): Inicio hilo CPU listener
+
+[INFO] 14:08:40:125 hiloCPU.c/(3649:3650): Inicio hilo CPU listener
+
+[INFO] 14:24:45:163 hiloCPU.c/(3744:3745): Inicio hilo CPU listener
+
+[INFO] 14:25:57:651 hiloCPU.c/(3837:3838): Inicio hilo CPU listener
+
+[INFO] 14:28:22:658 hiloCPU.c/(3923:3924): Inicio hilo CPU listener
+
+[INFO] 14:30:06:837 hiloCPU.c/(3962:3963): Inicio hilo CPU listener
+
+[INFO] 14:34:18:464 hiloCPU.c/(4054:4055): Inicio hilo CPU listener
+
+[INFO] 14:46:57:31 hiloCPU.c/(4177:4178): Inicio hilo CPU listener
+
+[INFO] 14:48:34:267 hiloCPU.c/(4256:4257): Inicio hilo CPU listener
+
+[INFO] 16:10:30:302 hiloCPU.c/(4597:4598): Inicio hilo CPU listener
+
+[INFO] 17:48:42:718 hiloCPU.c/(4941:4942): Inicio hilo CPU listener
+
+[INFO] 17:49:35:33 hiloCPU.c/(4988:4989): Inicio hilo CPU listener
+
+[INFO] 10:31:24:51 hiloCPU.c/(2500:2501): Inicio hilo CPU listener
+
+[INFO] 10:35:53:506 hiloCPU.c/(2786:2787): Inicio hilo CPU listener
+
+[INFO] 13:56:58:321 hiloCPU.c/(2293:2294): Inicio hilo CPU listener
+
+[INFO] 13:59:00:406 hiloCPU.c/(2407:2408): Inicio hilo CPU listener
+
+[INFO] 14:08:03:295 hiloCPU.c/(2572:2573): Inicio hilo CPU listener
+
+[INFO] 14:38:56:627 hiloCPU.c/(2661:2662): Inicio hilo CPU listener
+
+[INFO] 14:39:33:757 hiloCPU.c/(2692:2693): Inicio hilo CPU listener
+
+[INFO] 15:33:21:536 hiloCPU.c/(2870:2871): Inicio hilo CPU listener
+
+[INFO] 16:37:39:453 hiloCPU.c/(3163:3164): Inicio hilo CPU listener
+
+[INFO] 17:02:27:580 hiloCPU.c/(3229:3230): Inicio hilo CPU listener
+
+[INFO] 17:45:59:707 hiloCPU.c/(3450:3451): Inicio hilo CPU listener
+
+[INFO] 17:47:56:985 hiloCPU.c/(3483:3484): Inicio hilo CPU listener
+
+[INFO] 17:52:07:846 hiloCPU.c/(3531:3532): Inicio hilo CPU listener
+
+[INFO] 17:22:07:367 hiloCPU.c/(3358:3359): Inicio hilo CPU listener
+
+[INFO] 17:29:51:365 hiloCPU.c/(3571:3572): Inicio hilo CPU listener
+
+[INFO] 17:33:13:298 hiloCPU.c/(3700:3701): Inicio hilo CPU listener
+

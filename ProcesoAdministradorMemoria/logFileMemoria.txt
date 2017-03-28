@@ -1,0 +1,1538 @@
+[INFO] 12:37:05:173 administrador_de_memoria.c/(3078:3078): No se ha podido conectar con el proceso swap
+
+[INFO] 15:07:41:457 administrador_de_memoria.c/(6115:6115): No se ha podido conectar con el proceso swap
+
+[INFO] 15:08:40:132 administrador_de_memoria.c/(6176:6176): Se creo exitosamente el hilo del CPUListener
+
+[INFO] 15:08:40:132 administrador_de_memoria.c/(6176:6176): Se creo exitosamente el hilo de porcentajes de la TLB
+
+[INFO] 15:08:40:132 administrador_de_memoria.c/(6176:6176): Abriendo la consola ..
+[INFO] 15:09:01:869 administrador_de_memoria.c/(6176:6177): Se ha conectado un nuevo hilo CPU
+
+[INFO] 15:09:01:871 administrador_de_memoria.c/(6176:6177): Se ha conectado un nuevo hilo CPU
+
+[INFO] 15:09:14:898 administrador_de_memoria.c/(6176:6177): Se creo un nuevo mProc con PID 1 y con 3 pagina/s
+
+[INFO] 15:09:24:900 administrador_de_memoria.c/(6176:6177): Pedido de escritura del procceso 1 de la pagina 0. String a escribir: Corto
+
+[INFO] 15:09:24:900 administrador_de_memoria.c/(6176:6177): TLB miss. Comienza busqueda de la pagina en Tabla de Paginas
+[INFO] 15:09:25:900 administrador_de_memoria.c/(6176:6177): Fallo de Pagina. Enviando solicitud de la pagina 0 del mProc 1 al Swap
+[INFO] 15:09:27:901 administrador_de_memoria.c/(6176:6177): Estado inicial de la Tabla de Paginas del proceso 1 :
+
+
+[INFO] 15:09:28:901 administrador_de_memoria.c/(6176:6177): acceso a memoria
+mproc: 1
+pagina: 0
+marco: 0
+
+[INFO] 15:09:28:901 administrador_de_memoria.c/(6176:6177): Estado actual de la TLB: 
+----->Proceso:1, Pagina:0, Marco:0, Bit_modificado:1
+
+
+[INFO] 15:09:28:901 administrador_de_memoria.c/(6176:6177): Estado final de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+
+
+[INFO] 15:09:28:901 administrador_de_memoria.c/(6176:6177): finaliza pedido de escritura del proceso 1 de la pagina 0
+
+[INFO] 15:09:33:902 administrador_de_memoria.c/(6176:6177): Pedido de escritura del procceso 1 de la pagina 1. String a escribir: Corto
+
+[INFO] 15:09:33:902 administrador_de_memoria.c/(6176:6177): TLB miss. Comienza busqueda de la pagina en Tabla de Paginas
+[INFO] 15:09:34:902 administrador_de_memoria.c/(6176:6177): Fallo de Pagina. Enviando solicitud de la pagina 1 del mProc 1 al Swap
+[INFO] 15:09:36:903 administrador_de_memoria.c/(6176:6177): Estado inicial de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+
+
+[INFO] 15:09:37:903 administrador_de_memoria.c/(6176:6177): acceso a memoria
+mproc: 1
+pagina: 1
+marco: 1
+
+[INFO] 15:09:37:903 administrador_de_memoria.c/(6176:6177): Estado actual de la TLB: 
+----->Proceso:1, Pagina:0, Marco:0, Bit_modificado:1
+----->Proceso:1, Pagina:1, Marco:1, Bit_modificado:1
+
+
+[INFO] 15:09:37:903 administrador_de_memoria.c/(6176:6177): Estado final de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+----> Pagina = 1, Marco = 1, bitModificado = 1
+
+
+[INFO] 15:09:37:903 administrador_de_memoria.c/(6176:6177): finaliza pedido de escritura del proceso 1 de la pagina 1
+
+[INFO] 15:09:42:904 administrador_de_memoria.c/(6176:6177): Pedido de escritura del procceso 1 de la pagina 2. String a escribir: Corto
+
+[INFO] 15:09:42:904 administrador_de_memoria.c/(6176:6177): TLB miss. Comienza busqueda de la pagina en Tabla de Paginas
+[INFO] 15:09:43:904 administrador_de_memoria.c/(6176:6177): Fallo de Pagina. Enviando solicitud de la pagina 2 del mProc 1 al Swap
+[INFO] 15:09:45:905 administrador_de_memoria.c/(6176:6177): Estado inicial de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+----> Pagina = 1, Marco = 1, bitModificado = 1
+
+
+[INFO] 15:09:46:905 administrador_de_memoria.c/(6176:6177): acceso a memoria
+mproc: 1
+pagina: 2
+marco: 2
+
+[INFO] 15:09:46:905 administrador_de_memoria.c/(6176:6177): Estado actual de la TLB: 
+----->Proceso:1, Pagina:0, Marco:0, Bit_modificado:1
+----->Proceso:1, Pagina:1, Marco:1, Bit_modificado:1
+----->Proceso:1, Pagina:2, Marco:2, Bit_modificado:1
+
+
+[INFO] 15:09:46:905 administrador_de_memoria.c/(6176:6177): Estado final de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+----> Pagina = 1, Marco = 1, bitModificado = 1
+----> Pagina = 2, Marco = 2, bitModificado = 1
+
+
+[INFO] 15:09:46:905 administrador_de_memoria.c/(6176:6177): finaliza pedido de escritura del proceso 1 de la pagina 2
+
+[INFO] 15:10:16:907 administrador_de_memoria.c/(6176:6177): Pedido de lectura del procceso 1 de la pagina 0
+
+[INFO] 15:10:16:907 administrador_de_memoria.c/(6176:6177): TLB hit. El marco resultante fue 0
+[INFO] 15:10:16:907 administrador_de_memoria.c/(6176:6177): Acceso a memoria
+mProc: 1
+pagina: 0
+marco: 0
+
+[INFO] 15:10:17:908 administrador_de_memoria.c/(6176:6177): Finaliza pedido de lectrura del proceso 1, de la pagina 0
+
+[INFO] 15:13:33:479 administrador_de_memoria.c/(6282:6282): Se creo exitosamente el hilo del CPUListener
+
+[INFO] 15:13:33:479 administrador_de_memoria.c/(6282:6282): Se creo exitosamente el hilo de porcentajes de la TLB
+
+[INFO] 15:13:33:479 administrador_de_memoria.c/(6282:6282): Abriendo la consola ..
+[INFO] 15:13:54:336 administrador_de_memoria.c/(6282:6283): Se ha conectado un nuevo hilo CPU
+
+[INFO] 15:13:54:365 administrador_de_memoria.c/(6282:6283): Se ha conectado un nuevo hilo CPU
+
+[INFO] 15:14:36:619 administrador_de_memoria.c/(6282:6283): Se creo un nuevo mProc con PID 1 y con 3 pagina/s
+
+[INFO] 15:14:46:621 administrador_de_memoria.c/(6282:6283): Pedido de escritura del procceso 1 de la pagina 0. String a escribir: Corto
+
+[INFO] 15:14:46:621 administrador_de_memoria.c/(6282:6283): TLB miss. Comienza busqueda de la pagina en Tabla de Paginas
+[INFO] 15:14:47:621 administrador_de_memoria.c/(6282:6283): Fallo de Pagina. Enviando solicitud de la pagina 0 del mProc 1 al Swap
+[INFO] 15:14:49:622 administrador_de_memoria.c/(6282:6283): Estado inicial de la Tabla de Paginas del proceso 1 :
+
+
+[INFO] 15:14:50:622 administrador_de_memoria.c/(6282:6283): acceso a memoria
+mproc: 1
+pagina: 0
+marco: 0
+
+[INFO] 15:14:50:622 administrador_de_memoria.c/(6282:6283): Estado actual de la TLB: 
+----->Proceso:1, Pagina:0, Marco:0, Bit_modificado:1
+
+
+[INFO] 15:14:50:622 administrador_de_memoria.c/(6282:6283): Estado final de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+
+
+[INFO] 15:14:50:622 administrador_de_memoria.c/(6282:6283): finaliza pedido de escritura del proceso 1 de la pagina 0
+
+[INFO] 15:14:55:623 administrador_de_memoria.c/(6282:6283): Pedido de escritura del procceso 1 de la pagina 1. String a escribir: Corto
+
+[INFO] 15:14:55:623 administrador_de_memoria.c/(6282:6283): TLB miss. Comienza busqueda de la pagina en Tabla de Paginas
+[INFO] 15:14:56:623 administrador_de_memoria.c/(6282:6283): Fallo de Pagina. Enviando solicitud de la pagina 1 del mProc 1 al Swap
+[INFO] 15:14:58:624 administrador_de_memoria.c/(6282:6283): Estado inicial de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+
+
+[INFO] 15:14:59:625 administrador_de_memoria.c/(6282:6283): acceso a memoria
+mproc: 1
+pagina: 1
+marco: 1
+
+[INFO] 15:14:59:625 administrador_de_memoria.c/(6282:6283): Estado actual de la TLB: 
+----->Proceso:1, Pagina:0, Marco:0, Bit_modificado:1
+----->Proceso:1, Pagina:1, Marco:1, Bit_modificado:1
+
+
+[INFO] 15:14:59:625 administrador_de_memoria.c/(6282:6283): Estado final de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+----> Pagina = 1, Marco = 1, bitModificado = 1
+
+
+[INFO] 15:14:59:625 administrador_de_memoria.c/(6282:6283): finaliza pedido de escritura del proceso 1 de la pagina 1
+
+[INFO] 15:15:04:626 administrador_de_memoria.c/(6282:6283): Pedido de escritura del procceso 1 de la pagina 2. String a escribir: Corto
+
+[INFO] 15:15:04:626 administrador_de_memoria.c/(6282:6283): TLB miss. Comienza busqueda de la pagina en Tabla de Paginas
+[INFO] 15:15:05:626 administrador_de_memoria.c/(6282:6283): Fallo de Pagina. Enviando solicitud de la pagina 2 del mProc 1 al Swap
+[INFO] 15:15:07:627 administrador_de_memoria.c/(6282:6283): Estado inicial de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+----> Pagina = 1, Marco = 1, bitModificado = 1
+
+
+[INFO] 15:15:08:627 administrador_de_memoria.c/(6282:6283): acceso a memoria
+mproc: 1
+pagina: 2
+marco: 2
+
+[INFO] 15:15:08:627 administrador_de_memoria.c/(6282:6283): Estado actual de la TLB: 
+----->Proceso:1, Pagina:0, Marco:0, Bit_modificado:1
+----->Proceso:1, Pagina:1, Marco:1, Bit_modificado:1
+----->Proceso:1, Pagina:2, Marco:2, Bit_modificado:1
+
+
+[INFO] 15:15:08:627 administrador_de_memoria.c/(6282:6283): Estado final de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+----> Pagina = 1, Marco = 1, bitModificado = 1
+----> Pagina = 2, Marco = 2, bitModificado = 1
+
+
+[INFO] 15:15:08:627 administrador_de_memoria.c/(6282:6283): finaliza pedido de escritura del proceso 1 de la pagina 2
+
+[INFO] 15:16:34:222 administrador_de_memoria.c/(6359:6359): Se creo exitosamente el hilo del CPUListener
+
+[INFO] 15:16:34:223 administrador_de_memoria.c/(6359:6359): Se creo exitosamente el hilo de porcentajes de la TLB
+
+[INFO] 15:16:34:223 administrador_de_memoria.c/(6359:6359): Abriendo la consola ..
+[INFO] 15:17:06:49 administrador_de_memoria.c/(6359:6360): Se ha conectado un nuevo hilo CPU
+
+[INFO] 15:17:06:69 administrador_de_memoria.c/(6359:6360): Se ha conectado un nuevo hilo CPU
+
+[INFO] 15:17:24:594 administrador_de_memoria.c/(6359:6360): Se creo un nuevo mProc con PID 1 y con 3 pagina/s
+
+[INFO] 15:17:34:596 administrador_de_memoria.c/(6359:6360): Pedido de escritura del procceso 1 de la pagina 0. String a escribir: Corto
+
+[INFO] 15:17:34:596 administrador_de_memoria.c/(6359:6360): TLB miss. Comienza busqueda de la pagina en Tabla de Paginas
+[INFO] 15:17:35:596 administrador_de_memoria.c/(6359:6360): Fallo de Pagina. Enviando solicitud de la pagina 0 del mProc 1 al Swap
+[INFO] 15:17:37:598 administrador_de_memoria.c/(6359:6360): Estado inicial de la Tabla de Paginas del proceso 1 :
+
+
+[INFO] 15:17:38:598 administrador_de_memoria.c/(6359:6360): acceso a memoria
+mproc: 1
+pagina: 0
+marco: 0
+
+[INFO] 15:17:38:598 administrador_de_memoria.c/(6359:6360): Estado actual de la TLB: 
+----->Proceso:1, Pagina:0, Marco:0, Bit_modificado:1
+
+
+[INFO] 15:17:38:598 administrador_de_memoria.c/(6359:6360): Estado final de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+
+
+[INFO] 15:17:38:598 administrador_de_memoria.c/(6359:6360): finaliza pedido de escritura del proceso 1 de la pagina 0
+
+[INFO] 15:17:43:598 administrador_de_memoria.c/(6359:6360): Pedido de escritura del procceso 1 de la pagina 1. String a escribir: Corto
+
+[INFO] 15:17:43:598 administrador_de_memoria.c/(6359:6360): TLB miss. Comienza busqueda de la pagina en Tabla de Paginas
+[INFO] 15:17:44:599 administrador_de_memoria.c/(6359:6360): Fallo de Pagina. Enviando solicitud de la pagina 1 del mProc 1 al Swap
+[INFO] 15:17:46:600 administrador_de_memoria.c/(6359:6360): Estado inicial de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+
+
+[INFO] 15:17:47:600 administrador_de_memoria.c/(6359:6360): acceso a memoria
+mproc: 1
+pagina: 1
+marco: 1
+
+[INFO] 15:17:47:600 administrador_de_memoria.c/(6359:6360): Estado actual de la TLB: 
+----->Proceso:1, Pagina:0, Marco:0, Bit_modificado:1
+----->Proceso:1, Pagina:1, Marco:1, Bit_modificado:1
+
+
+[INFO] 15:17:47:600 administrador_de_memoria.c/(6359:6360): Estado final de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+----> Pagina = 1, Marco = 1, bitModificado = 1
+
+
+[INFO] 15:17:47:600 administrador_de_memoria.c/(6359:6360): finaliza pedido de escritura del proceso 1 de la pagina 1
+
+[INFO] 15:17:52:601 administrador_de_memoria.c/(6359:6360): Pedido de escritura del procceso 1 de la pagina 2. String a escribir: Corto
+
+[INFO] 15:17:52:601 administrador_de_memoria.c/(6359:6360): TLB miss. Comienza busqueda de la pagina en Tabla de Paginas
+[INFO] 15:17:53:602 administrador_de_memoria.c/(6359:6360): Fallo de Pagina. Enviando solicitud de la pagina 2 del mProc 1 al Swap
+[INFO] 15:17:55:602 administrador_de_memoria.c/(6359:6360): Estado inicial de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+----> Pagina = 1, Marco = 1, bitModificado = 1
+
+
+[INFO] 15:17:56:602 administrador_de_memoria.c/(6359:6360): acceso a memoria
+mproc: 1
+pagina: 2
+marco: 2
+
+[INFO] 15:17:56:602 administrador_de_memoria.c/(6359:6360): Estado actual de la TLB: 
+----->Proceso:1, Pagina:0, Marco:0, Bit_modificado:1
+----->Proceso:1, Pagina:1, Marco:1, Bit_modificado:1
+----->Proceso:1, Pagina:2, Marco:2, Bit_modificado:1
+
+
+[INFO] 15:17:56:602 administrador_de_memoria.c/(6359:6360): Estado final de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+----> Pagina = 1, Marco = 1, bitModificado = 1
+----> Pagina = 2, Marco = 2, bitModificado = 1
+
+
+[INFO] 15:17:56:602 administrador_de_memoria.c/(6359:6360): finaliza pedido de escritura del proceso 1 de la pagina 2
+
+[INFO] 15:22:45:573 administrador_de_memoria.c/(6500:6500): Se creo exitosamente el hilo del CPUListener
+
+[INFO] 15:22:45:573 administrador_de_memoria.c/(6500:6500): Se creo exitosamente el hilo de porcentajes de la TLB
+
+[INFO] 15:22:45:573 administrador_de_memoria.c/(6500:6500): Abriendo la consola ..
+[INFO] 15:22:51:4 administrador_de_memoria.c/(6500:6501): Se ha conectado un nuevo hilo CPU
+
+[INFO] 15:22:51:6 administrador_de_memoria.c/(6500:6501): Se ha conectado un nuevo hilo CPU
+
+[INFO] 15:22:55:968 administrador_de_memoria.c/(6500:6501): Se creo un nuevo mProc con PID 1 y con 3 pagina/s
+
+[INFO] 15:23:05:970 administrador_de_memoria.c/(6500:6501): Pedido de escritura del procceso 1 de la pagina 0. String a escribir: Corto
+
+[INFO] 15:23:05:970 administrador_de_memoria.c/(6500:6501): TLB miss. Comienza busqueda de la pagina en Tabla de Paginas
+[INFO] 15:23:06:970 administrador_de_memoria.c/(6500:6501): Fallo de Pagina. Enviando solicitud de la pagina 0 del mProc 1 al Swap
+[INFO] 15:23:08:971 administrador_de_memoria.c/(6500:6501): Estado inicial de la Tabla de Paginas del proceso 1 :
+
+
+[INFO] 15:23:09:972 administrador_de_memoria.c/(6500:6501): acceso a memoria
+mproc: 1
+pagina: 0
+marco: 0
+
+[INFO] 15:23:09:972 administrador_de_memoria.c/(6500:6501): Estado actual de la TLB: 
+----->Proceso:1, Pagina:0, Marco:0, Bit_modificado:1
+
+
+[INFO] 15:23:09:972 administrador_de_memoria.c/(6500:6501): Estado final de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+
+
+[INFO] 15:23:09:972 administrador_de_memoria.c/(6500:6501): finaliza pedido de escritura del proceso 1 de la pagina 0
+
+[INFO] 15:23:14:972 administrador_de_memoria.c/(6500:6501): Pedido de escritura del procceso 1 de la pagina 1. String a escribir: Corto
+
+[INFO] 15:23:14:972 administrador_de_memoria.c/(6500:6501): TLB miss. Comienza busqueda de la pagina en Tabla de Paginas
+[INFO] 15:23:15:973 administrador_de_memoria.c/(6500:6501): Fallo de Pagina. Enviando solicitud de la pagina 1 del mProc 1 al Swap
+[INFO] 15:23:17:974 administrador_de_memoria.c/(6500:6501): Estado inicial de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+
+
+[INFO] 15:23:18:974 administrador_de_memoria.c/(6500:6501): acceso a memoria
+mproc: 1
+pagina: 1
+marco: 1
+
+[INFO] 15:23:18:974 administrador_de_memoria.c/(6500:6501): Estado actual de la TLB: 
+----->Proceso:1, Pagina:0, Marco:0, Bit_modificado:1
+----->Proceso:1, Pagina:1, Marco:1, Bit_modificado:1
+
+
+[INFO] 15:23:18:974 administrador_de_memoria.c/(6500:6501): Estado final de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+----> Pagina = 1, Marco = 1, bitModificado = 1
+
+
+[INFO] 15:23:18:974 administrador_de_memoria.c/(6500:6501): finaliza pedido de escritura del proceso 1 de la pagina 1
+
+[INFO] 15:23:23:974 administrador_de_memoria.c/(6500:6501): Pedido de escritura del procceso 1 de la pagina 2. String a escribir: Corto
+
+[INFO] 15:23:23:974 administrador_de_memoria.c/(6500:6501): TLB miss. Comienza busqueda de la pagina en Tabla de Paginas
+[INFO] 15:23:24:975 administrador_de_memoria.c/(6500:6501): Fallo de Pagina. Enviando solicitud de la pagina 2 del mProc 1 al Swap
+[INFO] 15:23:26:976 administrador_de_memoria.c/(6500:6501): Estado inicial de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+----> Pagina = 1, Marco = 1, bitModificado = 1
+
+
+[INFO] 15:23:27:976 administrador_de_memoria.c/(6500:6501): acceso a memoria
+mproc: 1
+pagina: 2
+marco: 2
+
+[INFO] 15:23:27:976 administrador_de_memoria.c/(6500:6501): Estado actual de la TLB: 
+----->Proceso:1, Pagina:0, Marco:0, Bit_modificado:1
+----->Proceso:1, Pagina:1, Marco:1, Bit_modificado:1
+----->Proceso:1, Pagina:2, Marco:2, Bit_modificado:1
+
+
+[INFO] 15:23:27:976 administrador_de_memoria.c/(6500:6501): Estado final de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+----> Pagina = 1, Marco = 1, bitModificado = 1
+----> Pagina = 2, Marco = 2, bitModificado = 1
+
+
+[INFO] 15:23:27:976 administrador_de_memoria.c/(6500:6501): finaliza pedido de escritura del proceso 1 de la pagina 2
+
+[INFO] 15:23:57:977 administrador_de_memoria.c/(6500:6501): Pedido de lectura del procceso 1 de la pagina 0
+
+[INFO] 15:23:57:977 administrador_de_memoria.c/(6500:6501): TLB hit. El marco resultante fue 0
+[INFO] 15:23:57:977 administrador_de_memoria.c/(6500:6501): Acceso a memoria
+mProc: 1
+pagina: 0
+marco: 0
+
+[INFO] 15:23:58:978 administrador_de_memoria.c/(6500:6501): Finaliza pedido de lectrura del proceso 1, de la pagina 0
+
+[INFO] 15:24:47:856 administrador_de_memoria.c/(6557:6557): Se creo exitosamente el hilo del CPUListener
+
+[INFO] 15:24:47:857 administrador_de_memoria.c/(6557:6557): Se creo exitosamente el hilo de porcentajes de la TLB
+
+[INFO] 15:24:47:857 administrador_de_memoria.c/(6557:6557): Abriendo la consola ..
+[INFO] 15:24:51:914 administrador_de_memoria.c/(6557:6558): Se ha conectado un nuevo hilo CPU
+
+[INFO] 15:24:51:915 administrador_de_memoria.c/(6557:6558): Se ha conectado un nuevo hilo CPU
+
+[INFO] 15:24:55:8 administrador_de_memoria.c/(6557:6558): Se creo un nuevo mProc con PID 1 y con 3 pagina/s
+
+[INFO] 15:25:05:9 administrador_de_memoria.c/(6557:6558): Pedido de escritura del procceso 1 de la pagina 0. String a escribir: Corto
+
+[INFO] 15:25:05:9 administrador_de_memoria.c/(6557:6558): TLB miss. Comienza busqueda de la pagina en Tabla de Paginas
+[INFO] 15:25:06:10 administrador_de_memoria.c/(6557:6558): Fallo de Pagina. Enviando solicitud de la pagina 0 del mProc 1 al Swap
+[INFO] 15:25:08:10 administrador_de_memoria.c/(6557:6558): Estado inicial de la Tabla de Paginas del proceso 1 :
+
+
+[INFO] 15:25:09:10 administrador_de_memoria.c/(6557:6558): acceso a memoria
+mproc: 1
+pagina: 0
+marco: 0
+
+[INFO] 15:25:09:10 administrador_de_memoria.c/(6557:6558): Estado actual de la TLB: 
+----->Proceso:1, Pagina:0, Marco:0, Bit_modificado:1
+
+
+[INFO] 15:25:09:10 administrador_de_memoria.c/(6557:6558): Estado final de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+
+
+[INFO] 15:25:09:11 administrador_de_memoria.c/(6557:6558): finaliza pedido de escritura del proceso 1 de la pagina 0
+
+[INFO] 15:25:14:11 administrador_de_memoria.c/(6557:6558): Pedido de escritura del procceso 1 de la pagina 1. String a escribir: Corto
+
+[INFO] 15:25:14:11 administrador_de_memoria.c/(6557:6558): TLB miss. Comienza busqueda de la pagina en Tabla de Paginas
+[INFO] 15:25:15:12 administrador_de_memoria.c/(6557:6558): Fallo de Pagina. Enviando solicitud de la pagina 1 del mProc 1 al Swap
+[INFO] 15:25:17:12 administrador_de_memoria.c/(6557:6558): Estado inicial de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+
+
+[INFO] 15:25:18:12 administrador_de_memoria.c/(6557:6558): acceso a memoria
+mproc: 1
+pagina: 1
+marco: 1
+
+[INFO] 15:25:18:12 administrador_de_memoria.c/(6557:6558): Estado actual de la TLB: 
+----->Proceso:1, Pagina:0, Marco:0, Bit_modificado:1
+----->Proceso:1, Pagina:1, Marco:1, Bit_modificado:1
+
+
+[INFO] 15:25:18:12 administrador_de_memoria.c/(6557:6558): Estado final de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+----> Pagina = 1, Marco = 1, bitModificado = 1
+
+
+[INFO] 15:25:18:12 administrador_de_memoria.c/(6557:6558): finaliza pedido de escritura del proceso 1 de la pagina 1
+
+[INFO] 15:25:23:13 administrador_de_memoria.c/(6557:6558): Pedido de escritura del procceso 1 de la pagina 2. String a escribir: Corto
+
+[INFO] 15:25:23:13 administrador_de_memoria.c/(6557:6558): TLB miss. Comienza busqueda de la pagina en Tabla de Paginas
+[INFO] 15:25:24:14 administrador_de_memoria.c/(6557:6558): Fallo de Pagina. Enviando solicitud de la pagina 2 del mProc 1 al Swap
+[INFO] 15:25:26:15 administrador_de_memoria.c/(6557:6558): Estado inicial de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+----> Pagina = 1, Marco = 1, bitModificado = 1
+
+
+[INFO] 15:25:27:15 administrador_de_memoria.c/(6557:6558): acceso a memoria
+mproc: 1
+pagina: 2
+marco: 2
+
+[INFO] 15:25:27:15 administrador_de_memoria.c/(6557:6558): Estado actual de la TLB: 
+----->Proceso:1, Pagina:0, Marco:0, Bit_modificado:1
+----->Proceso:1, Pagina:1, Marco:1, Bit_modificado:1
+----->Proceso:1, Pagina:2, Marco:2, Bit_modificado:1
+
+
+[INFO] 15:25:27:15 administrador_de_memoria.c/(6557:6558): Estado final de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+----> Pagina = 1, Marco = 1, bitModificado = 1
+----> Pagina = 2, Marco = 2, bitModificado = 1
+
+
+[INFO] 15:25:27:15 administrador_de_memoria.c/(6557:6558): finaliza pedido de escritura del proceso 1 de la pagina 2
+
+[INFO] 15:25:57:17 administrador_de_memoria.c/(6557:6558): Pedido de lectura del procceso 1 de la pagina 0
+
+[INFO] 15:25:57:17 administrador_de_memoria.c/(6557:6558): TLB hit. El marco resultante fue 0
+[INFO] 15:25:57:17 administrador_de_memoria.c/(6557:6558): Acceso a memoria
+mProc: 1
+pagina: 0
+marco: 0
+
+[INFO] 15:25:58:18 administrador_de_memoria.c/(6557:6558): Finaliza pedido de lectrura del proceso 1, de la pagina 0
+
+[INFO] 15:28:12:251 administrador_de_memoria.c/(6586:6586): Se creo exitosamente el hilo del CPUListener
+
+[INFO] 15:28:12:253 administrador_de_memoria.c/(6586:6586): Se creo exitosamente el hilo de porcentajes de la TLB
+
+[INFO] 15:28:12:253 administrador_de_memoria.c/(6586:6586): Abriendo la consola ..
+[INFO] 15:28:16:838 administrador_de_memoria.c/(6586:6587): Se ha conectado un nuevo hilo CPU
+
+[INFO] 15:28:16:839 administrador_de_memoria.c/(6586:6587): Se ha conectado un nuevo hilo CPU
+
+[INFO] 15:28:20:308 administrador_de_memoria.c/(6586:6587): Se creo un nuevo mProc con PID 1 y con 3 pagina/s
+
+[INFO] 15:28:30:310 administrador_de_memoria.c/(6586:6587): Pedido de escritura del procceso 1 de la pagina 0. String a escribir: Corto
+
+[INFO] 15:28:30:310 administrador_de_memoria.c/(6586:6587): TLB miss. Comienza busqueda de la pagina en Tabla de Paginas
+[INFO] 15:28:31:310 administrador_de_memoria.c/(6586:6587): Fallo de Pagina. Enviando solicitud de la pagina 0 del mProc 1 al Swap
+[INFO] 15:28:33:311 administrador_de_memoria.c/(6586:6587): Estado inicial de la Tabla de Paginas del proceso 1 :
+
+
+[INFO] 15:28:34:311 administrador_de_memoria.c/(6586:6587): acceso a memoria
+mproc: 1
+pagina: 0
+marco: 0
+
+[INFO] 15:28:34:311 administrador_de_memoria.c/(6586:6587): Estado actual de la TLB: 
+----->Proceso:1, Pagina:0, Marco:0, Bit_modificado:1
+
+
+[INFO] 15:28:34:311 administrador_de_memoria.c/(6586:6587): Estado final de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+
+
+[INFO] 15:28:34:311 administrador_de_memoria.c/(6586:6587): finaliza pedido de escritura del proceso 1 de la pagina 0
+
+[INFO] 15:28:39:312 administrador_de_memoria.c/(6586:6587): Pedido de escritura del procceso 1 de la pagina 1. String a escribir: Corto
+
+[INFO] 15:28:39:312 administrador_de_memoria.c/(6586:6587): TLB miss. Comienza busqueda de la pagina en Tabla de Paginas
+[INFO] 15:28:40:312 administrador_de_memoria.c/(6586:6587): Fallo de Pagina. Enviando solicitud de la pagina 1 del mProc 1 al Swap
+[INFO] 15:28:42:313 administrador_de_memoria.c/(6586:6587): Estado inicial de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+
+
+[INFO] 15:28:43:313 administrador_de_memoria.c/(6586:6587): acceso a memoria
+mproc: 1
+pagina: 1
+marco: 1
+
+[INFO] 15:28:43:313 administrador_de_memoria.c/(6586:6587): Estado actual de la TLB: 
+----->Proceso:1, Pagina:0, Marco:0, Bit_modificado:1
+----->Proceso:1, Pagina:1, Marco:1, Bit_modificado:1
+
+
+[INFO] 15:28:43:313 administrador_de_memoria.c/(6586:6587): Estado final de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+----> Pagina = 1, Marco = 1, bitModificado = 1
+
+
+[INFO] 15:28:43:313 administrador_de_memoria.c/(6586:6587): finaliza pedido de escritura del proceso 1 de la pagina 1
+
+[INFO] 15:28:48:314 administrador_de_memoria.c/(6586:6587): Pedido de escritura del procceso 1 de la pagina 2. String a escribir: Corto
+
+[INFO] 15:28:48:314 administrador_de_memoria.c/(6586:6587): TLB miss. Comienza busqueda de la pagina en Tabla de Paginas
+[INFO] 15:28:49:314 administrador_de_memoria.c/(6586:6587): Fallo de Pagina. Enviando solicitud de la pagina 2 del mProc 1 al Swap
+[INFO] 15:28:51:315 administrador_de_memoria.c/(6586:6587): Estado inicial de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+----> Pagina = 1, Marco = 1, bitModificado = 1
+
+
+[INFO] 15:28:52:315 administrador_de_memoria.c/(6586:6587): acceso a memoria
+mproc: 1
+pagina: 2
+marco: 2
+
+[INFO] 15:28:52:315 administrador_de_memoria.c/(6586:6587): Estado actual de la TLB: 
+----->Proceso:1, Pagina:0, Marco:0, Bit_modificado:1
+----->Proceso:1, Pagina:1, Marco:1, Bit_modificado:1
+----->Proceso:1, Pagina:2, Marco:2, Bit_modificado:1
+
+
+[INFO] 15:28:52:315 administrador_de_memoria.c/(6586:6587): Estado final de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+----> Pagina = 1, Marco = 1, bitModificado = 1
+----> Pagina = 2, Marco = 2, bitModificado = 1
+
+
+[INFO] 15:28:52:315 administrador_de_memoria.c/(6586:6587): finaliza pedido de escritura del proceso 1 de la pagina 2
+
+[INFO] 15:29:22:317 administrador_de_memoria.c/(6586:6587): Pedido de lectura del procceso 1 de la pagina 0
+
+[INFO] 15:29:22:317 administrador_de_memoria.c/(6586:6587): TLB hit. El marco resultante fue 0
+[INFO] 15:29:22:317 administrador_de_memoria.c/(6586:6587): Acceso a memoria
+mProc: 1
+pagina: 0
+marco: 0
+
+[INFO] 15:29:23:317 administrador_de_memoria.c/(6586:6587): Finaliza pedido de lectrura del proceso 1, de la pagina 0
+
+[INFO] 15:31:53:425 administrador_de_memoria.c/(6586:6586): Señal '[A' recibido
+
+[INFO] 15:32:04:847 administrador_de_memoria.c/(6657:6657): Se creo exitosamente el hilo del CPUListener
+
+[INFO] 15:32:04:848 administrador_de_memoria.c/(6657:6657): Se creo exitosamente el hilo de porcentajes de la TLB
+
+[INFO] 15:32:04:848 administrador_de_memoria.c/(6657:6657): Abriendo la consola ..
+[INFO] 15:32:08:762 administrador_de_memoria.c/(6657:6658): Se ha conectado un nuevo hilo CPU
+
+[INFO] 15:32:08:765 administrador_de_memoria.c/(6657:6658): Se ha conectado un nuevo hilo CPU
+
+[INFO] 15:32:11:797 administrador_de_memoria.c/(6657:6658): Se creo un nuevo mProc con PID 1 y con 3 pagina/s
+
+[INFO] 15:32:21:798 administrador_de_memoria.c/(6657:6658): Pedido de escritura del procceso 1 de la pagina 0. String a escribir: Corto
+
+[INFO] 15:32:21:798 administrador_de_memoria.c/(6657:6658): TLB miss. Comienza busqueda de la pagina en Tabla de Paginas
+[INFO] 15:32:22:799 administrador_de_memoria.c/(6657:6658): Fallo de Pagina. Enviando solicitud de la pagina 0 del mProc 1 al Swap
+[INFO] 15:32:24:800 administrador_de_memoria.c/(6657:6658): Estado inicial de la Tabla de Paginas del proceso 1 :
+
+
+[INFO] 15:32:25:800 administrador_de_memoria.c/(6657:6658): acceso a memoria
+mproc: 1
+pagina: 0
+marco: 0
+
+[INFO] 15:32:25:800 administrador_de_memoria.c/(6657:6658): Estado actual de la TLB: 
+----->Proceso:1, Pagina:0, Marco:0, Bit_modificado:1
+
+
+[INFO] 15:32:25:800 administrador_de_memoria.c/(6657:6658): Estado final de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+
+
+[INFO] 15:32:25:800 administrador_de_memoria.c/(6657:6658): finaliza pedido de escritura del proceso 1 de la pagina 0
+
+[INFO] 15:32:30:800 administrador_de_memoria.c/(6657:6658): Pedido de escritura del procceso 1 de la pagina 1. String a escribir: Corto
+
+[INFO] 15:32:30:800 administrador_de_memoria.c/(6657:6658): TLB miss. Comienza busqueda de la pagina en Tabla de Paginas
+[INFO] 15:32:31:802 administrador_de_memoria.c/(6657:6658): Fallo de Pagina. Enviando solicitud de la pagina 1 del mProc 1 al Swap
+[INFO] 15:32:33:803 administrador_de_memoria.c/(6657:6658): Estado inicial de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+
+
+[INFO] 15:32:34:803 administrador_de_memoria.c/(6657:6658): acceso a memoria
+mproc: 1
+pagina: 1
+marco: 1
+
+[INFO] 15:32:34:803 administrador_de_memoria.c/(6657:6658): Estado actual de la TLB: 
+----->Proceso:1, Pagina:0, Marco:0, Bit_modificado:1
+----->Proceso:1, Pagina:1, Marco:1, Bit_modificado:1
+
+
+[INFO] 15:32:34:803 administrador_de_memoria.c/(6657:6658): Estado final de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+----> Pagina = 1, Marco = 1, bitModificado = 1
+
+
+[INFO] 15:32:34:803 administrador_de_memoria.c/(6657:6658): finaliza pedido de escritura del proceso 1 de la pagina 1
+
+[INFO] 15:32:39:804 administrador_de_memoria.c/(6657:6658): Pedido de escritura del procceso 1 de la pagina 2. String a escribir: Corto
+
+[INFO] 15:32:39:804 administrador_de_memoria.c/(6657:6658): TLB miss. Comienza busqueda de la pagina en Tabla de Paginas
+[INFO] 15:32:40:804 administrador_de_memoria.c/(6657:6658): Fallo de Pagina. Enviando solicitud de la pagina 2 del mProc 1 al Swap
+[INFO] 15:32:42:806 administrador_de_memoria.c/(6657:6658): Estado inicial de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+----> Pagina = 1, Marco = 1, bitModificado = 1
+
+
+[INFO] 15:32:43:806 administrador_de_memoria.c/(6657:6658): acceso a memoria
+mproc: 1
+pagina: 2
+marco: 2
+
+[INFO] 15:32:43:806 administrador_de_memoria.c/(6657:6658): Estado actual de la TLB: 
+----->Proceso:1, Pagina:0, Marco:0, Bit_modificado:1
+----->Proceso:1, Pagina:1, Marco:1, Bit_modificado:1
+----->Proceso:1, Pagina:2, Marco:2, Bit_modificado:1
+
+
+[INFO] 15:32:43:806 administrador_de_memoria.c/(6657:6658): Estado final de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+----> Pagina = 1, Marco = 1, bitModificado = 1
+----> Pagina = 2, Marco = 2, bitModificado = 1
+
+
+[INFO] 15:32:43:806 administrador_de_memoria.c/(6657:6658): finaliza pedido de escritura del proceso 1 de la pagina 2
+
+[INFO] 15:33:13:808 administrador_de_memoria.c/(6657:6658): Pedido de lectura del procceso 1 de la pagina 0
+
+[INFO] 15:33:13:808 administrador_de_memoria.c/(6657:6658): TLB hit. El marco resultante fue 0
+[INFO] 15:33:13:808 administrador_de_memoria.c/(6657:6658): Acceso a memoria
+mProc: 1
+pagina: 0
+marco: 0
+
+[INFO] 15:33:14:808 administrador_de_memoria.c/(6657:6658): Finaliza pedido de lectrura del proceso 1, de la pagina 0
+
+[INFO] 15:37:02:716 administrador_de_memoria.c/(6760:6760): Se creo exitosamente el hilo del CPUListener
+
+[INFO] 15:37:02:717 administrador_de_memoria.c/(6760:6760): Se creo exitosamente el hilo de porcentajes de la TLB
+
+[INFO] 15:37:02:717 administrador_de_memoria.c/(6760:6760): Abriendo la consola ..
+[INFO] 15:37:11:995 administrador_de_memoria.c/(6760:6761): Se ha conectado un nuevo hilo CPU
+
+[INFO] 15:37:11:997 administrador_de_memoria.c/(6760:6761): Se ha conectado un nuevo hilo CPU
+
+[INFO] 15:37:17:499 administrador_de_memoria.c/(6760:6761): Se creo un nuevo mProc con PID 1 y con 3 pagina/s
+
+[INFO] 15:37:27:500 administrador_de_memoria.c/(6760:6761): Pedido de escritura del procceso 1 de la pagina 0. String a escribir: Corto
+
+[INFO] 15:37:27:500 administrador_de_memoria.c/(6760:6761): TLB miss. Comienza busqueda de la pagina en Tabla de Paginas
+[INFO] 15:37:28:500 administrador_de_memoria.c/(6760:6761): Fallo de Pagina. Enviando solicitud de la pagina 0 del mProc 1 al Swap
+[INFO] 15:37:30:501 administrador_de_memoria.c/(6760:6761): Estado inicial de la Tabla de Paginas del proceso 1 :
+
+
+[INFO] 15:37:31:501 administrador_de_memoria.c/(6760:6761): acceso a memoria
+mproc: 1
+pagina: 0
+marco: 0
+
+[INFO] 15:37:31:501 administrador_de_memoria.c/(6760:6761): Estado actual de la TLB: 
+----->Proceso:1, Pagina:0, Marco:0, Bit_modificado:1
+
+
+[INFO] 15:37:31:501 administrador_de_memoria.c/(6760:6761): Estado final de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+
+
+[INFO] 15:37:31:501 administrador_de_memoria.c/(6760:6761): finaliza pedido de escritura del proceso 1 de la pagina 0
+
+[INFO] 15:37:36:502 administrador_de_memoria.c/(6760:6761): Pedido de escritura del procceso 1 de la pagina 1. String a escribir: Corto
+
+[INFO] 15:37:36:502 administrador_de_memoria.c/(6760:6761): TLB miss. Comienza busqueda de la pagina en Tabla de Paginas
+[INFO] 15:37:37:502 administrador_de_memoria.c/(6760:6761): Fallo de Pagina. Enviando solicitud de la pagina 1 del mProc 1 al Swap
+[INFO] 15:37:39:503 administrador_de_memoria.c/(6760:6761): Estado inicial de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+
+
+[INFO] 15:37:40:503 administrador_de_memoria.c/(6760:6761): acceso a memoria
+mproc: 1
+pagina: 1
+marco: 1
+
+[INFO] 15:37:40:503 administrador_de_memoria.c/(6760:6761): Estado actual de la TLB: 
+----->Proceso:1, Pagina:0, Marco:0, Bit_modificado:1
+----->Proceso:1, Pagina:1, Marco:1, Bit_modificado:1
+
+
+[INFO] 15:37:40:503 administrador_de_memoria.c/(6760:6761): Estado final de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+----> Pagina = 1, Marco = 1, bitModificado = 1
+
+
+[INFO] 15:37:40:503 administrador_de_memoria.c/(6760:6761): finaliza pedido de escritura del proceso 1 de la pagina 1
+
+[INFO] 15:37:45:504 administrador_de_memoria.c/(6760:6761): Pedido de escritura del procceso 1 de la pagina 2. String a escribir: Corto
+
+[INFO] 15:37:45:504 administrador_de_memoria.c/(6760:6761): TLB miss. Comienza busqueda de la pagina en Tabla de Paginas
+[INFO] 15:37:46:504 administrador_de_memoria.c/(6760:6761): Fallo de Pagina. Enviando solicitud de la pagina 2 del mProc 1 al Swap
+[INFO] 15:37:48:505 administrador_de_memoria.c/(6760:6761): Estado inicial de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+----> Pagina = 1, Marco = 1, bitModificado = 1
+
+
+[INFO] 15:37:49:506 administrador_de_memoria.c/(6760:6761): acceso a memoria
+mproc: 1
+pagina: 2
+marco: 2
+
+[INFO] 15:37:49:506 administrador_de_memoria.c/(6760:6761): Estado actual de la TLB: 
+----->Proceso:1, Pagina:0, Marco:0, Bit_modificado:1
+----->Proceso:1, Pagina:1, Marco:1, Bit_modificado:1
+----->Proceso:1, Pagina:2, Marco:2, Bit_modificado:1
+
+
+[INFO] 15:37:49:506 administrador_de_memoria.c/(6760:6761): Estado final de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+----> Pagina = 1, Marco = 1, bitModificado = 1
+----> Pagina = 2, Marco = 2, bitModificado = 1
+
+
+[INFO] 15:37:49:506 administrador_de_memoria.c/(6760:6761): finaliza pedido de escritura del proceso 1 de la pagina 2
+
+[INFO] 15:38:19:508 administrador_de_memoria.c/(6760:6761): Pedido de lectura del procceso 1 de la pagina 0
+
+[INFO] 15:38:19:508 administrador_de_memoria.c/(6760:6761): TLB hit. El marco resultante fue 0
+[INFO] 15:38:19:508 administrador_de_memoria.c/(6760:6761): Acceso a memoria
+mProc: 1
+pagina: 0
+marco: 0
+
+[INFO] 15:38:20:509 administrador_de_memoria.c/(6760:6761): Finaliza pedido de lectrura del proceso 1, de la pagina 0
+
+[INFO] 15:39:12:932 administrador_de_memoria.c/(6802:6802): Se creo exitosamente el hilo del CPUListener
+
+[INFO] 15:39:12:932 administrador_de_memoria.c/(6802:6802): Se creo exitosamente el hilo de porcentajes de la TLB
+
+[INFO] 15:39:12:933 administrador_de_memoria.c/(6802:6802): Abriendo la consola ..
+[INFO] 15:39:19:957 administrador_de_memoria.c/(6802:6803): Se ha conectado un nuevo hilo CPU
+
+[INFO] 15:39:19:959 administrador_de_memoria.c/(6802:6803): Se ha conectado un nuevo hilo CPU
+
+[INFO] 15:39:23:274 administrador_de_memoria.c/(6802:6803): Se creo un nuevo mProc con PID 1 y con 3 pagina/s
+
+[INFO] 15:39:33:276 administrador_de_memoria.c/(6802:6803): Pedido de escritura del procceso 1 de la pagina 0. String a escribir: Corto
+
+[INFO] 15:39:33:276 administrador_de_memoria.c/(6802:6803): TLB miss. Comienza busqueda de la pagina en Tabla de Paginas
+[INFO] 15:39:34:276 administrador_de_memoria.c/(6802:6803): Fallo de Pagina. Enviando solicitud de la pagina 0 del mProc 1 al Swap
+[INFO] 15:39:36:277 administrador_de_memoria.c/(6802:6803): Estado inicial de la Tabla de Paginas del proceso 1 :
+
+
+[INFO] 15:39:37:277 administrador_de_memoria.c/(6802:6803): acceso a memoria
+mproc: 1
+pagina: 0
+marco: 0
+
+[INFO] 15:39:37:277 administrador_de_memoria.c/(6802:6803): Estado actual de la TLB: 
+----->Proceso:1, Pagina:0, Marco:0, Bit_modificado:1
+
+
+[INFO] 15:39:37:277 administrador_de_memoria.c/(6802:6803): Estado final de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+
+
+[INFO] 15:39:37:277 administrador_de_memoria.c/(6802:6803): finaliza pedido de escritura del proceso 1 de la pagina 0
+
+[INFO] 15:39:42:278 administrador_de_memoria.c/(6802:6803): Pedido de escritura del procceso 1 de la pagina 1. String a escribir: Corto
+
+[INFO] 15:39:42:278 administrador_de_memoria.c/(6802:6803): TLB miss. Comienza busqueda de la pagina en Tabla de Paginas
+[INFO] 15:39:43:278 administrador_de_memoria.c/(6802:6803): Fallo de Pagina. Enviando solicitud de la pagina 1 del mProc 1 al Swap
+[INFO] 15:39:45:279 administrador_de_memoria.c/(6802:6803): Estado inicial de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+
+
+[INFO] 15:39:46:279 administrador_de_memoria.c/(6802:6803): acceso a memoria
+mproc: 1
+pagina: 1
+marco: 1
+
+[INFO] 15:39:46:279 administrador_de_memoria.c/(6802:6803): Estado actual de la TLB: 
+----->Proceso:1, Pagina:0, Marco:0, Bit_modificado:1
+----->Proceso:1, Pagina:1, Marco:1, Bit_modificado:1
+
+
+[INFO] 15:39:46:279 administrador_de_memoria.c/(6802:6803): Estado final de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+----> Pagina = 1, Marco = 1, bitModificado = 1
+
+
+[INFO] 15:39:46:279 administrador_de_memoria.c/(6802:6803): finaliza pedido de escritura del proceso 1 de la pagina 1
+
+[INFO] 15:39:51:280 administrador_de_memoria.c/(6802:6803): Pedido de escritura del procceso 1 de la pagina 2. String a escribir: Corto
+
+[INFO] 15:39:51:280 administrador_de_memoria.c/(6802:6803): TLB miss. Comienza busqueda de la pagina en Tabla de Paginas
+[INFO] 15:39:52:281 administrador_de_memoria.c/(6802:6803): Fallo de Pagina. Enviando solicitud de la pagina 2 del mProc 1 al Swap
+[INFO] 15:39:54:282 administrador_de_memoria.c/(6802:6803): Estado inicial de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+----> Pagina = 1, Marco = 1, bitModificado = 1
+
+
+[INFO] 15:39:55:282 administrador_de_memoria.c/(6802:6803): acceso a memoria
+mproc: 1
+pagina: 2
+marco: 2
+
+[INFO] 15:39:55:282 administrador_de_memoria.c/(6802:6803): Estado actual de la TLB: 
+----->Proceso:1, Pagina:0, Marco:0, Bit_modificado:1
+----->Proceso:1, Pagina:1, Marco:1, Bit_modificado:1
+----->Proceso:1, Pagina:2, Marco:2, Bit_modificado:1
+
+
+[INFO] 15:39:55:282 administrador_de_memoria.c/(6802:6803): Estado final de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+----> Pagina = 1, Marco = 1, bitModificado = 1
+----> Pagina = 2, Marco = 2, bitModificado = 1
+
+
+[INFO] 15:39:55:282 administrador_de_memoria.c/(6802:6803): finaliza pedido de escritura del proceso 1 de la pagina 2
+
+[INFO] 15:40:25:284 administrador_de_memoria.c/(6802:6803): Pedido de lectura del procceso 1 de la pagina 0
+
+[INFO] 15:40:25:284 administrador_de_memoria.c/(6802:6803): TLB hit. El marco resultante fue 0
+[INFO] 15:40:25:284 administrador_de_memoria.c/(6802:6803): Acceso a memoria
+mProc: 1
+pagina: 0
+marco: 0
+
+[INFO] 15:40:26:285 administrador_de_memoria.c/(6802:6803): Finaliza pedido de lectrura del proceso 1, de la pagina 0
+
+[INFO] 15:42:34:60 administrador_de_memoria.c/(6887:6887): Se creo exitosamente el hilo del CPUListener
+
+[INFO] 15:42:34:61 administrador_de_memoria.c/(6887:6887): Se creo exitosamente el hilo de porcentajes de la TLB
+
+[INFO] 15:42:34:61 administrador_de_memoria.c/(6887:6887): Abriendo la consola ..
+[INFO] 15:42:37:93 administrador_de_memoria.c/(6887:6888): Se ha conectado un nuevo hilo CPU
+
+[INFO] 15:42:37:95 administrador_de_memoria.c/(6887:6888): Se ha conectado un nuevo hilo CPU
+
+[INFO] 15:42:40:113 administrador_de_memoria.c/(6887:6888): Se creo un nuevo mProc con PID 1 y con 3 pagina/s
+
+[INFO] 15:42:50:114 administrador_de_memoria.c/(6887:6888): Pedido de escritura del procceso 1 de la pagina 0. String a escribir: Corto
+
+[INFO] 15:42:50:114 administrador_de_memoria.c/(6887:6888): TLB miss. Comienza busqueda de la pagina en Tabla de Paginas
+[INFO] 15:42:51:115 administrador_de_memoria.c/(6887:6888): Fallo de Pagina. Enviando solicitud de la pagina 0 del mProc 1 al Swap
+[INFO] 15:42:53:115 administrador_de_memoria.c/(6887:6888): Estado inicial de la Tabla de Paginas del proceso 1 :
+
+
+[INFO] 15:42:54:115 administrador_de_memoria.c/(6887:6888): acceso a memoria
+mproc: 1
+pagina: 0
+marco: 0
+
+[INFO] 15:42:54:116 administrador_de_memoria.c/(6887:6888): Estado actual de la TLB: 
+----->Proceso:1, Pagina:0, Marco:0, Bit_modificado:1
+
+
+[INFO] 15:42:54:116 administrador_de_memoria.c/(6887:6888): Estado final de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+
+
+[INFO] 15:42:54:116 administrador_de_memoria.c/(6887:6888): finaliza pedido de escritura del proceso 1 de la pagina 0
+
+[INFO] 15:42:59:116 administrador_de_memoria.c/(6887:6888): Pedido de escritura del procceso 1 de la pagina 1. String a escribir: Corto
+
+[INFO] 15:42:59:116 administrador_de_memoria.c/(6887:6888): TLB miss. Comienza busqueda de la pagina en Tabla de Paginas
+[INFO] 15:43:00:116 administrador_de_memoria.c/(6887:6888): Fallo de Pagina. Enviando solicitud de la pagina 1 del mProc 1 al Swap
+[INFO] 15:43:02:117 administrador_de_memoria.c/(6887:6888): Estado inicial de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+
+
+[INFO] 15:43:03:117 administrador_de_memoria.c/(6887:6888): acceso a memoria
+mproc: 1
+pagina: 1
+marco: 1
+
+[INFO] 15:43:03:117 administrador_de_memoria.c/(6887:6888): Estado actual de la TLB: 
+----->Proceso:1, Pagina:0, Marco:0, Bit_modificado:1
+----->Proceso:1, Pagina:1, Marco:1, Bit_modificado:1
+
+
+[INFO] 15:43:03:117 administrador_de_memoria.c/(6887:6888): Estado final de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+----> Pagina = 1, Marco = 1, bitModificado = 1
+
+
+[INFO] 15:43:03:117 administrador_de_memoria.c/(6887:6888): finaliza pedido de escritura del proceso 1 de la pagina 1
+
+[INFO] 15:43:08:118 administrador_de_memoria.c/(6887:6888): Pedido de escritura del procceso 1 de la pagina 2. String a escribir: Corto
+
+[INFO] 15:43:08:118 administrador_de_memoria.c/(6887:6888): TLB miss. Comienza busqueda de la pagina en Tabla de Paginas
+[INFO] 15:43:09:118 administrador_de_memoria.c/(6887:6888): Fallo de Pagina. Enviando solicitud de la pagina 2 del mProc 1 al Swap
+[INFO] 15:43:11:119 administrador_de_memoria.c/(6887:6888): Estado inicial de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+----> Pagina = 1, Marco = 1, bitModificado = 1
+
+
+[INFO] 15:43:12:119 administrador_de_memoria.c/(6887:6888): acceso a memoria
+mproc: 1
+pagina: 2
+marco: 2
+
+[INFO] 15:43:12:119 administrador_de_memoria.c/(6887:6888): Estado actual de la TLB: 
+----->Proceso:1, Pagina:0, Marco:0, Bit_modificado:1
+----->Proceso:1, Pagina:1, Marco:1, Bit_modificado:1
+----->Proceso:1, Pagina:2, Marco:2, Bit_modificado:1
+
+
+[INFO] 15:43:12:119 administrador_de_memoria.c/(6887:6888): Estado final de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+----> Pagina = 1, Marco = 1, bitModificado = 1
+----> Pagina = 2, Marco = 2, bitModificado = 1
+
+
+[INFO] 15:43:12:120 administrador_de_memoria.c/(6887:6888): finaliza pedido de escritura del proceso 1 de la pagina 2
+
+[INFO] 15:43:42:121 administrador_de_memoria.c/(6887:6888): Pedido de lectura del procceso 1 de la pagina 0
+
+[INFO] 15:43:42:121 administrador_de_memoria.c/(6887:6888): TLB hit. El marco resultante fue 0
+[INFO] 15:43:42:122 administrador_de_memoria.c/(6887:6888): Acceso a memoria
+mProc: 1
+pagina: 0
+marco: 0
+
+[INFO] 15:43:43:122 administrador_de_memoria.c/(6887:6888): Finaliza pedido de lectrura del proceso 1, de la pagina 0
+
+[INFO] 15:45:06:340 administrador_de_memoria.c/(6919:6919): Se creo exitosamente el hilo del CPUListener
+
+[INFO] 15:45:06:341 administrador_de_memoria.c/(6919:6919): Se creo exitosamente el hilo de porcentajes de la TLB
+
+[INFO] 15:45:06:341 administrador_de_memoria.c/(6919:6919): Abriendo la consola ..
+[INFO] 15:45:14:933 administrador_de_memoria.c/(6919:6920): Se ha conectado un nuevo hilo CPU
+
+[INFO] 15:45:14:935 administrador_de_memoria.c/(6919:6920): Se ha conectado un nuevo hilo CPU
+
+[INFO] 15:45:18:538 administrador_de_memoria.c/(6919:6920): Se creo un nuevo mProc con PID 1 y con 3 pagina/s
+
+[INFO] 15:45:28:539 administrador_de_memoria.c/(6919:6920): Pedido de escritura del procceso 1 de la pagina 0. String a escribir: Corto
+
+[INFO] 15:45:28:539 administrador_de_memoria.c/(6919:6920): TLB miss. Comienza busqueda de la pagina en Tabla de Paginas
+[INFO] 15:45:29:540 administrador_de_memoria.c/(6919:6920): Fallo de Pagina. Enviando solicitud de la pagina 0 del mProc 1 al Swap
+[INFO] 15:45:31:541 administrador_de_memoria.c/(6919:6920): Estado inicial de la Tabla de Paginas del proceso 1 :
+
+
+[INFO] 15:45:32:541 administrador_de_memoria.c/(6919:6920): acceso a memoria
+mproc: 1
+pagina: 0
+marco: 0
+
+[INFO] 15:45:32:542 administrador_de_memoria.c/(6919:6920): Estado actual de la TLB: 
+----->Proceso:1, Pagina:0, Marco:0, Bit_modificado:1
+
+
+[INFO] 15:45:32:542 administrador_de_memoria.c/(6919:6920): Estado final de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+
+
+[INFO] 15:45:32:542 administrador_de_memoria.c/(6919:6920): finaliza pedido de escritura del proceso 1 de la pagina 0
+
+[INFO] 15:45:37:543 administrador_de_memoria.c/(6919:6920): Pedido de escritura del procceso 1 de la pagina 1. String a escribir: Corto
+
+[INFO] 15:45:37:543 administrador_de_memoria.c/(6919:6920): TLB miss. Comienza busqueda de la pagina en Tabla de Paginas
+[INFO] 15:45:38:543 administrador_de_memoria.c/(6919:6920): Fallo de Pagina. Enviando solicitud de la pagina 1 del mProc 1 al Swap
+[INFO] 15:45:40:544 administrador_de_memoria.c/(6919:6920): Estado inicial de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+
+
+[INFO] 15:45:41:544 administrador_de_memoria.c/(6919:6920): acceso a memoria
+mproc: 1
+pagina: 1
+marco: 1
+
+[INFO] 15:45:41:544 administrador_de_memoria.c/(6919:6920): Estado actual de la TLB: 
+----->Proceso:1, Pagina:0, Marco:0, Bit_modificado:1
+----->Proceso:1, Pagina:1, Marco:1, Bit_modificado:1
+
+
+[INFO] 15:45:41:544 administrador_de_memoria.c/(6919:6920): Estado final de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+----> Pagina = 1, Marco = 1, bitModificado = 1
+
+
+[INFO] 15:45:41:544 administrador_de_memoria.c/(6919:6920): finaliza pedido de escritura del proceso 1 de la pagina 1
+
+[INFO] 15:45:46:544 administrador_de_memoria.c/(6919:6920): Pedido de escritura del procceso 1 de la pagina 2. String a escribir: Corto
+
+[INFO] 15:45:46:544 administrador_de_memoria.c/(6919:6920): TLB miss. Comienza busqueda de la pagina en Tabla de Paginas
+[INFO] 15:45:47:545 administrador_de_memoria.c/(6919:6920): Fallo de Pagina. Enviando solicitud de la pagina 2 del mProc 1 al Swap
+[INFO] 15:45:49:545 administrador_de_memoria.c/(6919:6920): Estado inicial de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+----> Pagina = 1, Marco = 1, bitModificado = 1
+
+
+[INFO] 15:45:50:546 administrador_de_memoria.c/(6919:6920): acceso a memoria
+mproc: 1
+pagina: 2
+marco: 2
+
+[INFO] 15:45:50:546 administrador_de_memoria.c/(6919:6920): Estado actual de la TLB: 
+----->Proceso:1, Pagina:0, Marco:0, Bit_modificado:1
+----->Proceso:1, Pagina:1, Marco:1, Bit_modificado:1
+----->Proceso:1, Pagina:2, Marco:2, Bit_modificado:1
+
+
+[INFO] 15:45:50:546 administrador_de_memoria.c/(6919:6920): Estado final de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+----> Pagina = 1, Marco = 1, bitModificado = 1
+----> Pagina = 2, Marco = 2, bitModificado = 1
+
+
+[INFO] 15:45:50:546 administrador_de_memoria.c/(6919:6920): finaliza pedido de escritura del proceso 1 de la pagina 2
+
+[INFO] 15:46:20:548 administrador_de_memoria.c/(6919:6920): Pedido de lectura del procceso 1 de la pagina 0
+
+[INFO] 15:46:20:548 administrador_de_memoria.c/(6919:6920): TLB hit. El marco resultante fue 0
+[INFO] 15:46:20:548 administrador_de_memoria.c/(6919:6920): Acceso a memoria
+mProc: 1
+pagina: 0
+marco: 0
+
+[INFO] 15:46:21:549 administrador_de_memoria.c/(6919:6920): Finaliza pedido de lectrura del proceso 1, de la pagina 0
+
+[INFO] 15:48:12:699 administrador_de_memoria.c/(6990:6990): No se ha podido conectar con el proceso swap
+
+[INFO] 15:48:18:947 administrador_de_memoria.c/(6995:6995): Se creo exitosamente el hilo del CPUListener
+
+[INFO] 15:48:18:948 administrador_de_memoria.c/(6995:6995): Se creo exitosamente el hilo de porcentajes de la TLB
+
+[INFO] 15:48:18:948 administrador_de_memoria.c/(6995:6995): Abriendo la consola ..
+[INFO] 15:48:27:205 administrador_de_memoria.c/(6995:6996): Se ha conectado un nuevo hilo CPU
+
+[INFO] 15:48:27:207 administrador_de_memoria.c/(6995:6996): Se ha conectado un nuevo hilo CPU
+
+[INFO] 15:48:30:858 administrador_de_memoria.c/(6995:6996): Se creo un nuevo mProc con PID 1 y con 3 pagina/s
+
+[INFO] 15:48:40:863 administrador_de_memoria.c/(6995:6996): Pedido de escritura del procceso 1 de la pagina 0. String a escribir: Corto
+
+[INFO] 15:48:40:863 administrador_de_memoria.c/(6995:6996): TLB miss. Comienza busqueda de la pagina en Tabla de Paginas
+[INFO] 15:48:41:863 administrador_de_memoria.c/(6995:6996): Fallo de Pagina. Enviando solicitud de la pagina 0 del mProc 1 al Swap
+[INFO] 15:48:43:864 administrador_de_memoria.c/(6995:6996): Estado inicial de la Tabla de Paginas del proceso 1 :
+
+
+[INFO] 15:48:44:864 administrador_de_memoria.c/(6995:6996): acceso a memoria
+mproc: 1
+pagina: 0
+marco: 0
+
+[INFO] 15:48:44:864 administrador_de_memoria.c/(6995:6996): Estado actual de la TLB: 
+----->Proceso:1, Pagina:0, Marco:0, Bit_modificado:1
+
+
+[INFO] 15:48:44:864 administrador_de_memoria.c/(6995:6996): Estado final de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+
+
+[INFO] 15:48:44:864 administrador_de_memoria.c/(6995:6996): finaliza pedido de escritura del proceso 1 de la pagina 0
+
+[INFO] 15:48:49:865 administrador_de_memoria.c/(6995:6996): Pedido de escritura del procceso 1 de la pagina 1. String a escribir: Corto
+
+[INFO] 15:48:49:865 administrador_de_memoria.c/(6995:6996): TLB miss. Comienza busqueda de la pagina en Tabla de Paginas
+[INFO] 15:48:50:865 administrador_de_memoria.c/(6995:6996): Fallo de Pagina. Enviando solicitud de la pagina 1 del mProc 1 al Swap
+[INFO] 15:48:52:866 administrador_de_memoria.c/(6995:6996): Estado inicial de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+
+
+[INFO] 15:48:53:866 administrador_de_memoria.c/(6995:6996): acceso a memoria
+mproc: 1
+pagina: 1
+marco: 1
+
+[INFO] 15:48:53:866 administrador_de_memoria.c/(6995:6996): Estado actual de la TLB: 
+----->Proceso:1, Pagina:0, Marco:0, Bit_modificado:1
+----->Proceso:1, Pagina:1, Marco:1, Bit_modificado:1
+
+
+[INFO] 15:48:53:866 administrador_de_memoria.c/(6995:6996): Estado final de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+----> Pagina = 1, Marco = 1, bitModificado = 1
+
+
+[INFO] 15:48:53:866 administrador_de_memoria.c/(6995:6996): finaliza pedido de escritura del proceso 1 de la pagina 1
+
+[INFO] 15:48:58:867 administrador_de_memoria.c/(6995:6996): Pedido de escritura del procceso 1 de la pagina 2. String a escribir: Corto
+
+[INFO] 15:48:58:867 administrador_de_memoria.c/(6995:6996): TLB miss. Comienza busqueda de la pagina en Tabla de Paginas
+[INFO] 15:48:59:867 administrador_de_memoria.c/(6995:6996): Fallo de Pagina. Enviando solicitud de la pagina 2 del mProc 1 al Swap
+[INFO] 15:49:01:868 administrador_de_memoria.c/(6995:6996): Estado inicial de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+----> Pagina = 1, Marco = 1, bitModificado = 1
+
+
+[INFO] 15:49:02:868 administrador_de_memoria.c/(6995:6996): acceso a memoria
+mproc: 1
+pagina: 2
+marco: 2
+
+[INFO] 15:49:02:868 administrador_de_memoria.c/(6995:6996): Estado actual de la TLB: 
+----->Proceso:1, Pagina:0, Marco:0, Bit_modificado:1
+----->Proceso:1, Pagina:1, Marco:1, Bit_modificado:1
+----->Proceso:1, Pagina:2, Marco:2, Bit_modificado:1
+
+
+[INFO] 15:49:02:868 administrador_de_memoria.c/(6995:6996): Estado final de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+----> Pagina = 1, Marco = 1, bitModificado = 1
+----> Pagina = 2, Marco = 2, bitModificado = 1
+
+
+[INFO] 15:49:02:868 administrador_de_memoria.c/(6995:6996): finaliza pedido de escritura del proceso 1 de la pagina 2
+
+[INFO] 15:49:32:870 administrador_de_memoria.c/(6995:6996): Pedido de lectura del procceso 1 de la pagina 0
+
+[INFO] 15:49:32:870 administrador_de_memoria.c/(6995:6996): TLB hit. El marco resultante fue 0
+[INFO] 15:49:32:870 administrador_de_memoria.c/(6995:6996): Acceso a memoria
+mProc: 1
+pagina: 0
+marco: 0
+
+[INFO] 15:49:33:870 administrador_de_memoria.c/(6995:6996): Finaliza pedido de lectrura del proceso 1, de la pagina 0
+
+[INFO] 15:50:58:205 administrador_de_memoria.c/(7079:7079): Se creo exitosamente el hilo del CPUListener
+
+[INFO] 15:50:58:205 administrador_de_memoria.c/(7079:7079): Se creo exitosamente el hilo de porcentajes de la TLB
+
+[INFO] 15:50:58:206 administrador_de_memoria.c/(7079:7079): Abriendo la consola ..
+[INFO] 15:51:03:711 administrador_de_memoria.c/(7079:7080): Se ha conectado un nuevo hilo CPU
+
+[INFO] 15:51:03:712 administrador_de_memoria.c/(7079:7080): Se ha conectado un nuevo hilo CPU
+
+[INFO] 15:51:21:194 administrador_de_memoria.c/(7079:7080): Se creo un nuevo mProc con PID 1 y con 3 pagina/s
+
+[INFO] 15:51:31:196 administrador_de_memoria.c/(7079:7080): Pedido de escritura del procceso 1 de la pagina 0. String a escribir: Corto
+
+[INFO] 15:51:31:196 administrador_de_memoria.c/(7079:7080): TLB miss. Comienza busqueda de la pagina en Tabla de Paginas
+[INFO] 15:51:32:196 administrador_de_memoria.c/(7079:7080): Fallo de Pagina. Enviando solicitud de la pagina 0 del mProc 1 al Swap
+[INFO] 15:51:34:197 administrador_de_memoria.c/(7079:7080): Estado inicial de la Tabla de Paginas del proceso 1 :
+
+
+[INFO] 15:51:35:197 administrador_de_memoria.c/(7079:7080): acceso a memoria
+mproc: 1
+pagina: 0
+marco: 0
+
+[INFO] 15:51:35:197 administrador_de_memoria.c/(7079:7080): Estado actual de la TLB: 
+----->Proceso:1, Pagina:0, Marco:0, Bit_modificado:1
+
+
+[INFO] 15:51:35:197 administrador_de_memoria.c/(7079:7080): Estado final de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+
+
+[INFO] 15:51:35:197 administrador_de_memoria.c/(7079:7080): finaliza pedido de escritura del proceso 1 de la pagina 0
+
+[INFO] 15:51:40:197 administrador_de_memoria.c/(7079:7080): Pedido de escritura del procceso 1 de la pagina 1. String a escribir: Corto
+
+[INFO] 15:51:40:197 administrador_de_memoria.c/(7079:7080): TLB miss. Comienza busqueda de la pagina en Tabla de Paginas
+[INFO] 15:51:41:198 administrador_de_memoria.c/(7079:7080): Fallo de Pagina. Enviando solicitud de la pagina 1 del mProc 1 al Swap
+[INFO] 15:51:43:199 administrador_de_memoria.c/(7079:7080): Estado inicial de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+
+
+[INFO] 15:51:44:199 administrador_de_memoria.c/(7079:7080): acceso a memoria
+mproc: 1
+pagina: 1
+marco: 1
+
+[INFO] 15:51:44:199 administrador_de_memoria.c/(7079:7080): Estado actual de la TLB: 
+----->Proceso:1, Pagina:0, Marco:0, Bit_modificado:1
+----->Proceso:1, Pagina:1, Marco:1, Bit_modificado:1
+
+
+[INFO] 15:51:44:199 administrador_de_memoria.c/(7079:7080): Estado final de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+----> Pagina = 1, Marco = 1, bitModificado = 1
+
+
+[INFO] 15:51:44:199 administrador_de_memoria.c/(7079:7080): finaliza pedido de escritura del proceso 1 de la pagina 1
+
+[INFO] 15:51:49:199 administrador_de_memoria.c/(7079:7080): Pedido de escritura del procceso 1 de la pagina 2. String a escribir: Corto
+
+[INFO] 15:51:49:199 administrador_de_memoria.c/(7079:7080): TLB miss. Comienza busqueda de la pagina en Tabla de Paginas
+[INFO] 15:51:50:200 administrador_de_memoria.c/(7079:7080): Fallo de Pagina. Enviando solicitud de la pagina 2 del mProc 1 al Swap
+[INFO] 15:51:52:201 administrador_de_memoria.c/(7079:7080): Estado inicial de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+----> Pagina = 1, Marco = 1, bitModificado = 1
+
+
+[INFO] 15:51:53:201 administrador_de_memoria.c/(7079:7080): acceso a memoria
+mproc: 1
+pagina: 2
+marco: 2
+
+[INFO] 15:51:53:201 administrador_de_memoria.c/(7079:7080): Estado actual de la TLB: 
+----->Proceso:1, Pagina:0, Marco:0, Bit_modificado:1
+----->Proceso:1, Pagina:1, Marco:1, Bit_modificado:1
+----->Proceso:1, Pagina:2, Marco:2, Bit_modificado:1
+
+
+[INFO] 15:51:53:201 administrador_de_memoria.c/(7079:7080): Estado final de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+----> Pagina = 1, Marco = 1, bitModificado = 1
+----> Pagina = 2, Marco = 2, bitModificado = 1
+
+
+[INFO] 15:51:53:201 administrador_de_memoria.c/(7079:7080): finaliza pedido de escritura del proceso 1 de la pagina 2
+
+[INFO] 15:52:23:203 administrador_de_memoria.c/(7079:7080): Pedido de lectura del procceso 1 de la pagina 0
+
+[INFO] 15:52:23:203 administrador_de_memoria.c/(7079:7080): TLB hit. El marco resultante fue 0
+[INFO] 15:52:23:203 administrador_de_memoria.c/(7079:7080): Acceso a memoria
+mProc: 1
+pagina: 0
+marco: 0
+
+[INFO] 15:52:24:203 administrador_de_memoria.c/(7079:7080): Finaliza pedido de lectrura del proceso 1, de la pagina 0
+
+[INFO] 15:53:06:528 administrador_de_memoria.c/(7149:7149): Se creo exitosamente el hilo del CPUListener
+
+[INFO] 15:53:06:528 administrador_de_memoria.c/(7149:7149): Se creo exitosamente el hilo de porcentajes de la TLB
+
+[INFO] 15:53:06:529 administrador_de_memoria.c/(7149:7149): Abriendo la consola ..
+[INFO] 15:53:33:38 administrador_de_memoria.c/(7149:7150): Se ha conectado un nuevo hilo CPU
+
+[INFO] 15:53:33:40 administrador_de_memoria.c/(7149:7150): Se ha conectado un nuevo hilo CPU
+
+[INFO] 15:53:37:348 administrador_de_memoria.c/(7149:7150): Se creo un nuevo mProc con PID 1 y con 5 pagina/s
+
+[INFO] 15:53:47:349 administrador_de_memoria.c/(7149:7150): Pedido de escritura del procceso 1 de la pagina 0. String a escribir: NoSoy
+
+[INFO] 15:53:47:349 administrador_de_memoria.c/(7149:7150): TLB miss. Comienza busqueda de la pagina en Tabla de Paginas
+[INFO] 15:53:48:350 administrador_de_memoria.c/(7149:7150): Fallo de Pagina. Enviando solicitud de la pagina 0 del mProc 1 al Swap
+[INFO] 15:53:50:351 administrador_de_memoria.c/(7149:7150): Estado inicial de la Tabla de Paginas del proceso 1 :
+
+
+[INFO] 15:53:51:351 administrador_de_memoria.c/(7149:7150): acceso a memoria
+mproc: 1
+pagina: 0
+marco: 0
+
+[INFO] 15:53:51:351 administrador_de_memoria.c/(7149:7150): Estado actual de la TLB: 
+----->Proceso:1, Pagina:0, Marco:0, Bit_modificado:1
+
+
+[INFO] 15:53:51:351 administrador_de_memoria.c/(7149:7150): Estado final de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+
+
+[INFO] 15:53:51:351 administrador_de_memoria.c/(7149:7150): finaliza pedido de escritura del proceso 1 de la pagina 0
+
+[INFO] 15:53:56:352 administrador_de_memoria.c/(7149:7150): Pedido de escritura del procceso 1 de la pagina 1. String a escribir: NoSoy
+
+[INFO] 15:53:56:352 administrador_de_memoria.c/(7149:7150): TLB miss. Comienza busqueda de la pagina en Tabla de Paginas
+[INFO] 15:53:57:352 administrador_de_memoria.c/(7149:7150): Fallo de Pagina. Enviando solicitud de la pagina 1 del mProc 1 al Swap
+[INFO] 15:53:59:353 administrador_de_memoria.c/(7149:7150): Estado inicial de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+
+
+[INFO] 15:54:00:353 administrador_de_memoria.c/(7149:7150): acceso a memoria
+mproc: 1
+pagina: 1
+marco: 1
+
+[INFO] 15:54:00:353 administrador_de_memoria.c/(7149:7150): Estado actual de la TLB: 
+----->Proceso:1, Pagina:0, Marco:0, Bit_modificado:1
+----->Proceso:1, Pagina:1, Marco:1, Bit_modificado:1
+
+
+[INFO] 15:54:00:353 administrador_de_memoria.c/(7149:7150): Estado final de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+----> Pagina = 1, Marco = 1, bitModificado = 1
+
+
+[INFO] 15:54:00:354 administrador_de_memoria.c/(7149:7150): finaliza pedido de escritura del proceso 1 de la pagina 1
+
+[INFO] 15:54:05:354 administrador_de_memoria.c/(7149:7150): Pedido de escritura del procceso 1 de la pagina 2. String a escribir: NoSoy
+
+[INFO] 15:54:05:354 administrador_de_memoria.c/(7149:7150): TLB miss. Comienza busqueda de la pagina en Tabla de Paginas
+[INFO] 15:54:06:354 administrador_de_memoria.c/(7149:7150): Fallo de Pagina. Enviando solicitud de la pagina 2 del mProc 1 al Swap
+[INFO] 15:54:08:355 administrador_de_memoria.c/(7149:7150): Estado inicial de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+----> Pagina = 1, Marco = 1, bitModificado = 1
+
+
+[INFO] 15:54:09:356 administrador_de_memoria.c/(7149:7150): acceso a memoria
+mproc: 1
+pagina: 2
+marco: 2
+
+[INFO] 15:54:09:356 administrador_de_memoria.c/(7149:7150): Estado actual de la TLB: 
+----->Proceso:1, Pagina:0, Marco:0, Bit_modificado:1
+----->Proceso:1, Pagina:1, Marco:1, Bit_modificado:1
+----->Proceso:1, Pagina:2, Marco:2, Bit_modificado:1
+
+
+[INFO] 15:54:09:356 administrador_de_memoria.c/(7149:7150): Estado final de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+----> Pagina = 1, Marco = 1, bitModificado = 1
+----> Pagina = 2, Marco = 2, bitModificado = 1
+
+
+[INFO] 15:54:09:356 administrador_de_memoria.c/(7149:7150): finaliza pedido de escritura del proceso 1 de la pagina 2
+
+[INFO] 15:54:14:356 administrador_de_memoria.c/(7149:7150): Pedido de escritura del procceso 1 de la pagina 3. String a escribir: NoSoy
+
+[INFO] 15:54:14:356 administrador_de_memoria.c/(7149:7150): TLB miss. Comienza busqueda de la pagina en Tabla de Paginas
+[INFO] 15:54:15:357 administrador_de_memoria.c/(7149:7150): Fallo de Pagina. Enviando solicitud de la pagina 3 del mProc 1 al Swap
+[INFO] 15:54:17:357 administrador_de_memoria.c/(7149:7150): Estado inicial de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+----> Pagina = 1, Marco = 1, bitModificado = 1
+----> Pagina = 2, Marco = 2, bitModificado = 1
+
+
+[INFO] 15:54:18:357 administrador_de_memoria.c/(7149:7150): acceso a memoria
+mproc: 1
+pagina: 3
+marco: 3
+
+[INFO] 15:54:18:357 administrador_de_memoria.c/(7149:7150): Estado actual de la TLB: 
+----->Proceso:1, Pagina:0, Marco:0, Bit_modificado:1
+----->Proceso:1, Pagina:1, Marco:1, Bit_modificado:1
+----->Proceso:1, Pagina:2, Marco:2, Bit_modificado:1
+----->Proceso:1, Pagina:3, Marco:3, Bit_modificado:1
+
+
+[INFO] 15:54:18:357 administrador_de_memoria.c/(7149:7150): Estado final de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+----> Pagina = 1, Marco = 1, bitModificado = 1
+----> Pagina = 2, Marco = 2, bitModificado = 1
+----> Pagina = 3, Marco = 3, bitModificado = 1
+
+
+[INFO] 15:54:18:358 administrador_de_memoria.c/(7149:7150): finaliza pedido de escritura del proceso 1 de la pagina 3
+
+[INFO] 15:54:23:358 administrador_de_memoria.c/(7149:7150): Pedido de escritura del procceso 1 de la pagina 4. String a escribir: NoSoy
+
+[INFO] 15:54:23:358 administrador_de_memoria.c/(7149:7150): TLB miss. Comienza busqueda de la pagina en Tabla de Paginas
+[INFO] 15:54:24:358 administrador_de_memoria.c/(7149:7150): Fallo de Pagina. Enviando solicitud de la pagina 4 del mProc 1 al Swap
+[INFO] 15:54:26:359 administrador_de_memoria.c/(7149:7150): Estado inicial de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+----> Pagina = 1, Marco = 1, bitModificado = 1
+----> Pagina = 2, Marco = 2, bitModificado = 1
+----> Pagina = 3, Marco = 3, bitModificado = 1
+
+
+[INFO] 15:54:27:360 administrador_de_memoria.c/(7149:7150): acceso a memoria
+mproc: 1
+pagina: 4
+marco: 4
+
+[INFO] 15:54:27:360 administrador_de_memoria.c/(7149:7150): Estado actual de la TLB: 
+----->Proceso:1, Pagina:0, Marco:0, Bit_modificado:1
+----->Proceso:1, Pagina:1, Marco:1, Bit_modificado:1
+----->Proceso:1, Pagina:2, Marco:2, Bit_modificado:1
+----->Proceso:1, Pagina:3, Marco:3, Bit_modificado:1
+----->Proceso:1, Pagina:4, Marco:4, Bit_modificado:1
+
+
+[INFO] 15:54:27:360 administrador_de_memoria.c/(7149:7150): Estado final de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+----> Pagina = 1, Marco = 1, bitModificado = 1
+----> Pagina = 2, Marco = 2, bitModificado = 1
+----> Pagina = 3, Marco = 3, bitModificado = 1
+----> Pagina = 4, Marco = 4, bitModificado = 1
+
+
+[INFO] 15:54:27:360 administrador_de_memoria.c/(7149:7150): finaliza pedido de escritura del proceso 1 de la pagina 4
+
+[INFO] 15:59:30:189 administrador_de_memoria.c/(2340:2340): Se creo exitosamente el hilo del CPUListener
+
+[INFO] 15:59:30:206 administrador_de_memoria.c/(2340:2340): Se creo exitosamente el hilo de porcentajes de la TLB
+
+[INFO] 15:59:30:207 administrador_de_memoria.c/(2340:2340): Abriendo la consola ..
+[INFO] 15:59:42:849 administrador_de_memoria.c/(2340:2341): Se ha conectado un nuevo hilo CPU
+
+[INFO] 15:59:42:853 administrador_de_memoria.c/(2340:2341): Se ha conectado un nuevo hilo CPU
+
+[INFO] 15:59:48:126 administrador_de_memoria.c/(2340:2341): Se creo un nuevo mProc con PID 1 y con 5 pagina/s
+
+[INFO] 15:59:58:127 administrador_de_memoria.c/(2340:2341): Pedido de escritura del procceso 1 de la pagina 0. String a escribir: NoSoy
+
+[INFO] 15:59:58:127 administrador_de_memoria.c/(2340:2341): TLB miss. Comienza busqueda de la pagina en Tabla de Paginas
+[INFO] 15:59:59:127 administrador_de_memoria.c/(2340:2341): Fallo de Pagina. Enviando solicitud de la pagina 0 del mProc 1 al Swap
+[INFO] 16:00:01:128 administrador_de_memoria.c/(2340:2341): Estado inicial de la Tabla de Paginas del proceso 1 :
+
+
+[INFO] 16:00:02:128 administrador_de_memoria.c/(2340:2341): acceso a memoria
+mproc: 1
+pagina: 0
+marco: 0
+
+[INFO] 16:00:02:128 administrador_de_memoria.c/(2340:2341): Estado actual de la TLB: 
+----->Proceso:1, Pagina:0, Marco:0, Bit_modificado:1
+
+
+[INFO] 16:00:02:128 administrador_de_memoria.c/(2340:2341): Estado final de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+
+
+[INFO] 16:00:02:128 administrador_de_memoria.c/(2340:2341): finaliza pedido de escritura del proceso 1 de la pagina 0
+
+[INFO] 16:00:07:129 administrador_de_memoria.c/(2340:2341): Pedido de escritura del procceso 1 de la pagina 1. String a escribir: NoSoy
+
+[INFO] 16:00:07:129 administrador_de_memoria.c/(2340:2341): TLB miss. Comienza busqueda de la pagina en Tabla de Paginas
+[INFO] 16:00:08:130 administrador_de_memoria.c/(2340:2341): Fallo de Pagina. Enviando solicitud de la pagina 1 del mProc 1 al Swap
+[INFO] 16:00:10:130 administrador_de_memoria.c/(2340:2341): Estado inicial de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+
+
+[INFO] 16:00:11:131 administrador_de_memoria.c/(2340:2341): acceso a memoria
+mproc: 1
+pagina: 1
+marco: 1
+
+[INFO] 16:00:11:131 administrador_de_memoria.c/(2340:2341): Estado actual de la TLB: 
+----->Proceso:1, Pagina:0, Marco:0, Bit_modificado:1
+----->Proceso:1, Pagina:1, Marco:1, Bit_modificado:1
+
+
+[INFO] 16:00:11:131 administrador_de_memoria.c/(2340:2341): Estado final de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+----> Pagina = 1, Marco = 1, bitModificado = 1
+
+
+[INFO] 16:00:11:131 administrador_de_memoria.c/(2340:2341): finaliza pedido de escritura del proceso 1 de la pagina 1
+
+[INFO] 16:00:16:131 administrador_de_memoria.c/(2340:2341): Pedido de escritura del procceso 1 de la pagina 2. String a escribir: NoSoy
+
+[INFO] 16:00:16:131 administrador_de_memoria.c/(2340:2341): TLB miss. Comienza busqueda de la pagina en Tabla de Paginas
+[INFO] 16:00:17:132 administrador_de_memoria.c/(2340:2341): Fallo de Pagina. Enviando solicitud de la pagina 2 del mProc 1 al Swap
+[INFO] 16:00:19:133 administrador_de_memoria.c/(2340:2341): Estado inicial de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+----> Pagina = 1, Marco = 1, bitModificado = 1
+
+
+[INFO] 16:00:20:133 administrador_de_memoria.c/(2340:2341): acceso a memoria
+mproc: 1
+pagina: 2
+marco: 2
+
+[INFO] 16:00:20:133 administrador_de_memoria.c/(2340:2341): Estado actual de la TLB: 
+----->Proceso:1, Pagina:0, Marco:0, Bit_modificado:1
+----->Proceso:1, Pagina:1, Marco:1, Bit_modificado:1
+----->Proceso:1, Pagina:2, Marco:2, Bit_modificado:1
+
+
+[INFO] 16:00:20:133 administrador_de_memoria.c/(2340:2341): Estado final de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+----> Pagina = 1, Marco = 1, bitModificado = 1
+----> Pagina = 2, Marco = 2, bitModificado = 1
+
+
+[INFO] 16:00:20:133 administrador_de_memoria.c/(2340:2341): finaliza pedido de escritura del proceso 1 de la pagina 2
+
+[INFO] 16:00:25:134 administrador_de_memoria.c/(2340:2341): Pedido de escritura del procceso 1 de la pagina 3. String a escribir: NoSoy
+
+[INFO] 16:00:25:134 administrador_de_memoria.c/(2340:2341): TLB miss. Comienza busqueda de la pagina en Tabla de Paginas
+[INFO] 16:00:26:134 administrador_de_memoria.c/(2340:2341): Fallo de Pagina. Enviando solicitud de la pagina 3 del mProc 1 al Swap
+[INFO] 16:00:28:134 administrador_de_memoria.c/(2340:2341): Estado inicial de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+----> Pagina = 1, Marco = 1, bitModificado = 1
+----> Pagina = 2, Marco = 2, bitModificado = 1
+
+
+[INFO] 16:00:29:135 administrador_de_memoria.c/(2340:2341): acceso a memoria
+mproc: 1
+pagina: 3
+marco: 3
+
+[INFO] 16:00:29:135 administrador_de_memoria.c/(2340:2341): Estado actual de la TLB: 
+----->Proceso:1, Pagina:0, Marco:0, Bit_modificado:1
+----->Proceso:1, Pagina:1, Marco:1, Bit_modificado:1
+----->Proceso:1, Pagina:2, Marco:2, Bit_modificado:1
+----->Proceso:1, Pagina:3, Marco:3, Bit_modificado:1
+
+
+[INFO] 16:00:29:135 administrador_de_memoria.c/(2340:2341): Estado final de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+----> Pagina = 1, Marco = 1, bitModificado = 1
+----> Pagina = 2, Marco = 2, bitModificado = 1
+----> Pagina = 3, Marco = 3, bitModificado = 1
+
+
+[INFO] 16:00:29:135 administrador_de_memoria.c/(2340:2341): finaliza pedido de escritura del proceso 1 de la pagina 3
+
+[INFO] 16:00:34:135 administrador_de_memoria.c/(2340:2341): Pedido de escritura del procceso 1 de la pagina 4. String a escribir: NoSoy
+
+[INFO] 16:00:34:135 administrador_de_memoria.c/(2340:2341): TLB miss. Comienza busqueda de la pagina en Tabla de Paginas
+[INFO] 16:00:35:136 administrador_de_memoria.c/(2340:2341): Fallo de Pagina. Enviando solicitud de la pagina 4 del mProc 1 al Swap
+[INFO] 16:00:37:137 administrador_de_memoria.c/(2340:2341): Estado inicial de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+----> Pagina = 1, Marco = 1, bitModificado = 1
+----> Pagina = 2, Marco = 2, bitModificado = 1
+----> Pagina = 3, Marco = 3, bitModificado = 1
+
+
+[INFO] 16:00:38:137 administrador_de_memoria.c/(2340:2341): acceso a memoria
+mproc: 1
+pagina: 4
+marco: 4
+
+[INFO] 16:00:38:137 administrador_de_memoria.c/(2340:2341): Estado actual de la TLB: 
+----->Proceso:1, Pagina:0, Marco:0, Bit_modificado:1
+----->Proceso:1, Pagina:1, Marco:1, Bit_modificado:1
+----->Proceso:1, Pagina:2, Marco:2, Bit_modificado:1
+----->Proceso:1, Pagina:3, Marco:3, Bit_modificado:1
+----->Proceso:1, Pagina:4, Marco:4, Bit_modificado:1
+
+
+[INFO] 16:00:38:137 administrador_de_memoria.c/(2340:2341): Estado final de la Tabla de Paginas del proceso 1 :
+----> Pagina = 0, Marco = 0, bitModificado = 1
+----> Pagina = 1, Marco = 1, bitModificado = 1
+----> Pagina = 2, Marco = 2, bitModificado = 1
+----> Pagina = 3, Marco = 3, bitModificado = 1
+----> Pagina = 4, Marco = 4, bitModificado = 1
+
+
+[INFO] 16:00:38:137 administrador_de_memoria.c/(2340:2341): finaliza pedido de escritura del proceso 1 de la pagina 4
+

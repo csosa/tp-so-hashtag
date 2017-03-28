@@ -1,0 +1,98 @@
+[INFO] 15:08:40:131 hiloSwap.c/(6176:6176): Se creo la conexion con el Swap
+
+[INFO] 15:13:33:478 hiloSwap.c/(6282:6282): Se creo la conexion con el Swap
+
+[INFO] 15:16:34:221 hiloSwap.c/(6359:6359): Se creo la conexion con el Swap
+
+[INFO] 15:22:45:572 hiloSwap.c/(6500:6500): Se creo la conexion con el Swap
+
+[INFO] 15:24:47:856 hiloSwap.c/(6557:6557): Se creo la conexion con el Swap
+
+[INFO] 15:28:12:251 hiloSwap.c/(6586:6586): Se creo la conexion con el Swap
+
+[INFO] 15:32:04:847 hiloSwap.c/(6657:6657): Se creo la conexion con el Swap
+
+[INFO] 15:37:02:716 hiloSwap.c/(6760:6760): Se creo la conexion con el Swap
+
+[INFO] 15:39:12:931 hiloSwap.c/(6802:6802): Se creo la conexion con el Swap
+
+[INFO] 15:42:34:60 hiloSwap.c/(6887:6887): Se creo la conexion con el Swap
+
+[INFO] 15:45:06:340 hiloSwap.c/(6919:6919): Se creo la conexion con el Swap
+
+[INFO] 15:48:18:947 hiloSwap.c/(6995:6995): Se creo la conexion con el Swap
+
+[INFO] 15:50:58:204 hiloSwap.c/(7079:7079): Se creo la conexion con el Swap
+
+[INFO] 15:53:06:527 hiloSwap.c/(7149:7149): Se creo la conexion con el Swap
+
+[INFO] 15:59:30:178 hiloSwap.c/(2340:2340): Se creo la conexion con el Swap
+
+[INFO] 11:30:39:328 hiloSwap.c/(2617:2617): Se creo la conexion con el Swap
+
+[INFO] 11:32:08:104 hiloSwap.c/(2699:2699): Se creo la conexion con el Swap
+
+[INFO] 11:38:39:186 hiloSwap.c/(2794:2794): Se creo la conexion con el Swap
+
+[INFO] 11:44:29:790 hiloSwap.c/(2859:2859): Se creo la conexion con el Swap
+
+[INFO] 12:08:03:564 hiloSwap.c/(3008:3008): Se creo la conexion con el Swap
+
+[INFO] 12:48:40:581 hiloSwap.c/(3136:3136): Se creo la conexion con el Swap
+
+[INFO] 13:57:38:637 hiloSwap.c/(3434:3434): Se creo la conexion con el Swap
+
+[INFO] 14:08:40:124 hiloSwap.c/(3649:3649): Se creo la conexion con el Swap
+
+[INFO] 14:24:45:162 hiloSwap.c/(3744:3744): Se creo la conexion con el Swap
+
+[INFO] 14:25:57:650 hiloSwap.c/(3837:3837): Se creo la conexion con el Swap
+
+[INFO] 14:28:22:657 hiloSwap.c/(3923:3923): Se creo la conexion con el Swap
+
+[INFO] 14:30:06:836 hiloSwap.c/(3962:3962): Se creo la conexion con el Swap
+
+[INFO] 14:34:18:463 hiloSwap.c/(4054:4054): Se creo la conexion con el Swap
+
+[INFO] 14:46:57:30 hiloSwap.c/(4177:4177): Se creo la conexion con el Swap
+
+[INFO] 14:48:34:266 hiloSwap.c/(4256:4256): Se creo la conexion con el Swap
+
+[INFO] 16:10:30:301 hiloSwap.c/(4597:4597): Se creo la conexion con el Swap
+
+[INFO] 17:48:42:718 hiloSwap.c/(4941:4941): Se creo la conexion con el Swap
+
+[INFO] 17:49:35:32 hiloSwap.c/(4988:4988): Se creo la conexion con el Swap
+
+[INFO] 10:31:24:43 hiloSwap.c/(2500:2500): Se creo la conexion con el Swap
+
+[INFO] 10:35:53:505 hiloSwap.c/(2786:2786): Se creo la conexion con el Swap
+
+[INFO] 13:56:58:309 hiloSwap.c/(2293:2293): Se creo la conexion con el Swap
+
+[INFO] 13:59:00:404 hiloSwap.c/(2407:2407): Se creo la conexion con el Swap
+
+[INFO] 14:08:03:294 hiloSwap.c/(2572:2572): Se creo la conexion con el Swap
+
+[INFO] 14:38:56:627 hiloSwap.c/(2661:2661): Se creo la conexion con el Swap
+
+[INFO] 14:39:33:756 hiloSwap.c/(2692:2692): Se creo la conexion con el Swap
+
+[INFO] 15:33:21:536 hiloSwap.c/(2870:2870): Se creo la conexion con el Swap
+
+[INFO] 16:37:39:452 hiloSwap.c/(3163:3163): Se creo la conexion con el Swap
+
+[INFO] 17:02:27:580 hiloSwap.c/(3229:3229): Se creo la conexion con el Swap
+
+[INFO] 17:45:59:705 hiloSwap.c/(3450:3450): Se creo la conexion con el Swap
+
+[INFO] 17:47:56:984 hiloSwap.c/(3483:3483): Se creo la conexion con el Swap
+
+[INFO] 17:52:07:845 hiloSwap.c/(3531:3531): Se creo la conexion con el Swap
+
+[INFO] 17:22:07:356 hiloSwap.c/(3358:3358): Se creo la conexion con el Swap
+
+[INFO] 17:29:51:365 hiloSwap.c/(3571:3571): Se creo la conexion con el Swap
+
+[INFO] 17:33:13:298 hiloSwap.c/(3700:3700): Se creo la conexion con el Swap
+
